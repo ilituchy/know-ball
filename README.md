@@ -1,7 +1,7 @@
 # Know Ball
 
-A new under-the-radar player every day, so you can actually know ball. NBA for
-now, with other sports to follow.
+A new under-the-radar player every day, so you can actually know ball. Covers
+the NBA, NFL and MLB.
 
 Each day's page has the player's background, basics, numbers, last five games,
 highlights, and recent news.
@@ -9,12 +9,17 @@ highlights, and recent news.
 ## How it works
 
 1. `.github/workflows/daily.yml` runs every morning.
-2. `knowball/generate.py` rotates through the league's teams, skips players it
-   has already featured and anyone at or above the star cutoff, and needs a
-   Wikipedia article so the page has a real story.
+2. `knowball/generate.py` rotates through each league's teams. It skips players
+   it has already featured, anyone past a career stat cutoff for their position,
+   and anyone whose Wikipedia lead mentions a major honor like the Pro Bowl or
+   an All-Star selection. It also needs a Wikipedia article, so the page has a
+   real story.
 3. The result lands in `data/<sport>/latest.json`, with a dated copy and
    `history.json` beside it.
 4. `ha/know-ball-card.js` reads `latest.json` and renders it in Home Assistant.
+
+Stats vary by position, so a player with none (an offensive lineman, say) gets
+a page without the numbers section.
 
 Sources: ESPN's public JSON endpoints, Wikipedia, and YouTube search. All three
 are unofficial or best-effort. If YouTube can't be read, the page falls back to
@@ -36,7 +41,8 @@ Add `--force` to rebuild a day, or `--date YYYY-MM-DD` to build a specific one.
 
 ## Add a sport
 
-1. Add a row to `knowball/sports.py`.
+1. Add a row to `knowball/sports.py`, with a `StatView` for each kind of player
+   whose stat columns differ.
 2. Add its key to the `sport` matrix in `.github/workflows/daily.yml`.
 3. Use the card with `sport: <key>`.
 

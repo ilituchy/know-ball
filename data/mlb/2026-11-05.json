@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-05",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "5207411",
+    "name": "John Peck",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5207411.png",
+    "jersey": "#18",
+    "position": "Shortstop",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5207411"
+  },
+  "team": {
+    "name": "Detroit Tigers",
+    "abbreviation": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+    "color": "0a2240"
+  },
+  "facts": {
+    "Age": 24,
+    "Height": "6' 0\"",
+    "Weight": "185 lbs",
+    "From": "Moorpark, CA",
+    "College": null,
+    "Draft": null,
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "John Sanford Peck (born July 18, 2002) is an American professional baseball infielder in the Detroit Tigers of Major League Baseball (MLB). He made his MLB debut in 2026."
+      },
+      {
+        "heading": "Lately",
+        "text": "The Detroit Tigers selected Peck in the seventh round of the 2023 Major League Baseball draft. He spent his professional season that year with the Florida Complex League Tigers and Lakeland Flying Tigers. Peck played 2024 with the FCL Tigers, Lakeland and the West Michigan Whitecaps. He started 2025 with West Michigan before being promoted to the Erie SeaWolves. Peck was promoted to Triple-A Toledo Mud Hens in June 2026 but was placed on the injured list two days later. The Tigers purchased Peck's contract on August 31, 2026. He made his major league debut later that day as a defensive replacement in the 8th inning."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/John_Peck_(baseball)",
+    "title": "John Peck (baseball)"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
+      "BB",
+      "SO"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "24",
+          "68",
+          "11",
+          ".162",
+          "0",
+          "7",
+          "9",
+          "16"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "24",
+          "68",
+          "11",
+          ".162",
+          "0",
+          "7",
+          "9",
+          "16"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "PIT",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "4-2",
+      "stats": {
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-25T22:40:00.000+00:00",
+      "opponent": "PIT",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "8-7",
+      "stats": {
+        "AB": "4",
+        "H": "1",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-23T17:10:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "4-2",
+      "stats": {
+        "AB": "2",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-22T22:40:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "3-1",
+      "stats": {
+        "AB": "4",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-21T22:40:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "9-2",
+      "stats": {
+        "AB": "4",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=John+Peck+MLB+highlights",
+    "videos": [
+      {
+        "id": "8ggqMkrIZGA",
+        "title": "Detroit Tigers Prospect 2025: John Peck Opening Day"
+      },
+      {
+        "id": "YtyLZ0v-Xi0",
+        "title": "Tigers #16 ranked prospect John Peck 2026 Preview"
+      },
+      {
+        "id": "m-OZ0QON5o0",
+        "title": "John Peck's two homer game"
+      }
+    ]
+  },
+  "news": []
+}

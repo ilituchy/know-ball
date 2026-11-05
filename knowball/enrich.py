@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 import urllib.parse
 
 from .http import get_json, get_text
@@ -13,10 +14,22 @@ from .http import get_json, get_text
 WIKI = "https://en.wikipedia.org/w/api.php"
 MAX_SECTION_CHARS = 700
 BACKGROUND_SECTIONS = ("early", "high school", "college", "personal")
+SUFFIXES = ("jr", "sr", "ii", "iii", "iv", "v")
 BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
 
-def wikipedia(name: str, keyword: str) -> dict | None:
+def plain(text: str) -> str:
+    """Lowercase without accents, so Garcia matches García."""
+    decomposed = unicodedata.normalize("NFKD", text)
+    return "".join(c for c in decomposed if not unicodedata.combining(c)).lower()
+
+
+def surname(name: str) -> str:
+    words = [w for w in plain(name).split() if w.strip(".") not in SUFFIXES]
+    return words[-1]
+
+
+def wikipedia(name: str, keyword: str, birth_year: str | None = None) -> dict | None:
     """Return the useful sections of the article about this athlete, if any."""
     query = urllib.parse.urlencode(
         {
@@ -29,11 +42,15 @@ def wikipedia(name: str, keyword: str) -> dict | None:
         }
     )
     pages = (get_json(f"{WIKI}?{query}").get("query") or {}).get("pages") or {}
-    last = name.split()[-1].lower()
+    last = surname(name)
     for page in sorted(pages.values(), key=lambda p: p.get("index", 99)):
         desc = (page.get("description") or "").lower()
-        if keyword in desc and last in page.get("title", "").lower():
-            return article(page["pageid"])
+        if keyword not in desc or last not in plain(page.get("title", "")):
+            continue
+        born = re.search(r"born (\d{4})", desc)
+        if born and birth_year and born.group(1) != birth_year:
+            continue  # a different player with the same name
+        return article(page["pageid"])
     return None
 
 
@@ -104,7 +121,7 @@ def parse_youtube_results(page: str, name: str, limit: int = 3) -> list[dict]:
     match = re.search(r"ytInitialData\s*=\s*(\{.*?\});</script>", page, re.S)
     if not match:
         return []
-    last = name.split()[-1].lower()
+    last = surname(name)
     found: list[dict] = []
     seen: set[str] = set()
 
@@ -117,7 +134,7 @@ def parse_youtube_results(page: str, name: str, limit: int = 3) -> list[dict]:
                 vid = video.get("videoId")
                 runs = (video.get("title") or {}).get("runs") or [{}]
                 title = runs[0].get("text", "")
-                if vid and vid not in seen and last in title.lower():
+                if vid and vid not in seen and last in plain(title):
                     seen.add(vid)
                     found.append({"id": vid, "title": title})
                 return

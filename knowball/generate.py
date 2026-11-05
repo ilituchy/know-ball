@@ -31,11 +31,16 @@ def choose(sport: Sport, day: dt.date, used: set[str]) -> tuple[dict, dict, dict
             if player["id"] in used:
                 continue
             ov = espn.overview(sport, player["id"])
-            career = espn.career_value(ov, sport.star_stat)
-            if not picker.is_under_the_radar(career, sport.star_cutoff):
+            view = sport.view_for(espn.stat_labels(ov))
+            if view and not picker.is_under_the_radar(
+                espn.career_value(ov, view), view.star_cutoff
+            ):
                 continue
-            wiki = enrich.wikipedia(player["fullName"], sport.wiki_keyword)
-            if wiki is None:  # no background story means a thin page
+            born = (player.get("dateOfBirth") or "")[:4] or None
+            wiki = enrich.wikipedia(player["fullName"], sport.wiki_keyword, born)
+            if wiki is None or not wiki["sections"]:  # no story means a thin page
+                continue
+            if picker.is_famous(wiki["sections"][0]["text"], sport.fame_words):
                 continue
             return team, player, ov, wiki
     raise RuntimeError("no eligible player found in the whole league")
@@ -46,7 +51,7 @@ def player_news(ov: dict, last_name: str, limit: int = 3) -> list[dict]:
     for item in ov.get("news") or []:
         text = f"{item.get('headline', '')} {item.get('description', '')}"
         href = ((item.get("links") or {}).get("web") or {}).get("href")
-        if href and last_name.lower() in text.lower():
+        if href and last_name in enrich.plain(text):
             out.append({"headline": item.get("headline"), "url": href})
     return out[:limit]
 
@@ -55,6 +60,9 @@ def build(sport: Sport, day: dt.date, used: set[str]) -> dict:
     team, player, ov, wiki = choose(sport, day, used)
     bio = espn.athlete(sport, player["id"])
     name = player["fullName"]
+    view = sport.view_for(espn.stat_labels(ov))
+    season = (bio.get("statsSummary") or {}).get("displayName") or ""
+    college = (player.get("college") or {}).get("name")
     logos = team.get("logos") or [{}]
     return {
         "date": day.isoformat(),
@@ -79,22 +87,18 @@ def build(sport: Sport, day: dt.date, used: set[str]) -> dict:
             "Height": player.get("displayHeight"),
             "Weight": player.get("displayWeight"),
             "From": bio.get("displayBirthPlace"),
-            "College": (player.get("college") or {}).get("name"),
-            "Draft": bio.get("displayDraft") or "Undrafted",
+            "College": college,
+            "Draft": bio.get("displayDraft")
+            or ("Undrafted" if sport.blank_draft_means_undrafted else None),
             "Experience": bio.get("displayExperience"),
         },
         "background": wiki,
-        "stats": {
-            "season_label": (bio.get("statsSummary") or {}).get("displayName"),
-            "labels": list(sport.stats),
-            "season": espn.split_stats(ov, "Regular Season"),
-            "career": espn.split_stats(ov, "Career"),
-        },
+        "stats": espn.stat_table(ov, view, season.split()[0] if season else "This season"),
         "recent_games": espn.recent_games(
-            espn.gamelog(sport, player["id"]), sport.game_stats
+            espn.gamelog(sport, player["id"]), view.games if view else ()
         ),
         "highlights": enrich.highlights(name, sport.label),
-        "news": player_news(ov, player.get("lastName") or name.split()[-1]),
+        "news": player_news(ov, enrich.surname(name)),
     }
 
 

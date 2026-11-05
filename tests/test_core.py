@@ -3,6 +3,7 @@ import json
 import unittest
 
 from knowball import enrich, espn, picker
+from knowball.sports import SPORTS, StatView
 
 DAY = dt.date(2026, 11, 5)
 
@@ -27,24 +28,50 @@ class Picker(unittest.TestCase):
         self.assertTrue(picker.is_under_the_radar(6.4, 14))
         self.assertTrue(picker.is_under_the_radar(None, 14))
         self.assertFalse(picker.is_under_the_radar(14.0, 14))
+        self.assertTrue(picker.is_famous("a two-time pro bowl pick", ("Pro Bowl",)))
+        self.assertFalse(picker.is_famous("a backup guard", ("Pro Bowl",)))
 
 
 class Espn(unittest.TestCase):
+    VIEW = StatView("GP", ("GP", "PTS"), ("PTS",), "PTS", 14)
     OV = {
         "statistics": {
             "labels": ["GP", "PTS"],
-            "names": ["gamesPlayed", "avgPoints"],
             "splits": [
                 {"displayName": "Regular Season", "stats": ["54", "6.4"]},
-                {"displayName": "Career", "stats": ["176", "7.4"]},
+                {"displayName": "Career", "stats": ["176", "1,007.4"]},
             ],
         }
     }
 
-    def test_splits(self):
-        self.assertEqual(espn.split_stats(self.OV, "Career"), {"GP": "176", "PTS": "7.4"})
-        self.assertEqual(espn.career_value(self.OV, "avgPoints"), 7.4)
-        self.assertIsNone(espn.career_value({}, "avgPoints"))
+    def test_table_and_career(self):
+        table = espn.stat_table(self.OV, self.VIEW, "2026-27")
+        self.assertEqual(table["rows"][0], {"name": "2026-27", "values": ["54", "6.4"]})
+        self.assertEqual(espn.career_value(self.OV, self.VIEW), 1007.4)
+        self.assertIsNone(espn.career_value({}, self.VIEW))
+
+    def test_repeated_labels_use_the_first_column(self):
+        labels = ["REC", "YDS", "CAR", "YDS"]
+        self.assertEqual(espn.first(labels, ["10", "95", "3", "12"], "YDS"), "95")
+
+    def test_empty_rows_are_dropped(self):
+        ov = {"statistics": {"labels": ["GP", "PTS"],
+                             "splits": [{"displayName": "Career", "stats": ["-", "0.0"]}]}}
+        self.assertEqual(espn.stat_table(ov, self.VIEW, "2026")["rows"], [])
+
+    def test_baseball_rates(self):
+        bat = ["GP", "AB", "H"]
+        self.assertEqual(espn.derived(bat, ["10", "400", "120"], "AVG"), ".300")
+        pit = ["IP", "ER"]
+        self.assertEqual(espn.derived(pit, ["12.2", "7"], "ERA"), "4.97")
+
+    def test_views_pick_by_position(self):
+        nfl = SPORTS["nfl"]
+        self.assertEqual(nfl.view_for(["CAR", "YDS", "REC"]).key, "CAR")
+        self.assertEqual(nfl.view_for(["REC", "TGTS", "CAR"]).key, "REC")
+        self.assertIsNone(nfl.view_for([]))
+        self.assertEqual(SPORTS["mlb"].view_for(["GP", "GS", "IP"]).key, "GS")
+        self.assertEqual(SPORTS["mlb"].view_for(["GP", "AB", "R"]).key, "AB")
 
     def test_recent_games_skips_preseason_and_sorts_newest_first(self):
         log = {
@@ -97,6 +124,12 @@ class Wikipedia(unittest.TestCase):
 
     def test_trim_ends_on_a_sentence(self):
         self.assertEqual(enrich.trim(["One two. Three four five."], 12), "One two.")
+
+
+class Names(unittest.TestCase):
+    def test_surname_handles_suffixes_and_accents(self):
+        self.assertEqual(enrich.surname("Luis García Jr."), "garcia")
+        self.assertEqual(enrich.surname("Naji Marshall"), "marshall")
 
 
 class YouTube(unittest.TestCase):

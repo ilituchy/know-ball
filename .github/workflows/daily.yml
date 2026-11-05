@@ -19,7 +19,7 @@ jobs:
     strategy:
       max-parallel: 1
       matrix:
-        sport: [nba]
+        sport: [nba, nfl, mlb]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

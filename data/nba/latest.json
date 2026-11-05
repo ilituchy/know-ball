@@ -48,7 +48,6 @@
     "title": "Naji Marshall"
   },
   "stats": {
-    "season_label": "2026-27 regular season stats",
     "labels": [
       "GP",
       "MIN",
@@ -58,34 +57,32 @@
       "FG%",
       "3P%"
     ],
-    "season": {
-      "GP": "5",
-      "MIN": "26.6",
-      "FG%": "50.0",
-      "3P%": "31.6",
-      "FT%": "50.0",
-      "REB": "3.4",
-      "AST": "5.4",
-      "BLK": "0.2",
-      "STL": "1.4",
-      "PF": "2.2",
-      "TO": "2.0",
-      "PTS": "13.6"
-    },
-    "career": {
-      "GP": "378",
-      "MIN": "23.1",
-      "FG%": "47.2",
-      "3P%": "30.0",
-      "FT%": "77.5",
-      "REB": "4.0",
-      "AST": "2.5",
-      "BLK": "0.2",
-      "STL": "0.8",
-      "PF": "1.6",
-      "TO": "1.3",
-      "PTS": "10.1"
-    }
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "5",
+          "26.6",
+          "13.6",
+          "3.4",
+          "5.4",
+          "50.0",
+          "31.6"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "378",
+          "23.1",
+          "10.1",
+          "4.0",
+          "2.5",
+          "47.2",
+          "30.0"
+        ]
+      }
+    ]
   },
   "recent_games": [
     {
@@ -166,8 +163,8 @@
         "title": "Naji Marshall Player Full High Lowlights vs ROCKETS 11 10 2026 NBA PRESEASON Game"
       },
       {
-        "id": "Mxzy76iDVBE",
-        "title": "\"Naji Marshall Floaters | 2024-25 Season Highlights\""
+        "id": "yAhLg2hsQF4",
+        "title": "Naji Marshall (38 Points) Highlights vs. New York Knicks | March 25, 2025"
       }
     ]
   },

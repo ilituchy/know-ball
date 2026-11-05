@@ -24,3 +24,7 @@ def shuffled(roster: list[dict], day: dt.date, sport: str) -> list[dict]:
 def is_under_the_radar(career: float | None, cutoff: float) -> bool:
     """No career number means a rookie, who is unknown by definition."""
     return career is None or career < cutoff
+
+
+def is_famous(lead: str, fame_words: tuple[str, ...]) -> bool:
+    return any(word.lower() in lead.lower() for word in fame_words)

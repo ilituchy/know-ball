@@ -96,11 +96,9 @@ class KnowBallCard extends HTMLElement {
     const facts = Object.entries(d.facts || {}).filter(([, v]) => v !== null && v !== "");
     const stats = d.stats || {};
     const labels = stats.labels || [];
-    const statRow = (name, row) =>
-      row && Object.keys(row).length
-        ? `<tr><td>${esc(name)}</td>${labels.map((l) => `<td>${esc(row[l] ?? "–")}</td>`).join("")}</tr>`
-        : "";
-    const statRows = statRow((stats.season_label || "This season").replace(/ regular season stats$/i, ""), stats.season) + statRow("Career", stats.career);
+    const statRows = (stats.rows || [])
+      .map((r) => `<tr><td>${esc(r.name)}</td>${r.values.map((v) => `<td>${esc(v)}</td>`).join("")}</tr>`)
+      .join("");
     const games = d.recent_games || [];
     const gameLabels = Object.keys(games[0]?.stats || {});
     const highlights = d.highlights || {};
