@@ -17,7 +17,7 @@ const STYLE = `
   ha-card { overflow: hidden; max-width: 880px; margin: 0 auto; }
   .hero { display: flex; gap: 16px; align-items: flex-end; padding: 20px 20px 0;
     border-top: 5px solid var(--kb-team); position: relative; }
-  .eyebrow { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--secondary-text-color); }
+  .eyebrow { padding-right: 48px; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--secondary-text-color); }
   h1 { font-size: clamp(26px, 6vw, 38px); line-height: 1.1; margin: 4px 0; font-weight: 700; color: var(--primary-text-color); }
   .sub { color: var(--secondary-text-color); padding-bottom: 16px; }
   .who { flex: 1; min-width: 0; align-self: center; }
