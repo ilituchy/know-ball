@@ -16,7 +16,8 @@ highlights, and recent news.
    real story.
 3. The result lands in `data/<sport>/latest.json`, with a dated copy and
    `history.json` beside it.
-4. `ha/know-ball-card.js` reads `latest.json` and renders it in Home Assistant.
+4. `ha/know-ball-card.js` reads each league's `latest.json` and renders it in
+   Home Assistant.
 
 Stats vary by position, so a player with none (an offensive lineman, say) gets
 a page without the numbers section.
@@ -44,7 +45,8 @@ Add `--force` to rebuild a day, or `--date YYYY-MM-DD` to build a specific one.
 1. Add a row to `knowball/sports.py`, with a `StatView` for each kind of player
    whose stat columns differ.
 2. Add its key to the `sport` matrix in `.github/workflows/daily.yml`.
-3. Use the card with `sport: <key>`.
+3. Add the key to the card's `sports` list, or to `DEFAULT_SPORTS` in
+   `ha/know-ball-card.js`.
 
 ## Home Assistant
 
@@ -53,5 +55,8 @@ resource `/local/know-ball-card.js?v=N`. Bump `N` after each upload.
 
 ```yaml
 type: custom:know-ball-card
-sport: nba
+sports: [nba, nfl, mlb]
 ```
+
+The card shows a tile per league. Tapping one opens that player's full page, and
+"All leagues" goes back.

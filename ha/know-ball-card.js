@@ -1,7 +1,9 @@
-// Know Ball: Lovelace card that shows today's player from the know-ball repo.
-// Options: sport (default "nba"), url (override the JSON location).
+// Know Ball: Lovelace card showing today's player for each league.
+// Tapping a league's tile opens that player's full page; Back returns to the tiles.
+// Options: sports (default ["nba", "nfl", "mlb"]).
 const BASE = "https://raw.githubusercontent.com/ilituchy/know-ball/main/data";
 const REFRESH_MS = 60 * 60 * 1000;
+const DEFAULT_SPORTS = ["nba", "nfl", "mlb"];
 
 const esc = (v) =>
   String(v ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -15,9 +17,22 @@ const shortDate = (iso) =>
 
 const STYLE = `
   ha-card { overflow: hidden; max-width: 880px; margin: 0 auto; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: 12px; padding: 16px; }
+  .tile { all: unset; box-sizing: border-box; cursor: pointer; display: flex; flex-direction: column; min-width: 0;
+    background: var(--secondary-background-color); border-radius: 10px; overflow: hidden;
+    border-top: 4px solid var(--kb-team); }
+  .tile:hover { filter: brightness(1.12); }
+  .tile:focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
+  .tile img { width: 72%; align-self: center; display: block; margin-top: 8px; }
+  .tile .info { padding: 10px 14px 14px; border-top: 1px solid var(--divider-color); }
+  .tile .name { font-size: 20px; font-weight: 700; line-height: 1.2; margin: 2px 0; color: var(--primary-text-color); }
+  .tile .meta { font-size: 13px; color: var(--secondary-text-color); }
+  .tile.off { cursor: default; padding: 16px; color: var(--secondary-text-color); }
+  .back { all: unset; cursor: pointer; display: inline-block; padding: 12px 20px; font-size: 14px; color: var(--primary-color); }
+  .back:focus-visible { outline: 2px solid var(--primary-color); }
   .hero { display: flex; gap: 16px; align-items: flex-end; padding: 20px 20px 0;
     border-top: 5px solid var(--kb-team); position: relative; }
-  .eyebrow { padding-right: 48px; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--secondary-text-color); }
+  .eyebrow { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--secondary-text-color); }
   h1 { font-size: clamp(26px, 6vw, 38px); line-height: 1.1; margin: 4px 0; font-weight: 700; color: var(--primary-text-color); }
   .sub { color: var(--secondary-text-color); padding-bottom: 16px; }
   .who { flex: 1; min-width: 0; align-self: center; }
@@ -47,14 +62,19 @@ const STYLE = `
   li { padding: 6px 0; }
   a { color: var(--primary-color); }
   .foot { font-size: 12px; color: var(--secondary-text-color); margin-top: 20px; }
-  .msg { padding: 24px; color: var(--secondary-text-color); }
 `;
+
+const teamColor = (d) => (/^[0-9a-f]{6}$/i.test(d.team?.color || "") ? `#${d.team.color}` : "var(--primary-color)");
 
 class KnowBallCard extends HTMLElement {
   setConfig(config) {
-    this._config = { sport: "nba", ...config };
-    this._url = this._config.url || `${BASE}/${this._config.sport}/latest.json`;
-    if (!this.shadowRoot) this.attachShadow({ mode: "open" });
+    this._sports = config.sports || DEFAULT_SPORTS;
+    this._data = {};
+    this._open = null;
+    if (!this.shadowRoot) {
+      this.attachShadow({ mode: "open" });
+      this.shadowRoot.addEventListener("click", (e) => this._onClick(e));
+    }
   }
 
   set hass(_hass) {
@@ -73,26 +93,58 @@ class KnowBallCard extends HTMLElement {
   }
 
   getCardSize() {
-    return 12;
+    return 6;
   }
 
   async _load() {
-    try {
-      const res = await fetch(`${this._url}?t=${Math.floor(Date.now() / REFRESH_MS)}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      this._render(await res.json());
-    } catch (err) {
-      if (!this._rendered) this._message(`Couldn't load today's player (${esc(err.message)}).`);
-    }
+    const stamp = Math.floor(Date.now() / REFRESH_MS);
+    await Promise.all(
+      this._sports.map(async (sport) => {
+        try {
+          const res = await fetch(`${BASE}/${sport}/latest.json?t=${stamp}`);
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          this._data[sport] = await res.json();
+        } catch (err) {
+          // Keep yesterday's page if a refresh fails; a tile says so otherwise.
+          console.warn("know-ball", sport, err);
+        }
+      })
+    );
+    this._draw();
   }
 
-  _message(text) {
-    this.shadowRoot.innerHTML = `<style>${STYLE}</style><ha-card><div class="msg">${text}</div></ha-card>`;
+  _onClick(event) {
+    const target = event.composedPath().find((el) => el.dataset?.open !== undefined || el.dataset?.back !== undefined);
+    if (!target) return;
+    this._open = target.dataset.open ?? null;
+    this._draw();
+    this.scrollIntoView({ block: "start" });
   }
 
-  _render(d) {
-    this._rendered = true;
-    const color = /^[0-9a-f]{6}$/i.test(d.team?.color || "") ? `#${d.team.color}` : "var(--primary-color)";
+  _draw() {
+    const page = this._data[this._open];
+    this.shadowRoot.innerHTML = `<style>${STYLE}</style>${page ? this._detail(page) : this._tiles()}`;
+    this.shadowRoot.querySelector("[data-back]")?.focus();
+  }
+
+  _tiles() {
+    const tiles = this._sports.map((sport) => {
+      const d = this._data[sport];
+      if (!d) return `<div class="tile off">${esc(sport.toUpperCase())}: today's player didn't load.</div>`;
+      return `<button class="tile" data-open="${esc(sport)}" style="--kb-team:${teamColor(d)}"
+          aria-label="${esc(d.league)}: ${esc(d.player?.name)}">
+        ${safeUrl(d.player?.headshot) ? `<img src="${safeUrl(d.player.headshot)}" alt="">` : ""}
+        <div class="info">
+          <div class="eyebrow">${esc(d.league)}</div>
+          <div class="name">${esc(d.player?.name)}</div>
+          <div class="meta">${esc(d.team?.name)} · ${esc(d.player?.position)}</div>
+        </div>
+      </button>`;
+    });
+    return `<ha-card><div class="tiles">${tiles.join("")}</div></ha-card>`;
+  }
+
+  _detail(d) {
     const facts = Object.entries(d.facts || {}).filter(([, v]) => v !== null && v !== "");
     const stats = d.stats || {};
     const labels = stats.labels || [];
@@ -106,13 +158,13 @@ class KnowBallCard extends HTMLElement {
     const news = (d.news || []).filter((n) => safeUrl(n.url));
     const bg = d.background || {};
 
-    this.shadowRoot.innerHTML = `<style>${STYLE}</style>
-      <ha-card style="--kb-team:${color}">
+    return `<ha-card style="--kb-team:${teamColor(d)}">
+        <button class="back" data-back aria-label="Back to all leagues">← All leagues</button>
         <div class="hero">
           ${safeUrl(d.team?.logo) ? `<img class="logo" src="${safeUrl(d.team.logo)}" alt="">` : ""}
           ${safeUrl(d.player?.headshot) ? `<img class="shot" src="${safeUrl(d.player.headshot)}" alt="">` : ""}
           <div class="who">
-            <div class="eyebrow">Know Ball · ${esc(niceDate(d.date))}</div>
+            <div class="eyebrow" style="padding-right:48px">${esc(d.league)} · ${esc(niceDate(d.date))}</div>
             <h1>${esc(d.player?.name)}</h1>
             <div class="sub">${esc(d.team?.name)} · ${esc(d.player?.position)}${d.player?.jersey ? ` · ${esc(d.player.jersey)}` : ""}</div>
           </div>
@@ -146,4 +198,4 @@ class KnowBallCard extends HTMLElement {
 
 if (!customElements.get("know-ball-card")) customElements.define("know-ball-card", KnowBallCard);
 window.customCards = window.customCards || [];
-window.customCards.push({ type: "know-ball-card", name: "Know Ball", description: "A new under-the-radar player every day" });
+window.customCards.push({ type: "know-ball-card", name: "Know Ball", description: "A new under-the-radar player every day, by league" });
