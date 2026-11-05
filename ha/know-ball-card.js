@@ -17,16 +17,28 @@ const shortDate = (iso) =>
 
 const STYLE = `
   ha-card { overflow: hidden; max-width: 880px; margin: 0 auto; }
-  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); gap: 12px; padding: 16px; }
+  ha-card.wide { max-width: 1500px; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); gap: 16px; padding: 16px; }
   .tile { all: unset; box-sizing: border-box; cursor: pointer; display: flex; flex-direction: column; min-width: 0;
     background: var(--secondary-background-color); border-radius: 10px; overflow: hidden;
     border-top: 4px solid var(--kb-team); }
   .tile:hover { filter: brightness(1.12); }
   .tile:focus-visible { outline: 2px solid var(--primary-color); outline-offset: 2px; }
-  .tile img { width: 72%; align-self: center; display: block; margin-top: 8px; }
-  .tile .info { padding: 10px 14px 14px; border-top: 1px solid var(--divider-color); }
-  .tile .name { font-size: 20px; font-weight: 700; line-height: 1.2; margin: 2px 0; color: var(--primary-text-color); }
-  .tile .meta { font-size: 13px; color: var(--secondary-text-color); }
+  .tile img { width: min(82%, 300px); align-self: center; display: block; margin-top: 12px; }
+  .tile .info { flex: 1; display: flex; flex-direction: column; gap: 12px; padding: 14px 18px 18px;
+    border-top: 1px solid var(--divider-color); }
+  .tile .name { font-size: 26px; font-weight: 700; line-height: 1.15; margin: 3px 0; color: var(--primary-text-color); }
+  .tile .meta { font-size: 14px; color: var(--secondary-text-color); }
+  .tile .bio { margin: 0; font-size: 14px; line-height: 1.45; color: var(--primary-text-color);
+    display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4; overflow: hidden; }
+  .tile .mini { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px 12px; margin: 0; }
+  .tile .mini dt { font-size: 11px; color: var(--secondary-text-color); }
+  .tile .mini dd { margin: 0; font-size: 14px; color: var(--primary-text-color); overflow-wrap: anywhere; }
+  .tile .line { margin-top: auto; padding-top: 10px; border-top: 1px solid var(--divider-color); }
+  .tile .season { font-size: 11px; color: var(--secondary-text-color); margin-bottom: 4px; }
+  .tile .nums { display: flex; justify-content: space-between; gap: 8px; font-variant-numeric: tabular-nums; }
+  .tile .nums b { display: block; font-size: 17px; font-weight: 600; color: var(--primary-text-color); }
+  .tile .nums span { font-size: 11px; color: var(--secondary-text-color); }
   .tile.off { cursor: default; padding: 16px; color: var(--secondary-text-color); }
   .back { all: unset; cursor: pointer; display: inline-block; padding: 12px 20px; font-size: 14px; color: var(--primary-color); }
   .back:focus-visible { outline: 2px solid var(--primary-color); }
@@ -63,6 +75,14 @@ const STYLE = `
   a { color: var(--primary-color); }
   .foot { font-size: 12px; color: var(--secondary-text-color); margin-top: 20px; }
 `;
+
+// Wikipedia's first sentence is mostly name and team, which the tile already shows.
+const teaser = (d) => {
+  const text = d.background?.sections?.[0]?.text || "";
+  return text.replace(/^.{40,}?[a-z)]\. (?=[A-Z])/, "") || text;
+};
+const TILE_FACTS = ["Age", "Height", "From", "College", "Draft"];
+const TILE_STATS = 5;
 
 const teamColor = (d) => (/^[0-9a-f]{6}$/i.test(d.team?.color || "") ? `#${d.team.color}` : "var(--primary-color)");
 
@@ -136,12 +156,26 @@ class KnowBallCard extends HTMLElement {
         ${safeUrl(d.player?.headshot) ? `<img src="${safeUrl(d.player.headshot)}" alt="">` : ""}
         <div class="info">
           <div class="eyebrow">${esc(d.league)}</div>
-          <div class="name">${esc(d.player?.name)}</div>
-          <div class="meta">${esc(d.team?.name)} · ${esc(d.player?.position)}</div>
+          <div>
+            <div class="name">${esc(d.player?.name)}</div>
+            <div class="meta">${esc(d.team?.name)} · ${esc(d.player?.position)}</div>
+          </div>
+          ${teaser(d) ? `<p class="bio">${esc(teaser(d))}</p>` : ""}
+          <dl class="mini">${TILE_FACTS.filter((k) => d.facts?.[k]).map((k) => `<div><dt>${esc(k)}</dt><dd>${esc(d.facts[k])}</dd></div>`).join("")}</dl>
+          ${this._numbers(d)}
         </div>
       </button>`;
     });
-    return `<ha-card><div class="tiles">${tiles.join("")}</div></ha-card>`;
+    return `<ha-card class="wide"><div class="tiles">${tiles.join("")}</div></ha-card>`;
+  }
+
+  _numbers(d) {
+    const row = d.stats?.rows?.[0];
+    if (!row) return "";
+    const cells = (d.stats.labels || [])
+      .slice(0, TILE_STATS)
+      .map((label, i) => `<div><b>${esc(row.values[i])}</b><span>${esc(label)}</span></div>`);
+    return `<div class="line"><div class="season">${esc(row.name)}</div><div class="nums">${cells.join("")}</div></div>`;
   }
 
   _detail(d) {
