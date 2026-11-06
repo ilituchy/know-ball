@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-06",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "31048",
+    "name": "Anthony Gose",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31048.png",
+    "jersey": "#34",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/31048"
+  },
+  "team": {
+    "name": "Kansas City Royals",
+    "abbreviation": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+    "color": "004687"
+  },
+  "facts": {
+    "Age": 36,
+    "Height": "6' 0\"",
+    "Weight": "200 lbs",
+    "From": "Bellflower, CA",
+    "College": null,
+    "Draft": "2008: Rd 2, Pk 51 (PHI)",
+    "Experience": "9th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Anthony Robert Gose (; born August 10, 1990) is an American professional baseball pitcher and outfielder for the Kansas City Royals of Major League Baseball (MLB). He has previously played in MLB for the Toronto Blue Jays, Detroit Tigers, and Cleveland Guardians. Originally an outfielder, Gose transitioned from a center fielder to a pitcher, following the 2016 season. Pitching for the United States national team, he won a silver medal at the 2020 Summer Olympics and bronze medal at the 2024 WBSCPremier12."
+      },
+      {
+        "heading": "Early life",
+        "text": "Gose attended Bellflower High School in Bellflower, California. In his senior year, he had a .443 batting average, a .618 on-base percentage, and 31 stolen bases for the school's baseball team. He pitched for the team as well, throwing as fast as 97 miles per hour (156 km/h). Gose also competed in track and field. He ran the 100 and 200 meter races, and the 4 × 100 and 4 × 400 meter relays. He also attended the Major League Baseball Urban Youth Academy in Compton, California. He received a scholarship to play college baseball for the Arizona Wildcats."
+      },
+      {
+        "heading": "Lately",
+        "text": "On November 14, 2025, Gose signed with the Leones de Yucatán of the Mexican League. Gose made six appearances for Yucatán during the 2026 campaign, recording 15 strikeouts across 7+2⁄3 scoreless innings of relief. On April 27, 2026, Gose signed a minor league contract with the Kansas City Royals. In 39 appearances for the Triple–A Omaha Storm Chasers, he compiled a 2–3 record and 4.89 ERA with 58 strikeouts and one save over 46 innings of work. On August 27, the Royals selected Gose's contract, adding him to their active roster."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Anthony_Gose",
+    "title": "Anthony Gose"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "14",
+          "0",
+          "13.2",
+          "0.66",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "45",
+          "0",
+          "45.2",
+          "3.55",
+          "19",
+          "48"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-26T23:10:00.000+00:00",
+      "opponent": "CLE",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "11-5",
+      "stats": {
+        "IP": "0.2",
+        "H": "2",
+        "ER": "1",
+        "K": "0"
+      }
+    },
+    {
+      "date": "2026-09-24T18:10:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "9-1",
+      "stats": {
+        "IP": "1.2",
+        "H": "1",
+        "ER": "0",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-09-23T23:40:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "5-4",
+      "stats": {
+        "IP": "1.2",
+        "H": "0",
+        "ER": "0",
+        "K": "0"
+      }
+    },
+    {
+      "date": "2026-09-20T17:35:00.000+00:00",
+      "opponent": "PIT",
+      "at_vs": "@",
+      "result": "L",
+      "score": "4-3",
+      "stats": {
+        "IP": "0.1",
+        "H": "0",
+        "ER": "0",
+        "K": "0"
+      }
+    },
+    {
+      "date": "2026-09-18T22:40:00.000+00:00",
+      "opponent": "PIT",
+      "at_vs": "@",
+      "result": "L",
+      "score": "8-5",
+      "stats": {
+        "IP": "1.0",
+        "H": "2",
+        "ER": "0",
+        "K": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Anthony+Gose+MLB+highlights",
+    "videos": [
+      {
+        "id": "Qp6hGnBtcfc",
+        "title": "Anthony Gose 2026 MLB Highlights!"
+      },
+      {
+        "id": "v29TXb185g4",
+        "title": "KC@DET: Gose scores the tying run in the 7th"
+      },
+      {
+        "id": "pUgKQLzJ3Uw",
+        "title": "Former outfielder hits 100 MPH (!!) in pitching debut!! (Anthony Gose switched to pitcher in 2017)"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Cleveland Guardians designate reliever Barlow for assignment",
+      "url": "https://www.espn.com/mlb/story/_/id/41180313/cleveland-guardians-designate-reliever-barlow-assignment"
+    },
+    {
+      "headline": "Cleveland Guardians place LHP Anthony Gose on IL, activate RHP James Karinchak",
+      "url": "https://www.espn.com/mlb/story/_/id/34189035/cleveland-guardians-place-lhp-anthony-gose-il-activate-rhp-james-karinchak"
+    },
+    {
+      "headline": "Anthony Gose, 31, former outfielder converted to reliever, flashes 100 mph heat for Cleveland Indians, fans Salvador Perez",
+      "url": "https://www.espn.com/mlb/story/_/id/32245461/anthony-gose-31-formerly-outfielder-converted-reliever-called-minors-cleveland-indians"
+    }
+  ]
+}
