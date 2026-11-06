@@ -1,165 +1,78 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4249739",
-    "name": "Jack Gibbens",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249739.png",
-    "jersey": "#50",
-    "position": "Linebacker",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4249739/jack-gibbens"
+    "id": "5150136",
+    "name": "Max Iheanachor",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5150136.png",
+    "jersey": "#71",
+    "position": "Offensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/5150136/max-iheanachor"
   },
   "team": {
-    "name": "Arizona Cardinals",
-    "abbreviation": "ARI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-    "color": "a40227"
+    "name": "Pittsburgh Steelers",
+    "abbreviation": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "color": "000000"
   },
   "facts": {
-    "Age": 27,
-    "Height": "6' 4\"",
-    "Weight": "242 lbs",
-    "From": "Bulverde, TX",
-    "College": "Minnesota",
-    "Draft": "Undrafted",
-    "Experience": "4th Season"
+    "Age": 23,
+    "Height": "6' 6\"",
+    "Weight": "321 lbs",
+    "From": "Los Angeles, CA",
+    "College": "Arizona State",
+    "Draft": "2026: Rd 1, Pk 21 (PIT)",
+    "Experience": "Rookie"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Jack Gibbens (born November 24, 1998) is an American professional football inside linebacker for the Arizona Cardinals of the National Football League (NFL). He played college football for the Abilene Christian Wildcats and Minnesota Golden Gophers, and was signed by the Tennessee Titans as an undrafted free agent in 2022."
+        "text": "Maxwell Iheanachor (ee-HAW-nuh-chore; born October 19, 2003) is a Nigerian-American professional football offensive tackle for the Pittsburgh Steelers of the National Football League (NFL). He played college football for East Los Angeles College and the Arizona State Sun Devils and was selected by the Steelers in the first round of the 2026 NFL draft."
       },
       {
         "heading": "Early life",
-        "text": "Gibbens was born on November 24, 1998, in Bulverde, Texas. He attended Smithson Valley High School and graduated in 2017, before joining Abilene Christian University where he played football from 2017–2020. As a freshman at Abilene Christian, Gibbens appeared in ten games as a linebacker and posted 27 tackles and an interception. He played in all 11 matches the following year and totaled 78 tackles, placing top-50 in the FCS in tackles-per-game. In 2019, as a junior, Gibbens recorded 104 tackles, 2.5 sacks and two interceptions. As a senior in 2020, he recorded 49 tackles while only playing in six games. Gibbens transferred to the University of Minnesota for his final year of eligibility."
+        "text": "Iheanachor was born in Nigeria, and moved to the United States at the age of 13. He attended King/Drew Magnet High School of Medicine and Science, where he played soccer and basketball. Despite never playing football, he enrolled at East Los Angeles College to play college football."
+      },
+      {
+        "heading": "College career",
+        "text": "Iheanachor spent his first two seasons at East Los Angeles College from 2021 to 2022. Iheanachor initially played tight end before switching to offensive lineman. In 2022, Iheanachor started at both left and right tackle. On3 Sports rated Iheanachor as the No. 16 overall JUCO prospect in the class of 2023. In February 2023, Iheanachor signed to play college football for the Arizona State Sun Devils. He made his first collegiate start in week three of the 2023 season versus Fresno State. That season, Iheanachor appeared in six games with five starts. Iheanachor became a full-time starter in 2024, making all 14 starts on the Sun Devils' offensive line."
       },
       {
         "heading": "Lately",
-        "text": "On March 19, 2025, Gibbens signed with the New England Patriots. In the regular season, he recorded one sack, 81 total tackles, four passes defended, one forced fumble, and one fumble recovery. Gibbens logged four total tackles in Super Bowl LX, a 29–13 loss to the Seattle Seahawks. On March 16, 2026, Gibbens signed a two-year, $7.5 million contract with the Arizona Cardinals."
+        "text": "Iheanachor was selected by the Pittsburgh Steelers in the first round, 21st overall, of the 2026 NFL draft. He made his first NFL start on September 27, 2026."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Jack_Gibbens",
-    "title": "Jack Gibbens"
+    "url": "https://en.wikipedia.org/wiki/Max_Iheanachor",
+    "title": "Max Iheanachor"
   },
   "stats": {
-    "labels": [
-      "TOT",
-      "SOLO",
-      "SACK",
-      "FF",
-      "INT",
-      "PD"
-    ],
-    "rows": [
-      {
-        "name": "2026",
-        "values": [
-          "60",
-          "24",
-          "0.5",
-          "0",
-          "0",
-          "1"
-        ]
-      },
-      {
-        "name": "Career",
-        "values": [
-          "308",
-          "160",
-          "3",
-          "1",
-          "1",
-          "9"
-        ]
-      }
-    ]
+    "labels": [],
+    "rows": []
   },
-  "recent_games": [
-    {
-      "date": "2026-11-01T18:00:00.000+00:00",
-      "opponent": "DAL",
-      "at_vs": "@",
-      "result": "W",
-      "score": "33-30 OT",
-      "stats": {
-        "TOT": "11",
-        "SOLO": "3",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-25T20:05:00.000+00:00",
-      "opponent": "DEN",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "30-16",
-      "stats": {
-        "TOT": "7",
-        "SOLO": "4",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-18T20:05:00.000+00:00",
-      "opponent": "LAR",
-      "at_vs": "@",
-      "result": "W",
-      "score": "18-16",
-      "stats": {
-        "TOT": "7",
-        "SOLO": "4",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-11T20:25:00.000+00:00",
-      "opponent": "DET",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "45-21",
-      "stats": {
-        "TOT": "3",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-04T17:00:00.000+00:00",
-      "opponent": "NYG",
-      "at_vs": "@",
-      "result": "L",
-      "score": "36-24",
-      "stats": {
-        "TOT": "8",
-        "SOLO": "3",
-        "SACK": "0",
-        "INT": "0"
-      }
-    }
-  ],
+  "recent_games": [],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Jack+Gibbens+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Max+Iheanachor+NFL+highlights",
     "videos": [
       {
-        "id": "HGT0nqi0eeY",
-        "title": "Jack Gibbens (2025) Highlights - Arizona Cardinals | Free Agency 2026"
+        "id": "ori-vxT9WtY",
+        "title": "Max Iheanachor College Football Highlights💥| Arizona State Tackle | NFL Draft Film"
       },
       {
-        "id": "oCPOGneT0Ck",
-        "title": "Jack Gibbens - Highlights - New England Patriots vs Chargers - NFL Wild Card Playoffs 2025"
+        "id": "j8qWBQrGqek",
+        "title": "Max Iheanachor's 2026 NFL Scouting Combine Workout"
       },
       {
-        "id": "9RtJVF3Dpns",
-        "title": "Jack Gibbens & Harold Landry III - Sacks - New England Patriots vs Buffalo Bills - NFL Week 15 2025"
+        "id": "yAQLOz2mDgs",
+        "title": "Max Iheanachor Right Tackle Highlights "
       }
     ]
   },
-  "news": []
+  "news": [
+    {
+      "headline": "Steelers select Max Iheanachor with 21st pick in NFL draft",
+      "url": "https://www.espn.com/nfl/story/_/id/48576906/steelers-select-max-iheanachor-21st-pick-nfl-draft"
+    }
+  ]
 }

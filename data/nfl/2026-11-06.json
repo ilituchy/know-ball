@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-06",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "5150136",
+    "name": "Max Iheanachor",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5150136.png",
+    "jersey": "#71",
+    "position": "Offensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/5150136/max-iheanachor"
+  },
+  "team": {
+    "name": "Pittsburgh Steelers",
+    "abbreviation": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "color": "000000"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 6\"",
+    "Weight": "321 lbs",
+    "From": "Los Angeles, CA",
+    "College": "Arizona State",
+    "Draft": "2026: Rd 1, Pk 21 (PIT)",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Maxwell Iheanachor (ee-HAW-nuh-chore; born October 19, 2003) is a Nigerian-American professional football offensive tackle for the Pittsburgh Steelers of the National Football League (NFL). He played college football for East Los Angeles College and the Arizona State Sun Devils and was selected by the Steelers in the first round of the 2026 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Iheanachor was born in Nigeria, and moved to the United States at the age of 13. He attended King/Drew Magnet High School of Medicine and Science, where he played soccer and basketball. Despite never playing football, he enrolled at East Los Angeles College to play college football."
+      },
+      {
+        "heading": "College career",
+        "text": "Iheanachor spent his first two seasons at East Los Angeles College from 2021 to 2022. Iheanachor initially played tight end before switching to offensive lineman. In 2022, Iheanachor started at both left and right tackle. On3 Sports rated Iheanachor as the No. 16 overall JUCO prospect in the class of 2023. In February 2023, Iheanachor signed to play college football for the Arizona State Sun Devils. He made his first collegiate start in week three of the 2023 season versus Fresno State. That season, Iheanachor appeared in six games with five starts. Iheanachor became a full-time starter in 2024, making all 14 starts on the Sun Devils' offensive line."
+      },
+      {
+        "heading": "Lately",
+        "text": "Iheanachor was selected by the Pittsburgh Steelers in the first round, 21st overall, of the 2026 NFL draft. He made his first NFL start on September 27, 2026."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Max_Iheanachor",
+    "title": "Max Iheanachor"
+  },
+  "stats": {
+    "labels": [],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Max+Iheanachor+NFL+highlights",
+    "videos": [
+      {
+        "id": "ori-vxT9WtY",
+        "title": "Max Iheanachor College Football Highlights💥| Arizona State Tackle | NFL Draft Film"
+      },
+      {
+        "id": "j8qWBQrGqek",
+        "title": "Max Iheanachor's 2026 NFL Scouting Combine Workout"
+      },
+      {
+        "id": "yAQLOz2mDgs",
+        "title": "Max Iheanachor Right Tackle Highlights "
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Steelers select Max Iheanachor with 21st pick in NFL draft",
+      "url": "https://www.espn.com/nfl/story/_/id/48576906/steelers-select-max-iheanachor-21st-pick-nfl-draft"
+    }
+  ]
+}
