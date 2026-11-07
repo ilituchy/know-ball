@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-07",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "4315203",
+    "name": "Shane Drohan",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png",
+    "jersey": "#55",
+    "position": "Starting Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4315203"
+  },
+  "team": {
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
+    "color": "13294b"
+  },
+  "facts": {
+    "Age": 27,
+    "Height": "6' 2\"",
+    "Weight": "202 lbs",
+    "From": "Fort Lauderdale, FL",
+    "College": "Florida State",
+    "Draft": "2020: Rd 5, Pk 148 (BOS)",
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Shane Liam Drohan (born January 7, 1999) is an American professional baseball pitcher for the Milwaukee Brewers of Major League Baseball (MLB). He made his MLB debut in 2026."
+      },
+      {
+        "heading": "Lately",
+        "text": "In 2025, Drohan made 15 appearances (14 starts) split between the High-A Greenville Drive and Triple-A Worcester Red Sox, for whom he posted a 5-2 record and 3.00 ERA with 77 strikeouts over 54 innings of work. On November 18, 2025, the Red Sox added Drohan to their 40-man roster to protect him from the Rule 5 draft. On February 9, 2026, the Red Sox traded Drohan, Kyle Harrison, and David Hamilton to the Milwaukee Brewers in exchange for Caleb Durbin, Andruw Monasterio, Anthony Seigler, and a compensation round draft pick in the 2026 MLB draft. He was optioned to the Triple-A Nashville Sounds to begin the regular season."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Shane_Drohan",
+    "title": "Shane Drohan"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "33",
+          "19",
+          "124.2",
+          "4.19",
+          "44",
+          "125"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "33",
+          "19",
+          "124.2",
+          "4.19",
+          "44",
+          "125"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-10-28T00:00:00.000+00:00",
+      "opponent": "TB",
+      "at_vs": "@",
+      "result": "L",
+      "score": "4-3 F/12",
+      "stats": {
+        "IP": "0.0",
+        "H": "4",
+        "ER": "1",
+        "K": "0"
+      }
+    },
+    {
+      "date": "2026-10-16T00:00:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "@",
+      "result": "W",
+      "score": "6-4",
+      "stats": {
+        "IP": "1.0",
+        "H": "1",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "STL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "6-4",
+      "stats": {
+        "IP": "1.2",
+        "H": "0",
+        "ER": "0",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-24T22:05:00.000+00:00",
+      "opponent": "PHI",
+      "at_vs": "@",
+      "result": "W",
+      "score": "5-1",
+      "stats": {
+        "IP": "2.2",
+        "H": "3",
+        "ER": "1",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-18T23:05:00.000+00:00",
+      "opponent": "BAL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "6-5 F/10",
+      "stats": {
+        "IP": "1.2",
+        "H": "0",
+        "ER": "0",
+        "K": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Shane+Drohan+MLB+highlights",
+    "videos": [
+      {
+        "id": "Lo-dtxMp804",
+        "title": "Shane Drohan 2023 Highlights!"
+      },
+      {
+        "id": "M2SqkUgcQnk",
+        "title": "Shane Drohan's Metrics Are SCARY (Caleb Durbin Trade Return)"
+      },
+      {
+        "id": "dOJMRcTu8MA",
+        "title": "Shane Drohan talks about his delivery | MLB Central"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Fantasy baseball lineup advice for Wednesday: Drohan scratched for Brewers",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/49465365/fantasy-baseball-pitcher-rankings-lineup-advice-tips-mlb-daily-notes-july-29-games"
+    },
+    {
+      "headline": "Fantasy baseball lineup advice for Friday: Stream Drohan at home vs. Rockies",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/49425944/fantasy-baseball-pitcher-rankings-lineup-advice-tips-mlb-daily-notes-july-24-games"
+    }
+  ]
+}

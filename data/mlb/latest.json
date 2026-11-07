@@ -1,47 +1,43 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "31048",
-    "name": "Anthony Gose",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/31048.png",
-    "jersey": "#34",
-    "position": "Relief Pitcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/31048"
+    "id": "4315203",
+    "name": "Shane Drohan",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4315203.png",
+    "jersey": "#55",
+    "position": "Starting Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4315203"
   },
   "team": {
-    "name": "Kansas City Royals",
-    "abbreviation": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
-    "color": "004687"
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
+    "color": "13294b"
   },
   "facts": {
-    "Age": 36,
-    "Height": "6' 0\"",
-    "Weight": "200 lbs",
-    "From": "Bellflower, CA",
-    "College": null,
-    "Draft": "2008: Rd 2, Pk 51 (PHI)",
-    "Experience": "9th Season"
+    "Age": 27,
+    "Height": "6' 2\"",
+    "Weight": "202 lbs",
+    "From": "Fort Lauderdale, FL",
+    "College": "Florida State",
+    "Draft": "2020: Rd 5, Pk 148 (BOS)",
+    "Experience": "1st Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Anthony Robert Gose (; born August 10, 1990) is an American professional baseball pitcher and outfielder for the Kansas City Royals of Major League Baseball (MLB). He has previously played in MLB for the Toronto Blue Jays, Detroit Tigers, and Cleveland Guardians. Originally an outfielder, Gose transitioned from a center fielder to a pitcher, following the 2016 season. Pitching for the United States national team, he won a silver medal at the 2020 Summer Olympics and bronze medal at the 2024 WBSCPremier12."
-      },
-      {
-        "heading": "Early life",
-        "text": "Gose attended Bellflower High School in Bellflower, California. In his senior year, he had a .443 batting average, a .618 on-base percentage, and 31 stolen bases for the school's baseball team. He pitched for the team as well, throwing as fast as 97 miles per hour (156 km/h). Gose also competed in track and field. He ran the 100 and 200 meter races, and the 4 × 100 and 4 × 400 meter relays. He also attended the Major League Baseball Urban Youth Academy in Compton, California. He received a scholarship to play college baseball for the Arizona Wildcats."
+        "text": "Shane Liam Drohan (born January 7, 1999) is an American professional baseball pitcher for the Milwaukee Brewers of Major League Baseball (MLB). He made his MLB debut in 2026."
       },
       {
         "heading": "Lately",
-        "text": "On November 14, 2025, Gose signed with the Leones de Yucatán of the Mexican League. Gose made six appearances for Yucatán during the 2026 campaign, recording 15 strikeouts across 7+2⁄3 scoreless innings of relief. On April 27, 2026, Gose signed a minor league contract with the Kansas City Royals. In 39 appearances for the Triple–A Omaha Storm Chasers, he compiled a 2–3 record and 4.89 ERA with 58 strikeouts and one save over 46 innings of work. On August 27, the Royals selected Gose's contract, adding him to their active roster."
+        "text": "In 2025, Drohan made 15 appearances (14 starts) split between the High-A Greenville Drive and Triple-A Worcester Red Sox, for whom he posted a 5-2 record and 3.00 ERA with 77 strikeouts over 54 innings of work. On November 18, 2025, the Red Sox added Drohan to their 40-man roster to protect him from the Rule 5 draft. On February 9, 2026, the Red Sox traded Drohan, Kyle Harrison, and David Hamilton to the Milwaukee Brewers in exchange for Caleb Durbin, Andruw Monasterio, Anthony Seigler, and a compensation round draft pick in the 2026 MLB draft. He was optioned to the Triple-A Nashville Sounds to begin the regular season."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Anthony_Gose",
-    "title": "Anthony Gose"
+    "url": "https://en.wikipedia.org/wiki/Shane_Drohan",
+    "title": "Shane Drohan"
   },
   "stats": {
     "labels": [
@@ -56,123 +52,119 @@
       {
         "name": "2026",
         "values": [
-          "14",
-          "0",
-          "13.2",
-          "0.66",
-          "2",
-          "7"
+          "33",
+          "19",
+          "124.2",
+          "4.19",
+          "44",
+          "125"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "45",
-          "0",
-          "45.2",
-          "3.55",
+          "33",
           "19",
-          "48"
+          "124.2",
+          "4.19",
+          "44",
+          "125"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-26T23:10:00.000+00:00",
-      "opponent": "CLE",
-      "at_vs": "vs",
+      "date": "2026-10-28T00:00:00.000+00:00",
+      "opponent": "TB",
+      "at_vs": "@",
       "result": "L",
-      "score": "11-5",
+      "score": "4-3 F/12",
       "stats": {
-        "IP": "0.2",
-        "H": "2",
+        "IP": "0.0",
+        "H": "4",
         "ER": "1",
         "K": "0"
       }
     },
     {
-      "date": "2026-09-24T18:10:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "9-1",
-      "stats": {
-        "IP": "1.2",
-        "H": "1",
-        "ER": "0",
-        "K": "3"
-      }
-    },
-    {
-      "date": "2026-09-23T23:40:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "vs",
+      "date": "2026-10-16T00:00:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "@",
       "result": "W",
-      "score": "5-4",
-      "stats": {
-        "IP": "1.2",
-        "H": "0",
-        "ER": "0",
-        "K": "0"
-      }
-    },
-    {
-      "date": "2026-09-20T17:35:00.000+00:00",
-      "opponent": "PIT",
-      "at_vs": "@",
-      "result": "L",
-      "score": "4-3",
-      "stats": {
-        "IP": "0.1",
-        "H": "0",
-        "ER": "0",
-        "K": "0"
-      }
-    },
-    {
-      "date": "2026-09-18T22:40:00.000+00:00",
-      "opponent": "PIT",
-      "at_vs": "@",
-      "result": "L",
-      "score": "8-5",
+      "score": "6-4",
       "stats": {
         "IP": "1.0",
-        "H": "2",
+        "H": "1",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "STL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "6-4",
+      "stats": {
+        "IP": "1.2",
+        "H": "0",
+        "ER": "0",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-24T22:05:00.000+00:00",
+      "opponent": "PHI",
+      "at_vs": "@",
+      "result": "W",
+      "score": "5-1",
+      "stats": {
+        "IP": "2.2",
+        "H": "3",
+        "ER": "1",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-18T23:05:00.000+00:00",
+      "opponent": "BAL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "6-5 F/10",
+      "stats": {
+        "IP": "1.2",
+        "H": "0",
         "ER": "0",
         "K": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Anthony+Gose+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Shane+Drohan+MLB+highlights",
     "videos": [
       {
-        "id": "Qp6hGnBtcfc",
-        "title": "Anthony Gose 2026 MLB Highlights!"
+        "id": "Lo-dtxMp804",
+        "title": "Shane Drohan 2023 Highlights!"
       },
       {
-        "id": "v29TXb185g4",
-        "title": "KC@DET: Gose scores the tying run in the 7th"
+        "id": "M2SqkUgcQnk",
+        "title": "Shane Drohan's Metrics Are SCARY (Caleb Durbin Trade Return)"
       },
       {
-        "id": "pUgKQLzJ3Uw",
-        "title": "Former outfielder hits 100 MPH (!!) in pitching debut!! (Anthony Gose switched to pitcher in 2017)"
+        "id": "dOJMRcTu8MA",
+        "title": "Shane Drohan talks about his delivery | MLB Central"
       }
     ]
   },
   "news": [
     {
-      "headline": "Cleveland Guardians designate reliever Barlow for assignment",
-      "url": "https://www.espn.com/mlb/story/_/id/41180313/cleveland-guardians-designate-reliever-barlow-assignment"
+      "headline": "Fantasy baseball lineup advice for Wednesday: Drohan scratched for Brewers",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/49465365/fantasy-baseball-pitcher-rankings-lineup-advice-tips-mlb-daily-notes-july-29-games"
     },
     {
-      "headline": "Cleveland Guardians place LHP Anthony Gose on IL, activate RHP James Karinchak",
-      "url": "https://www.espn.com/mlb/story/_/id/34189035/cleveland-guardians-place-lhp-anthony-gose-il-activate-rhp-james-karinchak"
-    },
-    {
-      "headline": "Anthony Gose, 31, former outfielder converted to reliever, flashes 100 mph heat for Cleveland Indians, fans Salvador Perez",
-      "url": "https://www.espn.com/mlb/story/_/id/32245461/anthony-gose-31-formerly-outfielder-converted-reliever-called-minors-cleveland-indians"
+      "headline": "Fantasy baseball lineup advice for Friday: Stream Drohan at home vs. Rockies",
+      "url": "https://www.espn.com/fantasy/baseball/story/_/id/49425944/fantasy-baseball-pitcher-rankings-lineup-advice-tips-mlb-daily-notes-july-24-games"
     }
   ]
 }
