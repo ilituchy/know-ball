@@ -1,55 +1,47 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "4397882",
-    "name": "Tolu Smith",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397882.png",
-    "jersey": "#35",
+    "id": "4997536",
+    "name": "Gui Santos",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4997536.png",
+    "jersey": "#15",
     "position": "Forward",
-    "espn_url": "https://www.espn.com/nba/player/_/id/4397882/tolu-smith"
+    "espn_url": "https://www.espn.com/nba/player/_/id/4997536/gui-santos"
   },
   "team": {
-    "name": "Detroit Pistons",
-    "abbreviation": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-    "color": "1d428a"
+    "name": "Golden State Warriors",
+    "abbreviation": "GS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "color": "fdb927"
   },
   "facts": {
-    "Age": 26,
-    "Height": "6' 11\"",
-    "Weight": "250 lbs",
-    "From": "Bay Saint Louis, MS",
-    "College": "Mississippi State",
-    "Draft": "Undrafted",
-    "Experience": "3rd Season"
+    "Age": 24,
+    "Height": "6' 7\"",
+    "Weight": "185 lbs",
+    "From": "Brasilia, Brazil",
+    "College": null,
+    "Draft": "2022: Rd 2, Pk 55 (GS)",
+    "Experience": "4th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Galen Edward Mitchell \"Tolu\" Smith III (born July 26, 2000) is an American professional basketball player for the Detroit Pistons of the National Basketball Association (NBA). He played college basketball for the Western Kentucky Hilltoppers and Mississippi State Bulldogs."
-      },
-      {
-        "heading": "High school career",
-        "text": "Smith was raised in Bay St. Louis, Mississippi, and played basketball at Bay High School. He moved with his family to Hawaii in 2017 and enrolled at Kahuku High & Intermediate School in Kahuku for his senior season. He was selected as the Honolulu Star-Advertiser All-State player of the year in 2018."
-      },
-      {
-        "heading": "College career",
-        "text": "Smith played his freshman season for the Western Kentucky Hilltoppers and averaged 3.3 points and 2.6 rebounds per game. He elected to transfer at the end of the season to join his home state Mississippi State Bulldogs. Smith sat out the 2019–20 season due to National Collegiate Athletic Association (NCAA) transfer rules. Smith appeared in 30 games during his sophomore season but only started 20 during his junior season as he battled multiple injuries. He returned to full health for his senior season in 2022–23 and started all 34 games. Smith averaged 15.7 points with a league-leading 57.2% field goal percentage to earn first-team All-Southeastern Conference (SEC) honors."
+        "text": "Guilherme Carvalho dos Santos (born 22 June 2002) is a Brazilian professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
       },
       {
         "heading": "Lately",
-        "text": "After going undrafted in the 2024 NBA draft, Smith joined the Detroit Pistons for the 2024 NBA Summer League and on September 17, 2024, he signed with the team. However, he was waived on October 17 and on October 29, he joined the Motor City Cruise. On January 6, 2025, he signed a two-way contract with the Pistons. On April 13, Smith made his NBA debut against the Milwaukee Bucks in the final game of the regular season and scored 14 points with 8 rebounds. He became the second Hawaii high school graduate to appear in an NBA game after Red Rocha who last played in 1957. On April 7, 2026, the Pistons signed Smith to a two-year, standard contract."
+        "text": "On 15 January 2025, Santos made his first career start, tallying five points, three assists, and seven rebounds in a 116–115 victory over the Minnesota Timberwolves. He made 52 appearances (including two starts) for the Warriors during the 2024–25 NBA season, recording averages of 4.1 points, 3.1 rebounds, and 1.4 assists. On 29 June 2025, the Warriors exercised the team option for Santos. On 28 February 2026, Santos signed a three-year, $15 million contract extension with the Warriors. On 7 March, he recorded a career-high 22 points and 11 rebounds in a 97–104 loss to the Oklahoma City Thunder."
       },
       {
         "heading": "Personal life",
-        "text": "Smith was born to an African-American father and Samoan mother. His father, Galen, worked as a computer specialist for the Naval Oceanographic Office, and previously played college basketball in the United States Virgin Islands. Smith's mother, Shannel, played basketball for the South Alabama Jaguars. His older brother, Galen Jr., played basketball for the Xavier Gold Rush. Smith's nickname, \"Tolu\", means \"three\" in Samoan as he was the third Galen in his family. He received his initials, G.E.M.S., because his parents considered him and his brother to be their \"gems\"."
+        "text": "Santos' father, Deivisson, is a former professional basketball player who played five seasons in the NBB. His mother, Lucineide, was also a basketball player."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Tolu_Smith",
-    "title": "Tolu Smith"
+    "url": "https://en.wikipedia.org/wiki/Gui_Santos",
+    "title": "Gui Santos"
   },
   "stats": {
     "labels": [
@@ -66,124 +58,124 @@
         "name": "2026-27",
         "values": [
           "7",
-          "3.9",
-          "0.9",
-          "1.6",
-          "0.1",
-          "40.0",
-          "0.0"
+          "18.9",
+          "6.6",
+          "3.6",
+          "1.1",
+          "48.5",
+          "33.3"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "23",
-          "8.1",
+          "154",
+          "16.1",
+          "6.4",
           "3.3",
-          "3.0",
-          "0.6",
-          "52.0",
-          "0.0"
+          "1.7",
+          "49.0",
+          "34.6"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-05T00:00:00.000+00:00",
-      "opponent": "PHI",
+      "date": "2026-11-08T01:30:00.000+00:00",
+      "opponent": "ORL",
       "at_vs": "vs",
-      "result": "L",
-      "score": "112-106",
+      "result": "W",
+      "score": "126-119 OT",
       "stats": {
-        "MIN": "5",
-        "PTS": "1",
+        "MIN": "12",
+        "PTS": "3",
         "REB": "1",
         "AST": "0"
       }
     },
     {
-      "date": "2026-11-03T00:30:00.000+00:00",
-      "opponent": "CHA",
-      "at_vs": "@",
+      "date": "2026-11-02T01:30:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "vs",
       "result": "W",
-      "score": "124-91",
+      "score": "124-112",
       "stats": {
-        "MIN": "8",
-        "PTS": "0",
-        "REB": "2",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-10-30T23:30:00.000+00:00",
-      "opponent": "BKN",
-      "at_vs": "@",
-      "result": "W",
-      "score": "110-94",
-      "stats": {
-        "MIN": "3",
-        "PTS": "2",
-        "REB": "1",
+        "MIN": "9",
+        "PTS": "4",
+        "REB": "3",
         "AST": "1"
       }
     },
     {
-      "date": "2026-10-28T23:00:00.000+00:00",
-      "opponent": "CHA",
+      "date": "2026-10-31T02:00:00.000+00:00",
+      "opponent": "LAL",
       "at_vs": "vs",
       "result": "W",
-      "score": "97-89",
+      "score": "112-95",
       "stats": {
-        "MIN": "1",
+        "MIN": "16",
         "PTS": "2",
-        "REB": "1",
-        "AST": "0"
+        "REB": "5",
+        "AST": "1"
       }
     },
     {
-      "date": "2026-10-28T00:00:00.000+00:00",
-      "opponent": "NY",
+      "date": "2026-10-27T02:00:00.000+00:00",
+      "opponent": "DEN",
+      "at_vs": "@",
+      "result": "W",
+      "score": "134-114",
+      "stats": {
+        "MIN": "28",
+        "PTS": "13",
+        "REB": "3",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-10-25T02:00:00.000+00:00",
+      "opponent": "PHX",
       "at_vs": "@",
       "result": "L",
-      "score": "111-97",
+      "score": "131-122",
       "stats": {
-        "MIN": "6",
-        "PTS": "1",
+        "MIN": "23",
+        "PTS": "7",
         "REB": "4",
-        "AST": "0"
+        "AST": "3"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Tolu+Smith+NBA+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Gui+Santos+NBA+highlights",
     "videos": [
       {
-        "id": "aveDxbpHOlU",
-        "title": "Tolu Smith Player Full High Lowlights vs CAVALIERS 14 10 2025 NBA PRESEASON Game"
+        "id": "7Ntg0miBuwI",
+        "title": "The BEST of Gui Santos from 2025-26 Season"
       },
       {
-        "id": "oqlrIuNntUg",
-        "title": "Tolu Smith Detroit Pistons NBA2k26 NBA Summer League Highlights"
+        "id": "9-m_zbtBhv8",
+        "title": "The BEST of Gui Santos So Far This Season (2025-26)"
       },
       {
-        "id": "CIydaVKuggI",
-        "title": "Tolu Smith || 2025-2026 Detroit Pistons Highlights"
+        "id": "gI3E8bO2AM4",
+        "title": "Gui Santos na NBA 2026-27 | Melhores Momentos da Primeira Semana"
       }
     ]
   },
   "news": [
     {
-      "headline": "Embiid hypes up crowd after getting into it with Tolu Smith",
-      "url": "https://www.espn.com/video/clip/_/id/50383982/embiid-hypes-crowd-getting-tolu-smith"
+      "headline": "Sources: Warriors, Gui Santos agree to 3-year, $15M deal",
+      "url": "https://www.espn.com/nba/story/_/id/48063508/sources-warriors-gui-santos-agree-three-year-extension"
     },
     {
-      "headline": "Tolu Smith denies Philadelphia 76ers with stuff",
-      "url": "https://www.espn.com/video/clip/_/id/50383873/tolu-smith-denies-philadelphia-76ers-stuff"
+      "headline": "Fantasy basketball fast break: Pair of Kings worth stashing before break",
+      "url": "https://www.espn.com/fantasy/basketball/story/_/id/47889766/fantasy-basketball-pickups-nba-trends-adds-all-star-break"
     },
     {
-      "headline": "Tolu Smith skies for big flush",
-      "url": "https://www.espn.com/video/clip?id=39731984"
+      "headline": "Warriors pick up options on Quinten Post, Gui Santos",
+      "url": "https://www.espn.com/nba/story/_/id/45610943/sources-warriors-pick-options-quinten-post-gui-santos"
     }
   ]
 }

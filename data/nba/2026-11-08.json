@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-08",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4997536",
+    "name": "Gui Santos",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4997536.png",
+    "jersey": "#15",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4997536/gui-santos"
+  },
+  "team": {
+    "name": "Golden State Warriors",
+    "abbreviation": "GS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "color": "fdb927"
+  },
+  "facts": {
+    "Age": 24,
+    "Height": "6' 7\"",
+    "Weight": "185 lbs",
+    "From": "Brasilia, Brazil",
+    "College": null,
+    "Draft": "2022: Rd 2, Pk 55 (GS)",
+    "Experience": "4th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Guilherme Carvalho dos Santos (born 22 June 2002) is a Brazilian professional basketball player for the Golden State Warriors of the National Basketball Association (NBA)."
+      },
+      {
+        "heading": "Lately",
+        "text": "On 15 January 2025, Santos made his first career start, tallying five points, three assists, and seven rebounds in a 116–115 victory over the Minnesota Timberwolves. He made 52 appearances (including two starts) for the Warriors during the 2024–25 NBA season, recording averages of 4.1 points, 3.1 rebounds, and 1.4 assists. On 29 June 2025, the Warriors exercised the team option for Santos. On 28 February 2026, Santos signed a three-year, $15 million contract extension with the Warriors. On 7 March, he recorded a career-high 22 points and 11 rebounds in a 97–104 loss to the Oklahoma City Thunder."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Santos' father, Deivisson, is a former professional basketball player who played five seasons in the NBB. His mother, Lucineide, was also a basketball player."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Gui_Santos",
+    "title": "Gui Santos"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "7",
+          "18.9",
+          "6.6",
+          "3.6",
+          "1.1",
+          "48.5",
+          "33.3"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "154",
+          "16.1",
+          "6.4",
+          "3.3",
+          "1.7",
+          "49.0",
+          "34.6"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-08T01:30:00.000+00:00",
+      "opponent": "ORL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "126-119 OT",
+      "stats": {
+        "MIN": "12",
+        "PTS": "3",
+        "REB": "1",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-02T01:30:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "124-112",
+      "stats": {
+        "MIN": "9",
+        "PTS": "4",
+        "REB": "3",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-10-31T02:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "112-95",
+      "stats": {
+        "MIN": "16",
+        "PTS": "2",
+        "REB": "5",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-10-27T02:00:00.000+00:00",
+      "opponent": "DEN",
+      "at_vs": "@",
+      "result": "W",
+      "score": "134-114",
+      "stats": {
+        "MIN": "28",
+        "PTS": "13",
+        "REB": "3",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-10-25T02:00:00.000+00:00",
+      "opponent": "PHX",
+      "at_vs": "@",
+      "result": "L",
+      "score": "131-122",
+      "stats": {
+        "MIN": "23",
+        "PTS": "7",
+        "REB": "4",
+        "AST": "3"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Gui+Santos+NBA+highlights",
+    "videos": [
+      {
+        "id": "7Ntg0miBuwI",
+        "title": "The BEST of Gui Santos from 2025-26 Season"
+      },
+      {
+        "id": "9-m_zbtBhv8",
+        "title": "The BEST of Gui Santos So Far This Season (2025-26)"
+      },
+      {
+        "id": "gI3E8bO2AM4",
+        "title": "Gui Santos na NBA 2026-27 | Melhores Momentos da Primeira Semana"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Sources: Warriors, Gui Santos agree to 3-year, $15M deal",
+      "url": "https://www.espn.com/nba/story/_/id/48063508/sources-warriors-gui-santos-agree-three-year-extension"
+    },
+    {
+      "headline": "Fantasy basketball fast break: Pair of Kings worth stashing before break",
+      "url": "https://www.espn.com/fantasy/basketball/story/_/id/47889766/fantasy-basketball-pickups-nba-trends-adds-all-star-break"
+    },
+    {
+      "headline": "Warriors pick up options on Quinten Post, Gui Santos",
+      "url": "https://www.espn.com/nba/story/_/id/45610943/sources-warriors-pick-options-quinten-post-gui-santos"
+    }
+  ]
+}
