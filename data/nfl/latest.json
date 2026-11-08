@@ -1,51 +1,55 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4911489",
-    "name": "Caleb Murphy",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4911489.png",
-    "jersey": "#50",
-    "position": "Linebacker",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4911489/caleb-murphy"
+    "id": "3057524",
+    "name": "Siran Neal",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3057524.png",
+    "jersey": "#33",
+    "position": "Safety",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/3057524/siran-neal"
   },
   "team": {
-    "name": "Los Angeles Chargers",
-    "abbreviation": "LAC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-    "color": "0080c6"
+    "name": "San Francisco 49ers",
+    "abbreviation": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "color": "aa0000"
   },
   "facts": {
-    "Age": 26,
-    "Height": "6' 3\"",
-    "Weight": "254 lbs",
-    "From": "Dowagiac, MI",
-    "College": "Ferris State",
-    "Draft": "Undrafted",
-    "Experience": "4th Season"
+    "Age": 32,
+    "Height": "6' 0\"",
+    "Weight": "206 lbs",
+    "From": "Eufaula, AL",
+    "College": "Jacksonville State",
+    "Draft": "2018: Rd 5, Pk 154 (BUF)",
+    "Experience": "9th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Caleb Murphy (born December 15, 1999) is an American professional football outside linebacker for the Los Angeles Chargers of the National Football League (NFL). He played college football for the Grand Valley State Lakers before transferring to the Ferris State Bulldogs."
+        "text": "Siran De'Vonte' Neal (born August 4, 1994) is an American professional football defensive back and special teamer for the San Francisco 49ers of the National Football League (NFL). He played college football for the Jacksonville State Gamecocks and was selected by the Buffalo Bills in the fifth round of the 2018 NFL draft. He has played safety, nickelback, and cornerback throughout his career, but his primary contributions have been as a core special teams player."
       },
       {
         "heading": "Early life",
-        "text": "Murphy grew up in Dowagiac, Michigan and attended Dowagiac Union High School, where he was a member of the football, basketball, wrestling, baseball, and track and field teams. He was named first team All-State as a junior after recording 86 tackles with 17 tackles for loss and 15 sacks. Murphy repeated as a first team All-State selection during his senior year after making 97 tackles with 27 tackles for loss and 13 sacks."
+        "text": "Neal attended Abbeville High School in Abbeville, Alabama, where he played football. He was an All-State wide receiver for the team in 2011, when he caught 54 passes and 13 touchdowns. He played his senior season at Eufaula High School in Eufaula, Alabama. He was a first team All-State selection in 2012. He hauled in 22 catches for 377 yards and eight touchdowns."
       },
       {
         "heading": "College career",
-        "text": "Murphy began his college career at Grand Valley State and redshirted his true freshman season. He had 13 tackles and one sack in eight games in 2019. Murphy transferred to Ferris State after his redshirt freshman year. His first season at Ferris State was cancelled due to the COVID-19 pandemic. Murphy was named the Great Lakes Intercollegiate Athletic Conference (GLIAC) Defensive Lineman of the Year and first team All-GLIAC after finishing the 2021 season with 63 tackles, 14.5 sacks, 21.5 tackles for loss, and five forced fumbles as the Bulldogs won the 2021 NCAA Division II Football Championship Game."
+        "text": "Neal attended and played college football at Jacksonville State and graduated with a degree in criminal justice. He was a two-time all-Ohio Valley Conference selection in 2016 and 2017, the first year as a linebacker, the second as a safety. In 2016 he made 80 tackles and an interception as a linebacker. Switching to safely in 2017, Neal made 33 tackles and had a team-high 11 pass breakups."
       },
       {
         "heading": "Lately",
-        "text": "On March 10, 2026, Murphy signed a reserve/futures contract with the Giants. On August 30, Murphy was waived by the Giants as a part of final roster cuts. On September 3, 2026, Murphy signed with the Los Angeles Chargers' practice squad. On October 17, he was signed to the active roster."
+        "text": "On March 13, 2024, Neal signed with the Miami Dolphins. On March 18, 2025, Neal signed a two-year contract with the San Francisco 49ers."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Neal is the son of Glenn Neal and Rhonda Walker. He has six brothers and one sister. Neal is married to his long-term girlfriend and shares twin daughters, Londyn and Lauryn Neal, as well as a son."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Caleb_Murphy",
-    "title": "Caleb Murphy"
+    "url": "https://en.wikipedia.org/wiki/Siran_Neal",
+    "title": "Siran Neal"
   },
   "stats": {
     "labels": [
@@ -60,10 +64,10 @@
       {
         "name": "2026",
         "values": [
-          "3",
-          "2",
+          "5",
+          "5",
           "0",
-          "0",
+          "4",
           "0",
           "0"
         ]
@@ -71,23 +75,23 @@
       {
         "name": "Career",
         "values": [
-          "22",
-          "10",
-          "0.5",
+          "148",
+          "105",
+          "1",
+          "8",
           "0",
-          "0",
-          "0"
+          "7"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-01T21:05:00.000+00:00",
-      "opponent": "LAR",
+      "date": "2026-10-25T17:00:00.000+00:00",
+      "opponent": "ATL",
       "at_vs": "@",
       "result": "L",
-      "score": "24-9",
+      "score": "29-20",
       "stats": {
         "TOT": "0",
         "SOLO": "0",
@@ -96,59 +100,72 @@
       }
     },
     {
-      "date": "2026-10-18T20:25:00.000+00:00",
-      "opponent": "KC",
-      "at_vs": "@",
-      "result": "L",
-      "score": "22-6",
+      "date": "2026-10-20T00:15:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "23-17",
       "stats": {
-        "TOT": "3",
-        "SOLO": "2",
+        "TOT": "1",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-11T20:25:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "@",
+      "result": "W",
+      "score": "32-29",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
       "date": "2026-10-04T20:25:00.000+00:00",
-      "opponent": "SEA",
-      "at_vs": "@",
-      "result": "L",
-      "score": "30-23",
+      "opponent": "DEN",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "24-14",
       "stats": {
-        "TOT": "0",
-        "SOLO": "0",
+        "TOT": "1",
+        "SOLO": "1",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-09-27T17:00:00.000+00:00",
-      "opponent": "BUF",
-      "at_vs": "@",
-      "result": "L",
-      "score": "24-16",
+      "date": "2026-09-27T20:05:00.000+00:00",
+      "opponent": "ARI",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "36-30",
       "stats": {
-        "TOT": "0",
-        "SOLO": "0",
+        "TOT": "2",
+        "SOLO": "2",
         "SACK": "0",
         "INT": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Caleb+Murphy+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Siran+Neal+NFL+highlights",
     "videos": [
       {
-        "id": "fK1gm9vlP3c",
-        "title": "Caleb Murphy Preseason Highlights"
+        "id": "5QrFj8M2cHI",
+        "title": "Siran Neal DB Jacksonville State Highlights 2018 NFL Draft"
       },
       {
-        "id": "YlGj4m3Ncfo",
-        "title": "Caleb Murphy 17 Points, 6 Assists for South Florida | Full Highlights vs Hawaii"
+        "id": "7agh6d28Ao4",
+        "title": "Siran Neal Special Teams Highlights | Miami Dolphins"
       },
       {
-        "id": "YdERdvDxFyg",
-        "title": "Caleb Murphy || Ferris State || 2022 Season Highlights"
+        "id": "6CCcFJDtFjA",
+        "title": "Lorenzo Neal Career Highlights"
       }
     ]
   },
