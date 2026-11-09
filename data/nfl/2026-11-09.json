@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-09",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4432734",
+    "name": "Jalen Milroe",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432734.png",
+    "jersey": "#6",
+    "position": "Quarterback",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4432734/jalen-milroe"
+  },
+  "team": {
+    "name": "Seattle Seahawks",
+    "abbreviation": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "color": "002a5c"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 2\"",
+    "Weight": "216 lbs",
+    "From": "Katy, TX",
+    "College": "Alabama",
+    "Draft": "2025: Rd 3, Pk 92 (SEA)",
+    "Experience": "2nd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Jalen Oluwaseun Isaiah Milroe (born December 13, 2002) is an American professional football quarterback for the Seattle Seahawks of the National Football League (NFL). He played college football for the Alabama Crimson Tide and won the 2024 William V. Campbell Trophy. Milroe was selected by the Seahawks in the third round of the 2025 NFL draft and won Super Bowl LX as a backup."
+      },
+      {
+        "heading": "Early life",
+        "text": "Milroe was born into a military family; his father Quentin served in the Marine Corps in the Iraq War and his mother Lola worked in the medical field for the Navy. Milroe's family moved to Katy, Texas when he was three, and he attended Tompkins High School in Katy. As a junior, he threw for 2,689 yards and 29 touchdowns adding an additional eight touchdowns rushing and 378 yards. In 2020 as a senior, he passed for 1,136 yards and 13 touchdowns. During his high school career, Milroe tallied 3,825 passing yards, 559 rushing yards, and 53 total touchdowns leading Tompkins to over 30 wins in three seasons. He originally committed to Texas before deciding to switch to the University of Alabama."
+      },
+      {
+        "heading": "College career",
+        "text": "Milroe was the backup to sophomore quarterback Bryce Young throughout the 2021 season. As a result, Milroe was redshirted. During the season he appeared in four games completing three passes for 41 yards and a touchdown while rushing for 57 yards on 15 carries. Milroe began the 2022 season as the backup to Young again. In Alabama's Spring Game, Milroe completed 11 passes for 149 yards and a touchdown. In his first appearance of the season, he recorded eight completions, 76 yards, a touchdown, and an interception. He made minor appearances in relief against Louisiana Monroe and Vanderbilt before he took over as the quarterback in week four against Arkansas after an injury to Young."
+      },
+      {
+        "heading": "Lately",
+        "text": "Milroe was drafted by the Seattle Seahawks with the 92nd overall pick in the third round of the 2025 NFL draft. The Seahawks previously traded quarterback Geno Smith to the Las Vegas Raiders to obtain the pick. He was part of the Seahawks team that won Super Bowl LX."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Milroe is a Christian and was baptized in 2022. In 2023, Milroe and fellow Crimson Tide athlete Terrion Arnold launched LANK (Let All Naysayers Know) merch, which has been sold at Alabama merch stores and distributed to Crimson Tide alumni in the NFL, such as Jalen Hurts. He is of Nigerian descent."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Jalen_Milroe",
+    "title": "Jalen Milroe"
+  },
+  "stats": {
+    "labels": [
+      "CMP",
+      "ATT",
+      "CMP%",
+      "YDS",
+      "TD",
+      "INT",
+      "RTG"
+    ],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Jalen+Milroe+NFL+highlights",
+    "videos": [
+      {
+        "id": "K-r8XNp5qsU",
+        "title": "Jalen Milroe 2026 NFL Preseason Game Highlights vs Chiefs"
+      },
+      {
+        "id": "cFbrsHPubkE",
+        "title": "Every Pass and Rush Attempt from Jalen Milroe's Preseason Debut"
+      },
+      {
+        "id": "QDgio1ubQJA",
+        "title": "Every Pass & Rush Attempt From Jalen Milroe In The Preseason"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "How 'explosive' QB Jalen Milroe fits into Seahawks' offense",
+      "url": "https://www.espn.com/nfl/story/_/id/44906609/seattle-seahawks-draft-qb-jalen-milroe-third-round-how-fits-offense-sam-darnold"
+    },
+    {
+      "headline": "Seahawks select Jalen Milroe with No. 92 pick of NFL draft",
+      "url": "https://www.espn.com/nfl/story/_/id/44860281/seahawks-select-jalen-milroe-no-92-pick-nfl-draft"
+    },
+    {
+      "headline": "2025 NFL draft QB rankings: Ward, Sanders, Dart, Milroe",
+      "url": "https://www.espn.com/nfl/draft2025/insider/story/_/id/41736211/ranking-top-2025-nfl-draft-quarterbacks-hot-board-team-fits"
+    }
+  ]
+}
