@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-09",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "2990992",
+    "name": "Marcus Smart",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2990992.png",
+    "jersey": "#36",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/2990992/marcus-smart"
+  },
+  "team": {
+    "name": "Houston Rockets",
+    "abbreviation": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "color": "ce0e2d"
+  },
+  "facts": {
+    "Age": 32,
+    "Height": "6' 3\"",
+    "Weight": "220 lbs",
+    "From": "Flower Mound, TX",
+    "College": "Oklahoma State",
+    "Draft": "2014: Rd 1, Pk 6 (BOS)",
+    "Experience": "13th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Marcus Osmond Smart (born March 6, 1994) is an American professional basketball player for the Houston Rockets of the National Basketball Association (NBA). Widely considered one of the most accomplished and versatile defenders of his era, he has been selected to the NBA All-Defensive First Team thrice and was the NBA Defensive Player of the Year in 2022, becoming only the second point guard after Gary Payton to win the award. Smart played college basketball for the Oklahoma State Cowboys. Smart was drafted by the Boston Celtics with the sixth overall pick in the 2014 NBA Draft. He initially came off the bench for the Celtics before becoming the starting point guard in 2018."
+      },
+      {
+        "heading": "Early life",
+        "text": "Marcus Osmond Smart was born on March 6, 1994, in Flower Mound, Texas, to Billy Frank Smart and Camellia Smart, who died of myelodysplastic syndrome on September 16, 2018. He has four older brothers: Todd Westbrook (deceased), Jeff Westbrook, Jacob Smart, and Michael Smart. Smart attended Edward S. Marcus High School in Flower Mound, along with one of his future Oklahoma State teammates, Phillip Forte. As a senior, Smart averaged 15.1 points, 9.2 rebounds, and 5.0 assists. In high school, Smart achieved a record of 115–6 through three seasons and was a two-time 5A state champion. He was also named a McDonald's All-American and was an ESPNHS first team All-American."
+      },
+      {
+        "heading": "College career",
+        "text": "During his freshman year at Oklahoma State, Smart led the Cowboys to a 24–8 record and they finished in third place in the Big 12 behind Kansas and Kansas State. He averaged 15.4 points, 5.8 rebounds, and 4.2 assists per game and led the Big 12 in steals with 99 and averaged 3.0 per game. Smart and the Cowboys earned a trip to the NCAA Tournament that year, clinching a #5 seed in the Midwest Region. During the first round of the tournament though, the Cowboys were eliminated by the #12 seed Oregon. On April 17, 2013, Smart held a press conference in the student union at OSU and announced that he would not declare for the NBA draft and instead return to OSU for his sophomore season."
+      },
+      {
+        "heading": "Lately",
+        "text": "On July 10, 2026, Smart signed a two-year, $12.4 million deal with the Houston Rockets, with the second year being a player option. This reunited him with his former Celtics head coach Ime Udoka, under whom he won NBA Defensive Player of the Year in 2022. On October 21, Smart made his Rockets debut, recording 10 points and two assists in a 128–110 victory over the Dallas Mavericks."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Marcus_Smart",
+    "title": "Marcus Smart"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "7",
+          "22.7",
+          "9.1",
+          "2.7",
+          "2.1",
+          "42.0",
+          "37.1"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "704",
+          "29.3",
+          "10.5",
+          "3.4",
+          "4.4",
+          "38.9",
+          "32.5"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-08T02:00:00.000+00:00",
+      "opponent": "PHX",
+      "at_vs": "@",
+      "result": "L",
+      "score": "102-99",
+      "stats": {
+        "MIN": "20",
+        "PTS": "5",
+        "REB": "2",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-05T01:30:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "117-107",
+      "stats": {
+        "MIN": "18",
+        "PTS": "4",
+        "REB": "1",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-03T01:30:00.000+00:00",
+      "opponent": "BOS",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "109-93",
+      "stats": {
+        "MIN": "20",
+        "PTS": "8",
+        "REB": "4",
+        "AST": "4"
+      }
+    },
+    {
+      "date": "2026-11-01T00:30:00.000+00:00",
+      "opponent": "OKC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "119-98",
+      "stats": {
+        "MIN": "36",
+        "PTS": "24",
+        "REB": "5",
+        "AST": "3"
+      }
+    },
+    {
+      "date": "2026-10-31T00:00:00.000+00:00",
+      "opponent": "DAL",
+      "at_vs": "@",
+      "result": "L",
+      "score": "116-111",
+      "stats": {
+        "MIN": "17",
+        "PTS": "8",
+        "REB": "2",
+        "AST": "4"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Marcus+Smart+NBA+highlights",
+    "videos": [
+      {
+        "id": "JVlnw3Fc6Ys",
+        "title": "Marcus Smart wilding out vs Celtics 😂 Flip up & double birds after back-to-back 3s"
+      },
+      {
+        "id": "j0ppCarezLU",
+        "title": "Marcus Smart BEST HIGHLIGHTS 25-26 Season"
+      },
+      {
+        "id": "-1J57ZiAquE",
+        "title": "Rockets Marcus Smart 24 PTS (7-10 3P, 106% TS), 5 REB, 2 AST, 1 STL, 1 TO, +20 vs. Thunder"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Marcus Smart elevates for the big-time stuff",
+      "url": "https://www.espn.com/video/clip/_/id/50384899/marcus-smart-elevates-big-stuff"
+    },
+    {
+      "headline": "Sources: Marcus Smart agrees to 2-year, $13M deal with Rockets",
+      "url": "https://www.espn.com/nba/story/_/id/49235334/sources-marcus-smart-agrees-2-year-13m-deal-rockets"
+    },
+    {
+      "headline": "Deandre Ayton picks up Lakers option, Marcus Smart opts out",
+      "url": "https://www.espn.com/nba/story/_/id/49216214/deandre-ayton-picking-81m-lakers-option-sources-say"
+    }
+  ]
+}
