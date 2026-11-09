@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "5131696",
-    "name": "Ben Ross",
-    "headshot": null,
-    "jersey": "#1",
-    "position": "Shortstop",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/5131696"
+    "id": "5132070",
+    "name": "Bradley Hanner",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5132070.png",
+    "jersey": "#93",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5132070"
   },
   "team": {
-    "name": "Minnesota Twins",
-    "abbreviation": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
-    "color": "031f40"
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+    "color": "132448"
   },
   "facts": {
-    "Age": 25,
-    "Height": "6' 0\"",
-    "Weight": "180 lbs",
-    "From": "Springfield, OH",
+    "Age": 27,
+    "Height": "6' 4\"",
+    "Weight": "210 lbs",
+    "From": "Rhoadesville, VA",
     "College": null,
     "Draft": null,
     "Experience": "1st Season"
@@ -29,137 +29,131 @@
     "sections": [
       {
         "heading": "The short version",
-        "text": "Benjamin Andrew Ross (born June 6, 2001) is an American professional baseball infielder for the Minnesota Twins of Major League Baseball (MLB)."
+        "text": "Bradley Thomas Hanner (born February 10, 1999) is an American professional baseball pitcher for the New York Yankees of Major League Baseball (MLB). He debuted in MLB in 2026."
       },
       {
         "heading": "Lately",
-        "text": "Ross was selected in the 5th round by the Minnesota Twins in the 2022 Major League Baseball draft. After signing with the team he was assigned to the Rookie-level Florida Complex League Twins and was later promoted to the Single-A Fort Myers Mighty Mussels. Ross was assigned to the High-A Cedar Rapids Kernels at the beginning of the 2023 season. Ross began the 2026 season with the Double–A Wichita Wind Surge before being quickly promoted to the Triple–A St. Paul Saints, where he batted .249/.353/.458 with 15 home runs, 55 RBI, and 12 stolen bases. On September 1, 2026, Ross was selected to the 40–man roster and promoted to the major leagues for the first time."
+        "text": "On December 16, 2025, Hanner signed a minor league contract with the New York Yankees. He began the 2026 season with the Triple-A Scranton/Wilkes-Barre RailRiders, compiling a 4–1 record and 1.99 ERA with 50 strikeouts and three saves across 32 relief appearances. On July 18, 2026, the Yankees signed Hanner to a major league contract and optioned him back to Scranton. On August 11, Hanner was promoted to the major leagues for the first time. Since then, Hanner has been DFA'd back to Triple-A and recalled several times, usually as a bulk reliever in blowouts On September 24 2026, Hanner earned his first career win during a series vs. the Tampa Bay Rays, pitching 2 innings of no run ball."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Ben_Ross_(baseball)",
-    "title": "Ben Ross (baseball)"
+    "url": "https://en.wikipedia.org/wiki/Bradley_Hanner",
+    "title": "Bradley Hanner"
   },
   "stats": {
     "labels": [
       "GP",
-      "AB",
-      "H",
-      "AVG",
-      "HR",
-      "RBI",
+      "GS",
+      "IP",
+      "ERA",
       "BB",
-      "SO"
+      "K"
     ],
     "rows": [
       {
         "name": "2026",
         "values": [
-          "10",
-          "21",
-          "4",
-          ".190",
+          "5",
           "0",
+          "7.1",
+          "8.59",
           "1",
-          "0",
-          "11"
+          "7"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "10",
-          "21",
           "4",
-          ".190",
           "0",
+          "5.1",
+          "11.81",
           "1",
-          "0",
-          "11"
+          "7"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-23T19:45:00.000+00:00",
-      "opponent": "SF",
-      "at_vs": "@",
+      "date": "2026-09-24T23:05:00.000+00:00",
+      "opponent": "TB",
+      "at_vs": "vs",
       "result": "W",
-      "score": "4-2",
+      "score": "6-4",
       "stats": {
-        "AB": "2",
-        "H": "1",
-        "HR": "0",
-        "RBI": "0"
+        "IP": "2.0",
+        "H": "2",
+        "ER": "0",
+        "K": "0"
       }
     },
     {
-      "date": "2026-09-20T20:07:00.000+00:00",
-      "opponent": "LAA",
-      "at_vs": "@",
-      "result": "W",
-      "score": "8-0",
+      "date": "2026-09-12T17:35:00.000+00:00",
+      "opponent": "NYM",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "12-2",
       "stats": {
-        "AB": "4",
-        "H": "1",
-        "HR": "0",
-        "RBI": "1"
+        "IP": "1.1",
+        "H": "3",
+        "ER": "4",
+        "K": "1"
       }
     },
     {
-      "date": "2026-09-20T01:38:00.000+00:00",
-      "opponent": "LAA",
+      "date": "2026-08-25T23:05:00.000+00:00",
+      "opponent": "HOU",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "9-7",
+      "stats": {
+        "IP": "1.1",
+        "H": "2",
+        "ER": "1",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-08-22T17:35:00.000+00:00",
+      "opponent": "TOR",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "4-3",
+      "stats": {
+        "IP": "1.2",
+        "H": "3",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-14T23:15:00.000+00:00",
+      "opponent": "TOR",
       "at_vs": "@",
       "result": "L",
-      "score": "6-5 F/11",
+      "score": "3-1",
       "stats": {
-        "AB": "1",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-19T01:38:00.000+00:00",
-      "opponent": "LAA",
-      "at_vs": "@",
-      "result": "W",
-      "score": "3-0",
-      "stats": {
-        "AB": "4",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-18T01:38:00.000+00:00",
-      "opponent": "LAA",
-      "at_vs": "@",
-      "result": "L",
-      "score": "5-4 F/10",
-      "stats": {
-        "AB": "4",
+        "IP": "1.0",
         "H": "1",
-        "HR": "0",
-        "RBI": "0"
+        "ER": "1",
+        "K": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Ben+Ross+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Bradley+Hanner+MLB+highlights",
     "videos": [
       {
-        "id": "WgBYYm9h0GE",
-        "title": "How Ben Ross Went From Depth Piece to Big Leaguer in Six Months"
+        "id": "QZ0fDAZgJ7o",
+        "title": "Bradley Hanner 2026 MLB Highlights!"
       },
       {
-        "id": "G6r670I9ZO8",
-        "title": "Ben Ross, James Ellwanger Maintain Momentum"
+        "id": "efQ0ip2s2OM",
+        "title": "Bradley Hanner — RHP, Cleveland Guardians"
       },
       {
-        "id": "Lx7rssvUSsk",
-        "title": "How Ben Ross Went From Org Depth To Knocking On The Door To MLB"
+        "id": "xkEKhtfoepU",
+        "title": "Bradley Hanner, Cleveland Guardians RHP Prospect (2023 Arizona Fall League)"
       }
     ]
   },

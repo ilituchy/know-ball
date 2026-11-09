@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-09",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "5132070",
+    "name": "Bradley Hanner",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5132070.png",
+    "jersey": "#93",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5132070"
+  },
+  "team": {
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+    "color": "132448"
+  },
+  "facts": {
+    "Age": 27,
+    "Height": "6' 4\"",
+    "Weight": "210 lbs",
+    "From": "Rhoadesville, VA",
+    "College": null,
+    "Draft": null,
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Bradley Thomas Hanner (born February 10, 1999) is an American professional baseball pitcher for the New York Yankees of Major League Baseball (MLB). He debuted in MLB in 2026."
+      },
+      {
+        "heading": "Lately",
+        "text": "On December 16, 2025, Hanner signed a minor league contract with the New York Yankees. He began the 2026 season with the Triple-A Scranton/Wilkes-Barre RailRiders, compiling a 4–1 record and 1.99 ERA with 50 strikeouts and three saves across 32 relief appearances. On July 18, 2026, the Yankees signed Hanner to a major league contract and optioned him back to Scranton. On August 11, Hanner was promoted to the major leagues for the first time. Since then, Hanner has been DFA'd back to Triple-A and recalled several times, usually as a bulk reliever in blowouts On September 24 2026, Hanner earned his first career win during a series vs. the Tampa Bay Rays, pitching 2 innings of no run ball."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Bradley_Hanner",
+    "title": "Bradley Hanner"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "5",
+          "0",
+          "7.1",
+          "8.59",
+          "1",
+          "7"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "4",
+          "0",
+          "5.1",
+          "11.81",
+          "1",
+          "7"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-24T23:05:00.000+00:00",
+      "opponent": "TB",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "6-4",
+      "stats": {
+        "IP": "2.0",
+        "H": "2",
+        "ER": "0",
+        "K": "0"
+      }
+    },
+    {
+      "date": "2026-09-12T17:35:00.000+00:00",
+      "opponent": "NYM",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "12-2",
+      "stats": {
+        "IP": "1.1",
+        "H": "3",
+        "ER": "4",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-25T23:05:00.000+00:00",
+      "opponent": "HOU",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "9-7",
+      "stats": {
+        "IP": "1.1",
+        "H": "2",
+        "ER": "1",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-08-22T17:35:00.000+00:00",
+      "opponent": "TOR",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "4-3",
+      "stats": {
+        "IP": "1.2",
+        "H": "3",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-14T23:15:00.000+00:00",
+      "opponent": "TOR",
+      "at_vs": "@",
+      "result": "L",
+      "score": "3-1",
+      "stats": {
+        "IP": "1.0",
+        "H": "1",
+        "ER": "1",
+        "K": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Bradley+Hanner+MLB+highlights",
+    "videos": [
+      {
+        "id": "QZ0fDAZgJ7o",
+        "title": "Bradley Hanner 2026 MLB Highlights!"
+      },
+      {
+        "id": "efQ0ip2s2OM",
+        "title": "Bradley Hanner — RHP, Cleveland Guardians"
+      },
+      {
+        "id": "xkEKhtfoepU",
+        "title": "Bradley Hanner, Cleveland Guardians RHP Prospect (2023 Arizona Fall League)"
+      }
+    ]
+  },
+  "news": []
+}
