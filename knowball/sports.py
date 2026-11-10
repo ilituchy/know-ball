@@ -42,7 +42,18 @@ SPORTS = {
         label="NBA",
         espn_path="basketball/nba",
         wiki_keyword="basketball",
-        fame_words=("All-Star", "All-NBA", "MVP", "Most Valuable Player"),
+        fame_words=(
+            "All-Star",
+            "All-NBA",
+            "All-Defensive",
+            "MVP",
+            "Most Valuable Player",
+            "Defensive Player of the Year",
+            "Sixth Man of the Year",
+            "Most Improved Player",
+            "Rookie of the Year",
+            "Hall of Fame",
+        ),
         views=(
             StatView(
                 key="GP",
@@ -58,7 +69,16 @@ SPORTS = {
         label="NFL",
         espn_path="football/nfl",
         wiki_keyword="football",
-        fame_words=("Pro Bowl", "All-Pro", "MVP", "Most Valuable Player", "Heisman"),
+        fame_words=(
+            "Pro Bowl",
+            "All-Pro",
+            "MVP",
+            "Most Valuable Player",
+            "Heisman",
+            "Player of the Year",
+            "Rookie of the Year",
+            "Hall of Fame",
+        ),
         skip_groups=("practiceSquad", "suspended"),
         views=(
             StatView(
@@ -104,6 +124,9 @@ SPORTS = {
             "Cy Young",
             "MVP",
             "Most Valuable Player",
+            "Rookie of the Year",
+            "Reliever of the Year",
+            "Hall of Fame",
         ),
         views=(
             StatView(

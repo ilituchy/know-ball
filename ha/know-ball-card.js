@@ -77,9 +77,17 @@ const STYLE = `
 `;
 
 // Wikipedia's first sentence is mostly name and team, which the tile already shows.
+// Short intros borrow from the next sections so the tile still has a story.
+const TEASER_CHARS = 220;
 const teaser = (d) => {
-  const text = d.background?.sections?.[0]?.text || "";
-  return text.replace(/^.{40,}?[a-z)]\. (?=[A-Z])/, "") || text;
+  const [intro, ...rest] = (d.background?.sections || []).map((s) => s.text || "");
+  if (!intro) return "";
+  let text = intro.replace(/^.{40,}?[a-z)]\. (?=[A-Z])/, "") || intro;
+  for (const more of rest) {
+    if (text.length >= TEASER_CHARS) break;
+    text += ` ${more}`;
+  }
+  return text;
 };
 const TILE_FACTS = ["Age", "Height", "From", "College", "Draft"];
 const TILE_STATS = 5;

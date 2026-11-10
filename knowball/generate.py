@@ -15,6 +15,8 @@ from .sports import SPORTS, Sport
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 TZ = ZoneInfo("America/New_York")
+# Stub articles make a thin page. MLB's run shortest; this keeps about 3 in 4.
+MIN_BIO_CHARS = 700
 
 
 def read_history(path: pathlib.Path) -> list[dict]:
@@ -38,12 +40,16 @@ def choose(sport: Sport, day: dt.date, used: set[str]) -> tuple[dict, dict, dict
                 continue
             born = (player.get("dateOfBirth") or "")[:4] or None
             wiki = enrich.wikipedia(player["fullName"], sport.wiki_keyword, born)
-            if wiki is None or not wiki["sections"]:  # no story means a thin page
+            if wiki is None or bio_length(wiki) < MIN_BIO_CHARS:
                 continue
             if picker.is_famous(wiki["sections"][0]["text"], sport.fame_words):
                 continue
             return team, player, ov, wiki
     raise RuntimeError("no eligible player found in the whole league")
+
+
+def bio_length(wiki: dict) -> int:
+    return sum(len(section["text"]) for section in wiki["sections"])
 
 
 def player_news(ov: dict, last_name: str, limit: int = 3) -> list[dict]:

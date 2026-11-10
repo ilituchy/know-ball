@@ -30,6 +30,8 @@ class Picker(unittest.TestCase):
         self.assertFalse(picker.is_under_the_radar(14.0, 14))
         self.assertTrue(picker.is_famous("a two-time pro bowl pick", ("Pro Bowl",)))
         self.assertFalse(picker.is_famous("a backup guard", ("Pro Bowl",)))
+        nba = SPORTS["nba"].fame_words
+        self.assertTrue(picker.is_famous("the NBA Defensive Player of the Year in 2022", nba))
 
 
 class Espn(unittest.TestCase):
