@@ -1,98 +1,169 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4432734",
-    "name": "Jalen Milroe",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432734.png",
-    "jersey": "#6",
-    "position": "Quarterback",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4432734/jalen-milroe"
+    "id": "2575164",
+    "name": "Miles Killebrew",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2575164.png",
+    "jersey": "#29",
+    "position": "Safety",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/2575164/miles-killebrew"
   },
   "team": {
-    "name": "Seattle Seahawks",
-    "abbreviation": "SEA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-    "color": "002a5c"
+    "name": "Tampa Bay Buccaneers",
+    "abbreviation": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "color": "bd1c36"
   },
   "facts": {
-    "Age": 23,
+    "Age": 33,
     "Height": "6' 2\"",
-    "Weight": "216 lbs",
-    "From": "Katy, TX",
-    "College": "Alabama",
-    "Draft": "2025: Rd 3, Pk 92 (SEA)",
-    "Experience": "2nd Season"
+    "Weight": "222 lbs",
+    "From": "Henderson, NV",
+    "College": "Southern Utah",
+    "Draft": "2016: Rd 4, Pk 111 (DET)",
+    "Experience": "11th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Jalen Oluwaseun Isaiah Milroe (born December 13, 2002) is an American professional football quarterback for the Seattle Seahawks of the National Football League (NFL). He played college football for the Alabama Crimson Tide and won the 2024 William V. Campbell Trophy. Milroe was selected by the Seahawks in the third round of the 2025 NFL draft and won Super Bowl LX as a backup."
-      },
-      {
-        "heading": "Early life",
-        "text": "Milroe was born into a military family; his father Quentin served in the Marine Corps in the Iraq War and his mother Lola worked in the medical field for the Navy. Milroe's family moved to Katy, Texas when he was three, and he attended Tompkins High School in Katy. As a junior, he threw for 2,689 yards and 29 touchdowns adding an additional eight touchdowns rushing and 378 yards. In 2020 as a senior, he passed for 1,136 yards and 13 touchdowns. During his high school career, Milroe tallied 3,825 passing yards, 559 rushing yards, and 53 total touchdowns leading Tompkins to over 30 wins in three seasons. He originally committed to Texas before deciding to switch to the University of Alabama."
+        "text": "Miles Killebrew (born May 10, 1993) is an American professional football safety and special teamer for the Tampa Bay Buccaneers of the National Football League (NFL). He played college football for the Southern Utah Thunderbirds and was selected by the Detroit Lions in the fourth round of the 2016 NFL draft."
       },
       {
         "heading": "College career",
-        "text": "Milroe was the backup to sophomore quarterback Bryce Young throughout the 2021 season. As a result, Milroe was redshirted. During the season he appeared in four games completing three passes for 41 yards and a touchdown while rushing for 57 yards on 15 carries. Milroe began the 2022 season as the backup to Young again. In Alabama's Spring Game, Milroe completed 11 passes for 149 yards and a touchdown. In his first appearance of the season, he recorded eight completions, 76 yards, a touchdown, and an interception. He made minor appearances in relief against Louisiana Monroe and Vanderbilt before he took over as the quarterback in week four against Arkansas after an injury to Young."
+        "text": "Killebrew reached the triple-digit mark in tackles each of his last two seasons (101 in 2014, 132 in 2015) and also showed an ability to handle pass coverage responsibilities with three interceptions (one returned for a touchdown in 2014) and seven pass breakups in 2015. The four-year starter earned All-Big Sky recognition in each season: honorable mention in 2012 and 2013, second-team in 2014, and first-team in 2015."
       },
       {
         "heading": "Lately",
-        "text": "Milroe was drafted by the Seattle Seahawks with the 92nd overall pick in the third round of the 2025 NFL draft. The Seahawks previously traded quarterback Geno Smith to the Las Vegas Raiders to obtain the pick. He was part of the Seahawks team that won Super Bowl LX."
+        "text": "In 2025, Killebrew recorded five tackles across Pittsburgh's first five contests. On October 15, 2025, head coach Mike Tomlin announced that Killebrew had suffered a 'significant' knee injury in the team's Week 6 victory over the Cleveland Browns; he was placed on injured reserve the following day. On March 13, 2026, Killebrew signed a one-year, $1.79 million contract with the Tampa Bay Buccaneers."
       },
       {
         "heading": "Personal life",
-        "text": "Milroe is a Christian and was baptized in 2022. In 2023, Milroe and fellow Crimson Tide athlete Terrion Arnold launched LANK (Let All Naysayers Know) merch, which has been sold at Alabama merch stores and distributed to Crimson Tide alumni in the NFL, such as Jalen Hurts. He is of Nigerian descent."
+        "text": "Killebrew was raised by his parents, Lisa and David Killebrew, in Henderson, Nevada. Killebrew and his family are Indianapolis Colts fans, having lived in Indiana for a few years. He also cites his role models in football as Troy Polamalu, Earl Thomas, and Bob Sanders. On April 30, 2016, Killebrew graduated from Southern Utah University with a degree in engineering technology. He received the phone call from the Lions telling him they'd drafted him on the way to his graduation ceremony. In June 2016, a Detroit-based brewery named Fort Street Brewery created Killebrew IPA, a play on words using his last name."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Jalen_Milroe",
-    "title": "Jalen Milroe"
+    "url": "https://en.wikipedia.org/wiki/Miles_Killebrew",
+    "title": "Miles Killebrew"
   },
   "stats": {
     "labels": [
-      "CMP",
-      "ATT",
-      "CMP%",
-      "YDS",
-      "TD",
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
       "INT",
-      "RTG"
+      "PD"
     ],
-    "rows": []
-  },
-  "recent_games": [],
-  "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Jalen+Milroe+NFL+highlights",
-    "videos": [
+    "rows": [
       {
-        "id": "K-r8XNp5qsU",
-        "title": "Jalen Milroe 2026 NFL Preseason Game Highlights vs Chiefs"
+        "name": "2026",
+        "values": [
+          "9",
+          "6",
+          "0",
+          "2",
+          "0",
+          "0"
+        ]
       },
       {
-        "id": "cFbrsHPubkE",
-        "title": "Every Pass and Rush Attempt from Jalen Milroe's Preseason Debut"
-      },
-      {
-        "id": "QDgio1ubQJA",
-        "title": "Every Pass & Rush Attempt From Jalen Milroe In The Preseason"
+        "name": "Career",
+        "values": [
+          "175",
+          "136",
+          "0",
+          "3",
+          "2",
+          "6"
+        ]
       }
     ]
   },
-  "news": [
+  "recent_games": [
     {
-      "headline": "How 'explosive' QB Jalen Milroe fits into Seahawks' offense",
-      "url": "https://www.espn.com/nfl/story/_/id/44906609/seattle-seahawks-draft-qb-jalen-milroe-third-round-how-fits-offense-sam-darnold"
+      "date": "2026-11-09T01:20:00.000+00:00",
+      "opponent": "CHI",
+      "at_vs": "@",
+      "result": "L",
+      "score": "27-24",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
     },
     {
-      "headline": "Seahawks select Jalen Milroe with No. 92 pick of NFL draft",
-      "url": "https://www.espn.com/nfl/story/_/id/44860281/seahawks-select-jalen-milroe-no-92-pick-nfl-draft"
+      "date": "2026-11-01T18:00:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "16-0",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
     },
     {
-      "headline": "2025 NFL draft QB rankings: Ward, Sanders, Dart, Milroe",
-      "url": "https://www.espn.com/nfl/draft2025/insider/story/_/id/41736211/ranking-top-2025-nfl-draft-quarterbacks-hot-board-team-fits"
+      "date": "2026-10-25T17:00:00.000+00:00",
+      "opponent": "CAR",
+      "at_vs": "@",
+      "result": "W",
+      "score": "43-13",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-18T17:00:00.000+00:00",
+      "opponent": "PIT",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "26-19 OT",
+      "stats": {
+        "TOT": "2",
+        "SOLO": "2",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-09T00:15:00.000+00:00",
+      "opponent": "DAL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "24-16",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
     }
-  ]
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Miles+Killebrew+NFL+highlights",
+    "videos": [
+      {
+        "id": "iNfXQm0kG8Q",
+        "title": "Miles Killebrew Highlights - Tampa Bay Buccaneers | Free Agency 2026"
+      },
+      {
+        "id": "IBgkRiK9IXs",
+        "title": "BUCCS RECOVER FORCED FUMBLE BY MILES KILLEBREW"
+      },
+      {
+        "id": "Ae-YqMUCvm0",
+        "title": "Miles Killebrew Highlights ᴴᴰ || Welcome to Pittsburgh!"
+      }
+    ]
+  },
+  "news": []
 }
