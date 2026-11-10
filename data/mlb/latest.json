@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "5132070",
-    "name": "Bradley Hanner",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5132070.png",
-    "jersey": "#93",
-    "position": "Relief Pitcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/5132070"
+    "id": "5023768",
+    "name": "Joshua Kuroda-Grauer",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5023768.png",
+    "jersey": "#44",
+    "position": "Third Baseman",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5023768"
   },
   "team": {
-    "name": "New York Yankees",
-    "abbreviation": "NYY",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
-    "color": "132448"
+    "name": "Athletics",
+    "abbreviation": "ATH",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
+    "color": "003831"
   },
   "facts": {
-    "Age": 27,
-    "Height": "6' 4\"",
-    "Weight": "210 lbs",
-    "From": "Rhoadesville, VA",
+    "Age": 23,
+    "Height": "5' 10\"",
+    "Weight": "205 lbs",
+    "From": "New Brunswick, NJ",
     "College": null,
     "Draft": null,
     "Experience": "1st Season"
@@ -29,133 +29,144 @@
     "sections": [
       {
         "heading": "The short version",
-        "text": "Bradley Thomas Hanner (born February 10, 1999) is an American professional baseball pitcher for the New York Yankees of Major League Baseball (MLB). He debuted in MLB in 2026."
+        "text": "Joshua Kuroda-Grauer (born January 31, 2003) is an American professional baseball infielder for the Athletics of Major League Baseball (MLB). He played college baseball for the Rutgers Scarlet Knights and was selected by the Athletics in the third round of the 2024 MLB draft. He made his MLB debut in 2026."
       },
       {
         "heading": "Lately",
-        "text": "On December 16, 2025, Hanner signed a minor league contract with the New York Yankees. He began the 2026 season with the Triple-A Scranton/Wilkes-Barre RailRiders, compiling a 4–1 record and 1.99 ERA with 50 strikeouts and three saves across 32 relief appearances. On July 18, 2026, the Yankees signed Hanner to a major league contract and optioned him back to Scranton. On August 11, Hanner was promoted to the major leagues for the first time. Since then, Hanner has been DFA'd back to Triple-A and recalled several times, usually as a bulk reliever in blowouts On September 24 2026, Hanner earned his first career win during a series vs. the Tampa Bay Rays, pitching 2 innings of no run ball."
+        "text": "The Oakland Athletics selected Kuroda-Grauer in the third round of the 2024 Major League Baseball draft. He was assigned to the Stockton Ports of the Single-A California League to begin his professional career. Kuroda-Grauer was promoted to the Lansing Lugnuts of the High-A Midwest League after batting .389 with 13 runs scored in 12 games with Stockton. On June 29, 2026, Kuroda-Grauer was selected to the 40-man roster and promoted to the major leagues for the first time. He made his major league debut that night against the Los Angeles Dodgers and went 3-for-4 with a double, one RBI, and one run scored in a 9–4 loss."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Bradley_Hanner",
-    "title": "Bradley Hanner"
+    "url": "https://en.wikipedia.org/wiki/Joshua_Kuroda-Grauer",
+    "title": "Joshua Kuroda-Grauer"
   },
   "stats": {
     "labels": [
       "GP",
-      "GS",
-      "IP",
-      "ERA",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
       "BB",
-      "K"
+      "SO"
     ],
     "rows": [
       {
         "name": "2026",
         "values": [
-          "5",
-          "0",
-          "7.1",
-          "8.59",
+          "21",
+          "71",
+          "26",
+          ".366",
           "1",
-          "7"
+          "4",
+          "2",
+          "10"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "4",
-          "0",
-          "5.1",
-          "11.81",
+          "21",
+          "71",
+          "26",
+          ".366",
           "1",
-          "7"
+          "4",
+          "2",
+          "10"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-24T23:05:00.000+00:00",
-      "opponent": "TB",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "6-4",
-      "stats": {
-        "IP": "2.0",
-        "H": "2",
-        "ER": "0",
-        "K": "0"
-      }
-    },
-    {
-      "date": "2026-09-12T17:35:00.000+00:00",
-      "opponent": "NYM",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "12-2",
-      "stats": {
-        "IP": "1.1",
-        "H": "3",
-        "ER": "4",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-08-25T23:05:00.000+00:00",
+      "date": "2026-09-27T19:05:00.000+00:00",
       "opponent": "HOU",
       "at_vs": "vs",
       "result": "L",
-      "score": "9-7",
+      "score": "9-0",
       "stats": {
-        "IP": "1.1",
-        "H": "2",
-        "ER": "1",
-        "K": "3"
+        "AB": "4",
+        "H": "1",
+        "HR": "0",
+        "RBI": "0"
       }
     },
     {
-      "date": "2026-08-22T17:35:00.000+00:00",
-      "opponent": "TOR",
+      "date": "2026-09-27T01:40:00.000+00:00",
+      "opponent": "HOU",
       "at_vs": "vs",
       "result": "L",
-      "score": "4-3",
+      "score": "13-2",
       "stats": {
-        "IP": "1.2",
-        "H": "3",
-        "ER": "1",
-        "K": "1"
+        "AB": "1",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
       }
     },
     {
-      "date": "2026-08-14T23:15:00.000+00:00",
-      "opponent": "TOR",
-      "at_vs": "@",
+      "date": "2026-09-25T01:40:00.000+00:00",
+      "opponent": "HOU",
+      "at_vs": "vs",
       "result": "L",
-      "score": "3-1",
+      "score": "7-5",
       "stats": {
-        "IP": "1.0",
-        "H": "1",
-        "ER": "1",
-        "K": "2"
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-24T01:40:00.000+00:00",
+      "opponent": "LAA",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "7-3",
+      "stats": {
+        "AB": "1",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-23T01:40:00.000+00:00",
+      "opponent": "LAA",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "9-7",
+      "stats": {
+        "AB": "2",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Bradley+Hanner+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Joshua+Kuroda-Grauer+MLB+highlights",
     "videos": [
       {
-        "id": "QZ0fDAZgJ7o",
-        "title": "Bradley Hanner 2026 MLB Highlights!"
+        "id": "NKDcilEqfts",
+        "title": "Joshua Kuroda-Grauer 2026 Minor League Highlights! (Mid-Season)"
       },
       {
-        "id": "efQ0ip2s2OM",
-        "title": "Bradley Hanner — RHP, Cleveland Guardians"
+        "id": "bQ7krIBc-W8",
+        "title": "2025 Web Gem Reel: A's Prospect SS Joshua Kuroda-Grauer"
       },
       {
-        "id": "xkEKhtfoepU",
-        "title": "Bradley Hanner, Cleveland Guardians RHP Prospect (2023 Arizona Fall League)"
+        "id": "rC8DuaiuOEk",
+        "title": "Athletics' Joshua Kuroda-Grauer confident in his MLB ability after strong week | NBC Sports CA"
       }
     ]
   },
-  "news": []
+  "news": [
+    {
+      "headline": "A's place Joshua Kuroda-Grauer, Mark Leiter Jr. on IL",
+      "url": "https://www.espn.com/mlb/story/_/id/49421374/athletics-place-joshua-kuroda-grauer-mark-leiter-jr-injured-list"
+    }
+  ]
 }
