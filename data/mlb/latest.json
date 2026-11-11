@@ -1,26 +1,26 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "5023768",
-    "name": "Joshua Kuroda-Grauer",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5023768.png",
-    "jersey": "#44",
-    "position": "Third Baseman",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/5023768"
+    "id": "5202474",
+    "name": "Logan Evans",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5202474.png",
+    "jersey": "#23",
+    "position": "Starting Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5202474"
   },
   "team": {
-    "name": "Athletics",
-    "abbreviation": "ATH",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png",
-    "color": "003831"
+    "name": "Seattle Mariners",
+    "abbreviation": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
+    "color": "005c5c"
   },
   "facts": {
-    "Age": 23,
-    "Height": "5' 10\"",
-    "Weight": "205 lbs",
-    "From": "New Brunswick, NJ",
+    "Age": 25,
+    "Height": "6' 4\"",
+    "Weight": "215 lbs",
+    "From": "Ann Arbor, MI",
     "College": null,
     "Draft": null,
     "Experience": "1st Season"
@@ -29,144 +29,138 @@
     "sections": [
       {
         "heading": "The short version",
-        "text": "Joshua Kuroda-Grauer (born January 31, 2003) is an American professional baseball infielder for the Athletics of Major League Baseball (MLB). He played college baseball for the Rutgers Scarlet Knights and was selected by the Athletics in the third round of the 2024 MLB draft. He made his MLB debut in 2026."
+        "text": "Logan Michael Evans (born June 5, 2001) is an American professional baseball pitcher for the Seattle Mariners of Major League Baseball (MLB). He made his MLB debut in 2025."
       },
       {
         "heading": "Lately",
-        "text": "The Oakland Athletics selected Kuroda-Grauer in the third round of the 2024 Major League Baseball draft. He was assigned to the Stockton Ports of the Single-A California League to begin his professional career. Kuroda-Grauer was promoted to the Lansing Lugnuts of the High-A Midwest League after batting .389 with 13 runs scored in 12 games with Stockton. On June 29, 2026, Kuroda-Grauer was selected to the 40-man roster and promoted to the major leagues for the first time. He made his major league debut that night against the Los Angeles Dodgers and went 3-for-4 with a double, one RBI, and one run scored in a 9–4 loss."
+        "text": "Evans was assigned to the Triple-A Tacoma Rainiers to begin the 2025 season, posting a 3.86 ERA with 23 strikeouts over five starts. On April 27, Evans was selected to the 40-man roster and promoted to the major leagues for the first time. In his debut that afternoon against the Miami Marlins, Evans earned the win, tossing five innings and allowing two runs with three strikeouts. He made 16 appearances (15 starts) for Seattle during his rookie season, with a 6–5 record, 4.32 ERA, and 59 strikeouts across 81+1⁄3 innings pitched."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Joshua_Kuroda-Grauer",
-    "title": "Joshua Kuroda-Grauer"
+    "url": "https://en.wikipedia.org/wiki/Logan_Evans_(baseball)",
+    "title": "Logan Evans (baseball)"
   },
   "stats": {
     "labels": [
       "GP",
-      "AB",
-      "H",
-      "AVG",
-      "HR",
-      "RBI",
+      "GS",
+      "IP",
+      "ERA",
       "BB",
-      "SO"
+      "K"
     ],
     "rows": [
       {
-        "name": "2026",
+        "name": "2025",
         "values": [
-          "21",
-          "71",
-          "26",
-          ".366",
-          "1",
-          "4",
-          "2",
-          "10"
+          "16",
+          "15",
+          "81.1",
+          "4.32",
+          "31",
+          "59"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "21",
-          "71",
-          "26",
-          ".366",
-          "1",
-          "4",
-          "2",
-          "10"
+          "16",
+          "15",
+          "81.1",
+          "4.32",
+          "31",
+          "59"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-27T19:05:00.000+00:00",
-      "opponent": "HOU",
+      "date": "2025-09-28T01:40:00.000+00:00",
+      "opponent": "LAD",
       "at_vs": "vs",
       "result": "L",
-      "score": "9-0",
+      "score": "5-3",
       "stats": {
-        "AB": "4",
-        "H": "1",
-        "HR": "0",
-        "RBI": "0"
+        "IP": "3.0",
+        "H": "2",
+        "ER": "1",
+        "K": "1"
       }
     },
     {
-      "date": "2026-09-27T01:40:00.000+00:00",
-      "opponent": "HOU",
-      "at_vs": "vs",
+      "date": "2025-08-14T17:05:00.000+00:00",
+      "opponent": "BAL",
+      "at_vs": "@",
       "result": "L",
-      "score": "13-2",
+      "score": "5-3",
       "stats": {
-        "AB": "1",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
+        "IP": "4.0",
+        "H": "3",
+        "ER": "2",
+        "K": "1"
       }
     },
     {
-      "date": "2026-09-25T01:40:00.000+00:00",
-      "opponent": "HOU",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "7-5",
-      "stats": {
-        "AB": "3",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-24T01:40:00.000+00:00",
-      "opponent": "LAA",
+      "date": "2025-08-10T01:40:00.000+00:00",
+      "opponent": "TB",
       "at_vs": "vs",
       "result": "W",
-      "score": "7-3",
+      "score": "7-4",
       "stats": {
-        "AB": "1",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
+        "IP": "5.1",
+        "H": "3",
+        "ER": "3",
+        "K": "4"
       }
     },
     {
-      "date": "2026-09-23T01:40:00.000+00:00",
-      "opponent": "LAA",
+      "date": "2025-08-03T20:10:00.000+00:00",
+      "opponent": "TEX",
       "at_vs": "vs",
       "result": "W",
-      "score": "9-7",
+      "score": "5-4",
       "stats": {
-        "AB": "2",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
+        "IP": "5.0",
+        "H": "5",
+        "ER": "3",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2025-07-30T02:05:00.000+00:00",
+      "opponent": "ATH",
+      "at_vs": "@",
+      "result": "L",
+      "score": "6-1",
+      "stats": {
+        "IP": "4.2",
+        "H": "7",
+        "ER": "6",
+        "K": "7"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Joshua+Kuroda-Grauer+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Logan+Evans+MLB+highlights",
     "videos": [
       {
-        "id": "NKDcilEqfts",
-        "title": "Joshua Kuroda-Grauer 2026 Minor League Highlights! (Mid-Season)"
+        "id": "n_uSMq21Q0U",
+        "title": "Logan Evans Full 2025 Seattle Mariners Highlights"
       },
       {
-        "id": "bQ7krIBc-W8",
-        "title": "2025 Web Gem Reel: A's Prospect SS Joshua Kuroda-Grauer"
+        "id": "moW_msFi_gM",
+        "title": "Logan Evans 2025 MLB Highlights!"
       },
       {
-        "id": "rC8DuaiuOEk",
-        "title": "Athletics' Joshua Kuroda-Grauer confident in his MLB ability after strong week | NBC Sports CA"
+        "id": "8AG7oPT4qC4",
+        "title": "Mariners vs. Nationals Highlights: Cal and J-Rod Hit 3 HR, Logan Evans Throws 8 Innings"
       }
     ]
   },
   "news": [
     {
-      "headline": "A's place Joshua Kuroda-Grauer, Mark Leiter Jr. on IL",
-      "url": "https://www.espn.com/mlb/story/_/id/49421374/athletics-place-joshua-kuroda-grauer-mark-leiter-jr-injured-list"
+      "headline": "Mariners' Logan Evans has Tommy John surgery, likely out 2026",
+      "url": "https://www.espn.com/mlb/story/_/id/47781320/mariners-logan-evans-tommy-john-surgery-expected-miss-2026-season"
     }
   ]
 }
