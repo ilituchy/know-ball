@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-11",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4428343",
+    "name": "Ricky Barber",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428343.png",
+    "jersey": "#50",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4428343/ricky-barber"
+  },
+  "team": {
+    "name": "Washington Commanders",
+    "abbreviation": "WSH",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+    "color": "5a1414"
+  },
+  "facts": {
+    "Age": 25,
+    "Height": "6' 3\"",
+    "Weight": "295 lbs",
+    "From": "Louisville, KY",
+    "College": "UCF",
+    "Draft": "Undrafted",
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Ricky Barber (born May 7, 2001) is an American professional football defensive tackle for the Washington Commanders of the National Football League (NFL). Barber played college football for the Western Kentucky Hilltoppers and UCF Knights. He signed with the Commanders as an undrafted free agent in 2025."
+      },
+      {
+        "heading": "Early life",
+        "text": "Barber was born on May 7, 2001. He attended Doss High School in Louisville, Kentucky, where he played football as a defensive lineman, earning third-team all-state honors after recording 48 tackles as a junior in 2018. He then was named first-team all-state by USA Today, all-district and all-area as a senior in 2019. A three-star recruit, he committed to play college football for the Western Kentucky Hilltoppers."
+      },
+      {
+        "heading": "College career",
+        "text": "Barber redshirted as a true freshman in 2019 after appearing in four games, then became a starter at Western Kentucky in 2020. In 2020, he posted 58 tackles, seven tackles-for-loss (TFLs) and four sacks, earning honorable mention All-Conference USA honors and being named to the Football Writers Association of America (FWAA) Freshman All-America team. After the 2020 season, Barber entered the NCAA transfer portal and transferred to UCF. He started 10 games for the Knights in 2022, recording 29 tackles, 5.5 TFLs and three sacks. In 2023, he started all 14 games and was named first-team All-American Athletic Conference (AAC) after recording 49 tackles."
+      },
+      {
+        "heading": "Lately",
+        "text": "After going unselected in the 2025 NFL draft, Barber signed with the Washington Commanders as an undrafted free agent on May 8, 2025. He was waived on August 26 as part of final roster cuts, but  re-signed to the practice squad the following day. Barber was elevated to the active roster for the team's Week 17 game against the Dallas Cowboys and made his NFL debut in the game, posting five tackles and a sack. On January 5, 2026, Barber signed a reserve/futures contract with the Commanders. On September 17, the Commanders waived Barber and re-signed him to their practice squad two days later."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Ricky_Barber",
+    "title": "Ricky Barber"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "2",
+          "1",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "7",
+          "3",
+          "1",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-08T18:00:00.000+00:00",
+      "opponent": "LAR",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "20-13",
+      "stats": {
+        "TOT": "2",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Ricky+Barber+NFL+highlights",
+    "videos": [
+      {
+        "id": "8DDO_ptvcCA",
+        "title": "Ricky Barber Highlights 🔥 | Welcome to the Commanders"
+      },
+      {
+        "id": "_kayr8nKpzo",
+        "title": "Ricky Barber: Western Kentucky DT 2020 Highlights"
+      },
+      {
+        "id": "aWJ730RmoxI",
+        "title": "168   Ricky Barber"
+      }
+    ]
+  },
+  "news": []
+}

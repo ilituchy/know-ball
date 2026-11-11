@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "2575164",
-    "name": "Miles Killebrew",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2575164.png",
-    "jersey": "#29",
-    "position": "Safety",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/2575164/miles-killebrew"
+    "id": "4428343",
+    "name": "Ricky Barber",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428343.png",
+    "jersey": "#50",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4428343/ricky-barber"
   },
   "team": {
-    "name": "Tampa Bay Buccaneers",
-    "abbreviation": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-    "color": "bd1c36"
+    "name": "Washington Commanders",
+    "abbreviation": "WSH",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+    "color": "5a1414"
   },
   "facts": {
-    "Age": 33,
-    "Height": "6' 2\"",
-    "Weight": "222 lbs",
-    "From": "Henderson, NV",
-    "College": "Southern Utah",
-    "Draft": "2016: Rd 4, Pk 111 (DET)",
-    "Experience": "11th Season"
+    "Age": 25,
+    "Height": "6' 3\"",
+    "Weight": "295 lbs",
+    "From": "Louisville, KY",
+    "College": "UCF",
+    "Draft": "Undrafted",
+    "Experience": "1st Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Miles Killebrew (born May 10, 1993) is an American professional football safety and special teamer for the Tampa Bay Buccaneers of the National Football League (NFL). He played college football for the Southern Utah Thunderbirds and was selected by the Detroit Lions in the fourth round of the 2016 NFL draft."
+        "text": "Ricky Barber (born May 7, 2001) is an American professional football defensive tackle for the Washington Commanders of the National Football League (NFL). Barber played college football for the Western Kentucky Hilltoppers and UCF Knights. He signed with the Commanders as an undrafted free agent in 2025."
+      },
+      {
+        "heading": "Early life",
+        "text": "Barber was born on May 7, 2001. He attended Doss High School in Louisville, Kentucky, where he played football as a defensive lineman, earning third-team all-state honors after recording 48 tackles as a junior in 2018. He then was named first-team all-state by USA Today, all-district and all-area as a senior in 2019. A three-star recruit, he committed to play college football for the Western Kentucky Hilltoppers."
       },
       {
         "heading": "College career",
-        "text": "Killebrew reached the triple-digit mark in tackles each of his last two seasons (101 in 2014, 132 in 2015) and also showed an ability to handle pass coverage responsibilities with three interceptions (one returned for a touchdown in 2014) and seven pass breakups in 2015. The four-year starter earned All-Big Sky recognition in each season: honorable mention in 2012 and 2013, second-team in 2014, and first-team in 2015."
+        "text": "Barber redshirted as a true freshman in 2019 after appearing in four games, then became a starter at Western Kentucky in 2020. In 2020, he posted 58 tackles, seven tackles-for-loss (TFLs) and four sacks, earning honorable mention All-Conference USA honors and being named to the Football Writers Association of America (FWAA) Freshman All-America team. After the 2020 season, Barber entered the NCAA transfer portal and transferred to UCF. He started 10 games for the Knights in 2022, recording 29 tackles, 5.5 TFLs and three sacks. In 2023, he started all 14 games and was named first-team All-American Athletic Conference (AAC) after recording 49 tackles."
       },
       {
         "heading": "Lately",
-        "text": "In 2025, Killebrew recorded five tackles across Pittsburgh's first five contests. On October 15, 2025, head coach Mike Tomlin announced that Killebrew had suffered a 'significant' knee injury in the team's Week 6 victory over the Cleveland Browns; he was placed on injured reserve the following day. On March 13, 2026, Killebrew signed a one-year, $1.79 million contract with the Tampa Bay Buccaneers."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Killebrew was raised by his parents, Lisa and David Killebrew, in Henderson, Nevada. Killebrew and his family are Indianapolis Colts fans, having lived in Indiana for a few years. He also cites his role models in football as Troy Polamalu, Earl Thomas, and Bob Sanders. On April 30, 2016, Killebrew graduated from Southern Utah University with a degree in engineering technology. He received the phone call from the Lions telling him they'd drafted him on the way to his graduation ceremony. In June 2016, a Detroit-based brewery named Fort Street Brewery created Killebrew IPA, a play on words using his last name."
+        "text": "After going unselected in the 2025 NFL draft, Barber signed with the Washington Commanders as an undrafted free agent on May 8, 2025. He was waived on August 26 as part of final roster cuts, but  re-signed to the practice squad the following day. Barber was elevated to the active roster for the team's Week 17 game against the Dallas Cowboys and made his NFL debut in the game, posting five tackles and a sack. On January 5, 2026, Barber signed a reserve/futures contract with the Commanders. On September 17, the Commanders waived Barber and re-signed him to their practice squad two days later."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Miles_Killebrew",
-    "title": "Miles Killebrew"
+    "url": "https://en.wikipedia.org/wiki/Ricky_Barber",
+    "title": "Ricky Barber"
   },
   "stats": {
     "labels": [
@@ -60,10 +60,10 @@
       {
         "name": "2026",
         "values": [
-          "9",
-          "6",
-          "0",
           "2",
+          "1",
+          "0",
+          "0",
           "0",
           "0"
         ]
@@ -71,77 +71,25 @@
       {
         "name": "Career",
         "values": [
-          "175",
-          "136",
-          "0",
+          "7",
           "3",
-          "2",
-          "6"
+          "1",
+          "0",
+          "0",
+          "0"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-09T01:20:00.000+00:00",
-      "opponent": "CHI",
-      "at_vs": "@",
-      "result": "L",
-      "score": "27-24",
-      "stats": {
-        "TOT": "1",
-        "SOLO": "1",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-11-01T18:00:00.000+00:00",
-      "opponent": "ATL",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "16-0",
-      "stats": {
-        "TOT": "1",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-25T17:00:00.000+00:00",
-      "opponent": "CAR",
-      "at_vs": "@",
-      "result": "W",
-      "score": "43-13",
-      "stats": {
-        "TOT": "0",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-18T17:00:00.000+00:00",
-      "opponent": "PIT",
+      "date": "2026-11-08T18:00:00.000+00:00",
+      "opponent": "LAR",
       "at_vs": "vs",
       "result": "L",
-      "score": "26-19 OT",
+      "score": "20-13",
       "stats": {
         "TOT": "2",
-        "SOLO": "2",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-09T00:15:00.000+00:00",
-      "opponent": "DAL",
-      "at_vs": "@",
-      "result": "W",
-      "score": "24-16",
-      "stats": {
-        "TOT": "1",
         "SOLO": "1",
         "SACK": "0",
         "INT": "0"
@@ -149,19 +97,19 @@
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Miles+Killebrew+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Ricky+Barber+NFL+highlights",
     "videos": [
       {
-        "id": "iNfXQm0kG8Q",
-        "title": "Miles Killebrew Highlights - Tampa Bay Buccaneers | Free Agency 2026"
+        "id": "8DDO_ptvcCA",
+        "title": "Ricky Barber Highlights 🔥 | Welcome to the Commanders"
       },
       {
-        "id": "IBgkRiK9IXs",
-        "title": "BUCCS RECOVER FORCED FUMBLE BY MILES KILLEBREW"
+        "id": "_kayr8nKpzo",
+        "title": "Ricky Barber: Western Kentucky DT 2020 Highlights"
       },
       {
-        "id": "Ae-YqMUCvm0",
-        "title": "Miles Killebrew Highlights ᴴᴰ || Welcome to Pittsburgh!"
+        "id": "aWJ730RmoxI",
+        "title": "168   Ricky Barber"
       }
     ]
   },
