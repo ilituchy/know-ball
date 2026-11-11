@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-11",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4845363",
+    "name": "Cam Christie",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4845363.png",
+    "jersey": "#24",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4845363/cam-christie"
+  },
+  "team": {
+    "name": "LA Clippers",
+    "abbreviation": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "color": "12173f"
+  },
+  "facts": {
+    "Age": 21,
+    "Height": "6' 5\"",
+    "Weight": "190 lbs",
+    "From": "Arlington Heights, IL",
+    "College": "Minnesota",
+    "Draft": "2024: Rd 2, Pk 46 (LAC)",
+    "Experience": "3rd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Cameron Hannaford Christie (born July 24, 2005) is an American professional basketball player for the Los Angeles Clippers of the National Basketball Association (NBA), on a two-way contract with the San Diego Clippers of the NBA G League. He played college basketball for the Minnesota Golden Gophers."
+      },
+      {
+        "heading": "Early life and high school career",
+        "text": "Christie and his brother Max, grew up in Arlington Heights, Illinois, and attended Rolling Meadows High School. He averaged 22 points, four rebounds, and three assists per game as a junior. Christie was rated a three-star recruit and committed to playing college basketball for Minnesota over offers from Michigan State, USC, Virginia, Missouri, Ohio State, Illinois, Northwestern, and Iowa State."
+      },
+      {
+        "heading": "College career",
+        "text": "Christie began his freshman season as a key reserve at guard. He made his college debut in the second game of the season against UTSA and scored 18 points in a 102–76 win. Christie made his first career start against Nebraska on December 6, 2023, and scored nine points with three rebounds in a 76–65 win. He was named to the Big Ten Conference All-Freshman team at the end of the regular season. Following the end of the season, Christie declared for the 2024 NBA draft."
+      },
+      {
+        "heading": "Lately",
+        "text": "On June 27, 2024, Christie was selected with the 46th overall pick by the Los Angeles Clippers in the 2024 NBA draft and on July 5, he signed with them. Throughout his rookie season, he has been assigned to the San Diego Clippers several times."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Christie's mother, Katrina (née Hannaford), played college basketball at Northwestern, scoring over 1,000 points, and is a psychotherapist. His father, Max Sr., played college basketball at Parkland College and Wisconsin–Superior before becoming a pilot. Christie's older brother, Max Christie, played college basketball at Michigan State and currently plays in the NBA for the Dallas Mavericks."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Cam_Christie",
+    "title": "Cam Christie"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "5",
+          "6.0",
+          "1.4",
+          "0.4",
+          "0.2",
+          "18.2",
+          "25.0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "73",
+          "7.8",
+          "2.5",
+          "1.3",
+          "0.5",
+          "35.6",
+          "22.7"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-09T02:00:00.000+00:00",
+      "opponent": "NO",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "139-123",
+      "stats": {
+        "MIN": "2",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-02T01:30:00.000+00:00",
+      "opponent": "GS",
+      "at_vs": "@",
+      "result": "L",
+      "score": "124-112",
+      "stats": {
+        "MIN": "6",
+        "PTS": "3",
+        "REB": "1",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-10-31T00:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "127-101",
+      "stats": {
+        "MIN": "5",
+        "PTS": "2",
+        "REB": "1",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-10-29T02:30:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "103-87",
+      "stats": {
+        "MIN": "14",
+        "PTS": "2",
+        "REB": "0",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-10-22T02:30:00.000+00:00",
+      "opponent": "SAC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "121-96",
+      "stats": {
+        "MIN": "2",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Cam+Christie+NBA+highlights",
+    "videos": [
+      {
+        "id": "3JFQc-aIJ6Q",
+        "title": "Cam Christie - All POINTS and ASSISTS in The 24/25 NBA Rookie Season for LA Clippers"
+      },
+      {
+        "id": "TBgDReg6amE",
+        "title": "Cam Christie Records Career-High 38 PTS Vs. Remix"
+      },
+      {
+        "id": "_gpgFpNjV2Q",
+        "title": "Brothers Cam Christie (Clippers) and Max Christie (Lakers) get to play against each other"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Men's college basketball coaches react to the 2024 NBA draft",
+      "url": "https://www.espn.com/mens-college-basketball/insider/story/_/id/40452527/coaches-react-2024-nba-draft-bronny-sheppard-clingan-edey"
+    }
+  ]
+}
