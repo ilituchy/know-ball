@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-12",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "4187628",
+    "name": "Peyton Gray",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4187628.png",
+    "jersey": "#75",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4187628"
+  },
+  "team": {
+    "name": "Texas Rangers",
+    "abbreviation": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+    "color": "003278"
+  },
+  "facts": {
+    "Age": 31,
+    "Height": "6' 4\"",
+    "Weight": "235 lbs",
+    "From": "Columbus, IN",
+    "College": "Florida Gulf Coast",
+    "Draft": null,
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Peyton Charles Paul Gray (born June 2, 1995) is an American professional baseball pitcher for the Texas Rangers of Major League Baseball (MLB). He made his MLB debut in 2026."
+      },
+      {
+        "heading": "Lately",
+        "text": "On January 21, 2025, Gray signed with the Texas Rangers organization. He split the 2025 season between the Frisco RoughRiders of the Double–A Texas League and the Round Rock Express of the Triple-A Pacific Coast League, going a combined 8–6 with a 3.58 ERA with 89 strikeouts over 73 innings. On April 23, 2026, Texas selected Gray's contract and promoted him to the major league roster for the first time. On May 30, Gray earned his first career win, recording two strikeouts across a scoreless inning of relief against the Kansas City Royals."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Peyton_Gray",
+    "title": "Peyton Gray"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "49",
+          "0",
+          "56.0",
+          "3.86",
+          "17",
+          "60"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "49",
+          "0",
+          "56.0",
+          "3.86",
+          "17",
+          "60"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-23T00:05:00.000+00:00",
+      "opponent": "NYM",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "6-3",
+      "stats": {
+        "IP": "1.0",
+        "H": "1",
+        "ER": "0",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-08-29T23:15:00.000+00:00",
+      "opponent": "MIL",
+      "at_vs": "@",
+      "result": "L",
+      "score": "5-3",
+      "stats": {
+        "IP": "1.0",
+        "H": "3",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-26T23:40:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "L",
+      "score": "10-4",
+      "stats": {
+        "IP": "1.1",
+        "H": "1",
+        "ER": "0",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-25T23:40:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "L",
+      "score": "11-7",
+      "stats": {
+        "IP": "1.0",
+        "H": "2",
+        "ER": "1",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-08-23T18:35:00.000+00:00",
+      "opponent": "LAA",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "5-3",
+      "stats": {
+        "IP": "1.1",
+        "H": "1",
+        "ER": "1",
+        "K": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Peyton+Gray+MLB+highlights",
+    "videos": [
+      {
+        "id": "yGZqWFa7mn4",
+        "title": "Peyton Gray 2026 MLB Highlights!"
+      },
+      {
+        "id": "om5xZQf1j4g",
+        "title": "Peyton Gray's Major League Debut"
+      },
+      {
+        "id": "HLXmOztkhJs",
+        "title": "Peyton Gray - 2020 American Association"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Rangers put relievers Cole Winn, Peyton Gray on injured list",
+      "url": "https://www.espn.com/mlb/story/_/id/49787703/rangers-put-relievers-cole-winn-peyton-gray-injured-list"
+    },
+    {
+      "headline": "Rangers' Peyton Gray, 30, throws perfect inning in MLB debut",
+      "url": "https://www.espn.com/mlb/story/_/id/48574462/rangers-peyton-gray-30-throws-perfect-inning-mlb-debut"
+    }
+  ]
+}
