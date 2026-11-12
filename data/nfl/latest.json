@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4428343",
-    "name": "Ricky Barber",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428343.png",
-    "jersey": "#50",
+    "id": "4687513",
+    "name": "Cam Jackson",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4687513.png",
+    "jersey": "#99",
     "position": "Defensive Tackle",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4428343/ricky-barber"
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4687513/cam-jackson"
   },
   "team": {
-    "name": "Washington Commanders",
-    "abbreviation": "WSH",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
-    "color": "5a1414"
+    "name": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "color": "0085ca"
   },
   "facts": {
-    "Age": 25,
-    "Height": "6' 3\"",
-    "Weight": "295 lbs",
-    "From": "Louisville, KY",
-    "College": "UCF",
-    "Draft": "Undrafted",
-    "Experience": "1st Season"
+    "Age": 24,
+    "Height": "6' 6\"",
+    "Weight": "328 lbs",
+    "From": "Haynesville, LA",
+    "College": "Florida",
+    "Draft": "2025: Rd 5, Pk 140 (CAR)",
+    "Experience": "2nd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Ricky Barber (born May 7, 2001) is an American professional football defensive tackle for the Washington Commanders of the National Football League (NFL). Barber played college football for the Western Kentucky Hilltoppers and UCF Knights. He signed with the Commanders as an undrafted free agent in 2025."
+        "text": "Cam'Ron Jackson (born August 7, 2002) is an American professional football defensive tackle for the Carolina Panthers of the National Football League (NFL). He played college football for the Memphis Tigers and Florida Gators. Jackson was selected by the Panthers in the fifth round of the 2025 NFL draft."
       },
       {
         "heading": "Early life",
-        "text": "Barber was born on May 7, 2001. He attended Doss High School in Louisville, Kentucky, where he played football as a defensive lineman, earning third-team all-state honors after recording 48 tackles as a junior in 2018. He then was named first-team all-state by USA Today, all-district and all-area as a senior in 2019. A three-star recruit, he committed to play college football for the Western Kentucky Hilltoppers."
+        "text": "Jackson attended Haynesville High School in Haynesville, Louisiana. Rated as a four-star recruit, he originally committed to play college football for the LSU Tigers before flipping his commitment to play for the Memphis Tigers."
       },
       {
         "heading": "College career",
-        "text": "Barber redshirted as a true freshman in 2019 after appearing in four games, then became a starter at Western Kentucky in 2020. In 2020, he posted 58 tackles, seven tackles-for-loss (TFLs) and four sacks, earning honorable mention All-Conference USA honors and being named to the Football Writers Association of America (FWAA) Freshman All-America team. After the 2020 season, Barber entered the NCAA transfer portal and transferred to UCF. He started 10 games for the Knights in 2022, recording 29 tackles, 5.5 TFLs and three sacks. In 2023, he started all 14 games and was named first-team All-American Athletic Conference (AAC) after recording 49 tackles."
+        "text": "In his first two collegiate seasons in 2020 and 2021, Jackson appeared in 21 games and totaled ten tackles with 2.5 being for a loss and a sack and a half. In 2022, he notched 41 tackles with three being for a loss and a sack for the Tigers, earning third-team all-American Athletic Conference honors. After the conclusion of the 2022 season, Jackson entered his name into the NCAA transfer portal. Jackson transferred to play for the Florida Gators. In week 3 of the 2023 season, he notched five tackles against Tennessee and was named the co-Southeastern Conference (SEC) defensive lineman of the week."
       },
       {
         "heading": "Lately",
-        "text": "After going unselected in the 2025 NFL draft, Barber signed with the Washington Commanders as an undrafted free agent on May 8, 2025. He was waived on August 26 as part of final roster cuts, but  re-signed to the practice squad the following day. Barber was elevated to the active roster for the team's Week 17 game against the Dallas Cowboys and made his NFL debut in the game, posting five tackles and a sack. On January 5, 2026, Barber signed a reserve/futures contract with the Commanders. On September 17, the Commanders waived Barber and re-signed him to their practice squad two days later."
+        "text": "Jackson was selected by the Carolina Panthers in the fifth round (140th overall) at the 2025 NFL draft, a selection previously traded to the Panthers by the New York Giants for Brian Burns in the previous offseason."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Ricky_Barber",
-    "title": "Ricky Barber"
+    "url": "https://en.wikipedia.org/wiki/Cam_Jackson_(American_football)",
+    "title": "Cam Jackson (American football)"
   },
   "stats": {
     "labels": [
@@ -61,7 +61,7 @@
         "name": "2026",
         "values": [
           "2",
-          "1",
+          "2",
           "0",
           "0",
           "0",
@@ -71,9 +71,9 @@
       {
         "name": "Career",
         "values": [
-          "7",
-          "3",
-          "1",
+          "11",
+          "4",
+          "0",
           "0",
           "0",
           "0"
@@ -83,33 +83,33 @@
   },
   "recent_games": [
     {
-      "date": "2026-11-08T18:00:00.000+00:00",
-      "opponent": "LAR",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "20-13",
+      "date": "2026-09-20T17:00:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "34-3",
       "stats": {
         "TOT": "2",
-        "SOLO": "1",
+        "SOLO": "2",
         "SACK": "0",
         "INT": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Ricky+Barber+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Cam+Jackson+NFL+highlights",
     "videos": [
       {
-        "id": "8DDO_ptvcCA",
-        "title": "Ricky Barber Highlights 🔥 | Welcome to the Commanders"
+        "id": "cGVZTpp9TNQ",
+        "title": "5th Round Pick DT Cam Jackson College Highlights | Carolina Panthers"
       },
       {
-        "id": "_kayr8nKpzo",
-        "title": "Ricky Barber: Western Kentucky DT 2020 Highlights"
+        "id": "eku9Usi_KFg",
+        "title": "Jackson Harris 🔥 LSU Wide Receiver 2026 Highlights "
       },
       {
-        "id": "aWJ730RmoxI",
-        "title": "168   Ricky Barber"
+        "id": "3GB-5j1zkVw",
+        "title": "Cam Jackson Field Goal Block Against Tampa Bay @Tampa Bay"
       }
     ]
   },

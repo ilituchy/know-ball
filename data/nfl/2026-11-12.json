@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-12",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4687513",
+    "name": "Cam Jackson",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4687513.png",
+    "jersey": "#99",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4687513/cam-jackson"
+  },
+  "team": {
+    "name": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "color": "0085ca"
+  },
+  "facts": {
+    "Age": 24,
+    "Height": "6' 6\"",
+    "Weight": "328 lbs",
+    "From": "Haynesville, LA",
+    "College": "Florida",
+    "Draft": "2025: Rd 5, Pk 140 (CAR)",
+    "Experience": "2nd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Cam'Ron Jackson (born August 7, 2002) is an American professional football defensive tackle for the Carolina Panthers of the National Football League (NFL). He played college football for the Memphis Tigers and Florida Gators. Jackson was selected by the Panthers in the fifth round of the 2025 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Jackson attended Haynesville High School in Haynesville, Louisiana. Rated as a four-star recruit, he originally committed to play college football for the LSU Tigers before flipping his commitment to play for the Memphis Tigers."
+      },
+      {
+        "heading": "College career",
+        "text": "In his first two collegiate seasons in 2020 and 2021, Jackson appeared in 21 games and totaled ten tackles with 2.5 being for a loss and a sack and a half. In 2022, he notched 41 tackles with three being for a loss and a sack for the Tigers, earning third-team all-American Athletic Conference honors. After the conclusion of the 2022 season, Jackson entered his name into the NCAA transfer portal. Jackson transferred to play for the Florida Gators. In week 3 of the 2023 season, he notched five tackles against Tennessee and was named the co-Southeastern Conference (SEC) defensive lineman of the week."
+      },
+      {
+        "heading": "Lately",
+        "text": "Jackson was selected by the Carolina Panthers in the fifth round (140th overall) at the 2025 NFL draft, a selection previously traded to the Panthers by the New York Giants for Brian Burns in the previous offseason."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Cam_Jackson_(American_football)",
+    "title": "Cam Jackson (American football)"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "2",
+          "2",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "11",
+          "4",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-20T17:00:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "34-3",
+      "stats": {
+        "TOT": "2",
+        "SOLO": "2",
+        "SACK": "0",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Cam+Jackson+NFL+highlights",
+    "videos": [
+      {
+        "id": "cGVZTpp9TNQ",
+        "title": "5th Round Pick DT Cam Jackson College Highlights | Carolina Panthers"
+      },
+      {
+        "id": "eku9Usi_KFg",
+        "title": "Jackson Harris 🔥 LSU Wide Receiver 2026 Highlights "
+      },
+      {
+        "id": "3GB-5j1zkVw",
+        "title": "Cam Jackson Field Goal Block Against Tampa Bay @Tampa Bay"
+      }
+    ]
+  },
+  "news": []
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-13",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4608929",
+    "name": "Emmanuel Pregnon",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4608929.png",
+    "jersey": "#75",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4608929/emmanuel-pregnon"
+  },
+  "team": {
+    "name": "Jacksonville Jaguars",
+    "abbreviation": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "color": "007487"
+  },
+  "facts": {
+    "Age": 25,
+    "Height": "6' 4\"",
+    "Weight": "314 lbs",
+    "From": "Denver, CO",
+    "College": "Oregon",
+    "Draft": "2026: Rd 3, Pk 88 (JAX)",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Emmanuel Pregnon (born October 4, 2001) is an American professional football guard for the Jacksonville Jaguars of the National Football League (NFL). He played college football for the Wyoming Cowboys, USC Trojans and Oregon Ducks. Pregnon was selected by the Jaguars in the third round of the 2026 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Pregnon attended Thomas Jefferson High School in Denver, Colorado. He was an unranked recruit and committed to play college football for the Wyoming Cowboys. Pregnon is of Ivorian descent."
+      },
+      {
+        "heading": "College career",
+        "text": "Pregnon opted out of his freshman season in 2020 due to the COVID-19 pandemic before taking a redshirt in 2021. Heading into the 2022 season, he earned a starting spot on the Cowboys offensive line. Pregnon served as the team's starting guard throughout the year and earned multiple freshman all-American honors. After the 2022 season, he entered his name into the NCAA transfer portal. Pregnon transferred to play for the USC Trojans. In his first two seasons with the Trojans he served as the team's primary starting left guard. For his performance during the 2024 season, Pregnon was named second-team all-Big Ten Conference."
+      },
+      {
+        "heading": "Lately",
+        "text": "Pregnon was selected by the Jacksonville Jaguars in the third round with the 88th overall pick in the 2026 NFL draft."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Emmanuel_Pregnon",
+    "title": "Emmanuel Pregnon"
+  },
+  "stats": {
+    "labels": [],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Emmanuel+Pregnon+NFL+highlights",
+    "videos": [
+      {
+        "id": "l7qUPgXYStw",
+        "title": "Emmanuel Pregnon Preseason NFL Debut Highlights | All Snaps Vs Saints"
+      },
+      {
+        "id": "Nvwqgwn89SA",
+        "title": "Emmanuel Pregnon Left Guard Highlights "
+      },
+      {
+        "id": "lsJT7hZm5qs",
+        "title": "OL Emmanuel Pregnon Highlights | 2026 NFL Draft | Jacksonville Jaguars"
+      }
+    ]
+  },
+  "news": []
+}
