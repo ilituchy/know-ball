@@ -4,6 +4,7 @@
 const BASE = "https://raw.githubusercontent.com/ilituchy/know-ball/main/data";
 const REFRESH_MS = 60 * 60 * 1000;
 const DEFAULT_SPORTS = ["nba", "nfl", "mlb"];
+const todayInNewYork = () => new Date().toLocaleDateString("en-CA", { timeZone: "America/New_York" });
 
 const esc = (v) =>
   String(v ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -129,7 +130,9 @@ class KnowBallCard extends HTMLElement {
     await Promise.all(
       this._sports.map(async (sport) => {
         try {
-          const res = await fetch(`${BASE}/${sport}/latest.json?t=${stamp}`);
+          // Pages are built a day ahead; latest.json covers a missed day.
+          let res = await fetch(`${BASE}/${sport}/${todayInNewYork()}.json?t=${stamp}`);
+          if (!res.ok) res = await fetch(`${BASE}/${sport}/latest.json?t=${stamp}`);
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
           this._data[sport] = await res.json();
         } catch (err) {

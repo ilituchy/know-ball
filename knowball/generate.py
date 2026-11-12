@@ -108,34 +108,52 @@ def build(sport: Sport, day: dt.date, used: set[str]) -> dict:
     }
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--sport", default="nba", choices=sorted(SPORTS))
-    parser.add_argument("--date", help="YYYY-MM-DD, default today in New York")
-    parser.add_argument("--force", action="store_true", help="rebuild an existing day")
-    args = parser.parse_args()
+def days_to_build(today: dt.date) -> list[dt.date]:
+    """Today and tomorrow. GitHub's scheduled runs start hours late, so
+    building a day ahead means the page is ready at midnight."""
+    return [today, today + dt.timedelta(days=1)]
 
-    sport = SPORTS[args.sport]
-    day = dt.date.fromisoformat(args.date) if args.date else dt.datetime.now(TZ).date()
-    folder = ROOT / "data" / sport.key
-    folder.mkdir(parents=True, exist_ok=True)
+
+def build_day(sport: Sport, folder: pathlib.Path, day: dt.date, force: bool) -> None:
     target = folder / f"{day.isoformat()}.json"
-    history_path = folder / "history.json"
-    history = read_history(history_path)
-
-    if target.exists() and not args.force:
+    if target.exists() and not force:
         print(f"{target.name} already exists")
         return
-
-    history = [h for h in history if h["date"] != day.isoformat()]
+    history_path = folder / "history.json"
+    history = [h for h in read_history(history_path) if h["date"] != day.isoformat()]
     page = build(sport, day, {h["id"] for h in history})
     history.append(
         {"date": day.isoformat(), "id": page["player"]["id"], "name": page["player"]["name"]}
     )
     write_json(target, page)
-    write_json(folder / "latest.json", page)
-    write_json(history_path, history)
+    write_json(history_path, sorted(history, key=lambda h: h["date"]))
     print(f"{day}: {page['player']['name']} ({page['team']['name']})")
+
+
+def point_latest(folder: pathlib.Path, today: dt.date) -> None:
+    """latest.json is the newest page that isn't in the future."""
+    dated = sorted(
+        f for f in folder.glob("????-??-??.json") if f.stem <= today.isoformat()
+    )
+    if dated:
+        (folder / "latest.json").write_text(dated[-1].read_text())
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--sport", default="nba", choices=sorted(SPORTS))
+    parser.add_argument("--date", help="build only this YYYY-MM-DD")
+    parser.add_argument("--force", action="store_true", help="rebuild days that exist")
+    args = parser.parse_args()
+
+    sport = SPORTS[args.sport]
+    today = dt.datetime.now(TZ).date()
+    folder = ROOT / "data" / sport.key
+    folder.mkdir(parents=True, exist_ok=True)
+    days = [dt.date.fromisoformat(args.date)] if args.date else days_to_build(today)
+    for day in days:
+        build_day(sport, folder, day, args.force)
+    point_latest(folder, today)
 
 
 if __name__ == "__main__":

@@ -14,10 +14,12 @@ highlights, and recent news.
    and anyone whose Wikipedia lead mentions a major honor like the Pro Bowl or
    an All-Star selection. It also needs a Wikipedia article, so the page has a
    real story.
-3. The result lands in `data/<sport>/latest.json`, with a dated copy and
-   `history.json` beside it.
-4. `ha/know-ball-card.js` reads each league's `latest.json` and renders it in
-   Home Assistant.
+3. Each run builds today and tomorrow, because GitHub's scheduled runs often
+   start hours late. Pages land in `data/<sport>/<date>.json`, with
+   `history.json` beside them and `latest.json` pointing at the newest page that
+   isn't in the future.
+4. `ha/know-ball-card.js` loads today's dated page for each league, falling back
+   to `latest.json`, and renders it in Home Assistant.
 
 Stats vary by position, so a player with none (an offensive lineman, say) gets
 a page without the numbers section.
@@ -38,7 +40,8 @@ python3 -m knowball.generate --sport nba
 python3 -m unittest discover -s tests -t .
 ```
 
-Add `--force` to rebuild a day, or `--date YYYY-MM-DD` to build a specific one.
+Add `--force` to rebuild days that already exist, or `--date YYYY-MM-DD` to
+build only that day.
 
 ## Add a sport
 

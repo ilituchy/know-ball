@@ -2,7 +2,10 @@ name: Daily player
 
 on:
   schedule:
-    - cron: "0 11 * * *" # 6 or 7am New York
+    # Each run builds today and tomorrow, so a late start doesn't matter.
+    # GitHub sometimes drops scheduled runs, hence a second one as a backup.
+    - cron: "0 11 * * *"
+    - cron: "0 21 * * *"
   workflow_dispatch:
     inputs:
       force:

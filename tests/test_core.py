@@ -2,7 +2,7 @@ import datetime as dt
 import json
 import unittest
 
-from knowball import enrich, espn, picker
+from knowball import enrich, espn, generate, picker
 from knowball.sports import SPORTS, StatView
 
 DAY = dt.date(2026, 11, 5)
@@ -32,6 +32,24 @@ class Picker(unittest.TestCase):
         self.assertFalse(picker.is_famous("a backup guard", ("Pro Bowl",)))
         nba = SPORTS["nba"].fame_words
         self.assertTrue(picker.is_famous("the NBA Defensive Player of the Year in 2022", nba))
+
+
+class Schedule(unittest.TestCase):
+    def test_builds_a_day_ahead(self):
+        self.assertEqual(
+            generate.days_to_build(DAY), [DAY, DAY + dt.timedelta(days=1)]
+        )
+
+    def test_latest_never_points_at_tomorrow(self):
+        import pathlib
+        import tempfile
+
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = pathlib.Path(tmp)
+            for day in ("2026-11-04", "2026-11-05", "2026-11-06"):
+                (folder / f"{day}.json").write_text(day)
+            generate.point_latest(folder, DAY)
+            self.assertEqual((folder / "latest.json").read_text(), "2026-11-05")
 
 
 class Espn(unittest.TestCase):
