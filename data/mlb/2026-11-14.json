@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-14",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "4917640",
+    "name": "AJ Smith-Shawver",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917640.png",
+    "jersey": "#32",
+    "position": "Starting Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4917640"
+  },
+  "team": {
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+    "color": "0c2340"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 3\"",
+    "Weight": "205 lbs",
+    "From": "Fort Worth, TX",
+    "College": null,
+    "Draft": "2021: Rd 7, Pk 217 (ATL)",
+    "Experience": "4th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "AJ Smith-Shawver (born November 20, 2002) is an American professional baseball pitcher for the Atlanta Braves of Major League Baseball (MLB). He made his MLB debut in 2023."
+      },
+      {
+        "heading": "Lately",
+        "text": "Smith-Shawver was invited to spring training before the 2024 regular season began, but did not make the club and was optioned to Triple-A Gwinnett. On May 5, 2025, Smith-Shawver pitched eight shutout innings in the longest start of his professional career. He did not yield a hit until the top of the eighth, to Santiago Espinal of the Cincinnati Reds. He was removed from a game on May 29, and placed on the 15-day injured list. Smith-Shawver was subsequently moved to the 60-day IL and diagnosed with a UCL tear. He underwent Tommy John surgery on June 9, officially ending his season."
+      },
+      {
+        "heading": "Personal life",
+        "text": "AJ Smith was raised by his mother Laurie and stepfather Jason. He added Shawver to his surname while in high school. He is now dating Josie Canseco, daughter of former MLB star, Jose Canseco."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/AJ_Smith-Shawver",
+    "title": "AJ Smith-Shawver"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "9",
+          "5",
+          "31.1",
+          "6.61",
+          "16",
+          "27"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "25",
+          "20",
+          "105.1",
+          "4.61",
+          "50",
+          "93"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-10-03T20:00:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "@",
+      "result": "L",
+      "score": "5-3",
+      "stats": {
+        "IP": "2.2",
+        "H": "3",
+        "ER": "3",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "MIA",
+      "at_vs": "@",
+      "result": "L",
+      "score": "5-3",
+      "stats": {
+        "IP": "1.1",
+        "H": "1",
+        "ER": "1",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-09-24T23:15:00.000+00:00",
+      "opponent": "CIN",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "7-6",
+      "stats": {
+        "IP": "2.0",
+        "H": "1",
+        "ER": "2",
+        "K": "0"
+      }
+    },
+    {
+      "date": "2026-09-20T18:10:00.000+00:00",
+      "opponent": "HOU",
+      "at_vs": "@",
+      "result": "W",
+      "score": "4-2",
+      "stats": {
+        "IP": "2.0",
+        "H": "1",
+        "ER": "0",
+        "K": "4"
+      }
+    },
+    {
+      "date": "2026-09-14T23:40:00.000+00:00",
+      "opponent": "CHC",
+      "at_vs": "@",
+      "result": "L",
+      "score": "7-3",
+      "stats": {
+        "IP": "5.0",
+        "H": "4",
+        "ER": "2",
+        "K": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=AJ+Smith-Shawver+MLB+highlights",
+    "videos": [
+      {
+        "id": "mPfz4f0Yl8g",
+        "title": "AJ Smith-Shawver 2025 MLB Highlights!"
+      },
+      {
+        "id": "yuVaDar8xTU",
+        "title": "AJ Smith-Shawver Takes No Hitter into 8th, Dominates Reds in 8 Shutout Innings!"
+      },
+      {
+        "id": "iMfx08Qmo7o",
+        "title": "AJ Smith-Shawver 2023 Highlights!"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "AJ Smith-Shawver has Tommy John; Kimbrel chooses free agency",
+      "url": "https://www.espn.com/mlb/story/_/id/45481002/braves-aj-smith-shawver-undergoes-tommy-john-surgery"
+    },
+    {
+      "headline": "Braves' AJ Smith-Shawver diagnosed with torn UCL",
+      "url": "https://www.espn.com/mlb/story/_/id/45396007/braves-aj-smith-shawver-diagnosed-torn-ucl"
+    },
+    {
+      "headline": "Braves' AJ Smith-Shawver to head to Atlanta for elbow tests",
+      "url": "https://www.espn.com/mlb/story/_/id/45379571/aj-smith-shawver-leaves-braves-game-elbow-injury"
+    }
+  ]
+}

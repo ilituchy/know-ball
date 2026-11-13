@@ -1,170 +1,188 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "4187628",
-    "name": "Peyton Gray",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4187628.png",
-    "jersey": "#75",
-    "position": "Relief Pitcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/4187628"
+    "id": "4997589",
+    "name": "Addison Barger",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4997589.png",
+    "jersey": "#47",
+    "position": "Right Fielder",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4997589"
   },
   "team": {
-    "name": "Texas Rangers",
-    "abbreviation": "TEX",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
-    "color": "003278"
+    "name": "Toronto Blue Jays",
+    "abbreviation": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+    "color": "134a8e"
   },
   "facts": {
-    "Age": 31,
-    "Height": "6' 4\"",
-    "Weight": "235 lbs",
-    "From": "Columbus, IN",
-    "College": "Florida Gulf Coast",
+    "Age": 26,
+    "Height": "5' 11\"",
+    "Weight": "210 lbs",
+    "From": "Bellevue, WA",
+    "College": null,
     "Draft": null,
-    "Experience": "1st Season"
+    "Experience": "3rd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Peyton Charles Paul Gray (born June 2, 1995) is an American professional baseball pitcher for the Texas Rangers of Major League Baseball (MLB). He made his MLB debut in 2026."
+        "text": "Addison Barger (born November 12, 1999) is an American professional baseball third baseman and outfielder for the Toronto Blue Jays of Major League Baseball (MLB). He made his MLB debut in 2024."
+      },
+      {
+        "heading": "Early life",
+        "text": "Barger was born in Bellevue, Washington, before moving to Florida at age six with his family, where they pursued missionary work. He was home-schooled and his father built a full-size baseball field in the backyard. His father hired former minor league baseball player Luis Arzeno to train him. When he was 14, his father and Arzeno, sent him to the Dominican Republic for two weeks to play in the Dominican Prospect League showcase. The next summer, his father created a travel team in Florida and invited 15 Dominican teenagers from the prospect showcase to play for the team and live at the Barger household and competed in tournaments against top teenage talent in Florida. He then attended C."
       },
       {
         "heading": "Lately",
-        "text": "On January 21, 2025, Gray signed with the Texas Rangers organization. He split the 2025 season between the Frisco RoughRiders of the Double–A Texas League and the Round Rock Express of the Triple-A Pacific Coast League, going a combined 8–6 with a 3.58 ERA with 89 strikeouts over 73 innings. On April 23, 2026, Texas selected Gray's contract and promoted him to the major league roster for the first time. On May 30, Gray earned his first career win, recording two strikeouts across a scoreless inning of relief against the Kansas City Royals."
+        "text": "Barger was optioned to Triple-A Buffalo to begin the 2025 season. He was recalled back to the Blue Jays on April 15. In Game 1 of the 2025 World Series against the Los Angeles Dodgers, Barger hit his first career grand slam, while pinch-hitting for Davis Schneider. It was the first grand slam hit by a pinch hitter in World Series history, as well as the first in Blue Jays postseason history. Barger revealed that he had slept the night before on the pullout sofa in Schneider's room at the Toronto Marriott City Centre, a story which went viral and prompted the hotel to display the sofa in the lobby next week. The Blue Jays eventually lost in seven games."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Barger and his wife have three children, a daughter and two sons."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Peyton_Gray",
-    "title": "Peyton Gray"
+    "url": "https://en.wikipedia.org/wiki/Addison_Barger",
+    "title": "Addison Barger"
   },
   "stats": {
     "labels": [
       "GP",
-      "GS",
-      "IP",
-      "ERA",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
       "BB",
-      "K"
+      "SO"
     ],
     "rows": [
       {
         "name": "2026",
         "values": [
-          "49",
+          "9",
+          "22",
+          "1",
+          ".045",
           "0",
-          "56.0",
-          "3.86",
-          "17",
-          "60"
+          "2",
+          "5",
+          "7"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "49",
-          "0",
-          "56.0",
-          "3.86",
-          "17",
-          "60"
+          "213",
+          "690",
+          "154",
+          ".223",
+          "28",
+          "104",
+          "55",
+          "188"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-23T00:05:00.000+00:00",
-      "opponent": "NYM",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "6-3",
-      "stats": {
-        "IP": "1.0",
-        "H": "1",
-        "ER": "0",
-        "K": "2"
-      }
-    },
-    {
-      "date": "2026-08-29T23:15:00.000+00:00",
-      "opponent": "MIL",
-      "at_vs": "@",
-      "result": "L",
-      "score": "5-3",
-      "stats": {
-        "IP": "1.0",
-        "H": "3",
-        "ER": "1",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-08-26T23:40:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "@",
-      "result": "L",
-      "score": "10-4",
-      "stats": {
-        "IP": "1.1",
-        "H": "1",
-        "ER": "0",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-08-25T23:40:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "@",
-      "result": "L",
-      "score": "11-7",
-      "stats": {
-        "IP": "1.0",
-        "H": "2",
-        "ER": "1",
-        "K": "3"
-      }
-    },
-    {
-      "date": "2026-08-23T18:35:00.000+00:00",
+      "date": "2026-05-09T19:07:00.000+00:00",
       "opponent": "LAA",
       "at_vs": "vs",
       "result": "W",
-      "score": "5-3",
+      "score": "14-1",
       "stats": {
-        "IP": "1.1",
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-04-05T18:10:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "L",
+      "score": "3-0",
+      "stats": {
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-04-04T18:10:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "L",
+      "score": "6-3",
+      "stats": {
+        "AB": "0",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-04-03T18:10:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "L",
+      "score": "5-4 F/10",
+      "stats": {
+        "AB": "3",
         "H": "1",
-        "ER": "1",
-        "K": "2"
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-04-01T17:07:00.000+00:00",
+      "opponent": "COL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "2-1 F/10",
+      "stats": {
+        "AB": "1",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Peyton+Gray+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Addison+Barger+MLB+highlights",
     "videos": [
       {
-        "id": "yGZqWFa7mn4",
-        "title": "Peyton Gray 2026 MLB Highlights!"
+        "id": "Dl27FeBFYu8",
+        "title": "Addison Barger 2025 MLB Highlights"
       },
       {
-        "id": "om5xZQf1j4g",
-        "title": "Peyton Gray's Major League Debut"
+        "id": "YsMoHfd-d8E",
+        "title": "Addison Barger has been a STAR this Postseason! 🤩 (1.027 OPS, 3 home runs, 8 RBI! 🔥)"
       },
       {
-        "id": "HLXmOztkhJs",
-        "title": "Peyton Gray - 2020 American Association"
+        "id": "07mPDnt0eCc",
+        "title": "Addison Barger 2024 MLB Rookie Highlights"
       }
     ]
   },
   "news": [
     {
-      "headline": "Rangers put relievers Cole Winn, Peyton Gray on injured list",
-      "url": "https://www.espn.com/mlb/story/_/id/49787703/rangers-put-relievers-cole-winn-peyton-gray-injured-list"
+      "headline": "Jays shut down Addison Barger (back) for weeks, delaying return",
+      "url": "https://www.espn.com/mlb/story/_/id/49220589/blue-jays-addison-barger-shut-several-more-weeks-stress-reaction-back-further-delaying-return"
     },
     {
-      "headline": "Rangers' Peyton Gray, 30, throws perfect inning in MLB debut",
-      "url": "https://www.espn.com/mlb/story/_/id/48574462/rangers-peyton-gray-30-throws-perfect-inning-mlb-debut"
+      "headline": "Blue Jays' Addison Barger returns to IL with elbow inflammation",
+      "url": "https://www.espn.com/mlb/story/_/id/48743608/blue-jays-addison-barger-returns-il-elbow-inflammation"
+    },
+    {
+      "headline": "Jays' Barger admits 'bad read' ended Game 6 of World Series",
+      "url": "https://www.espn.com/mlb/story/_/id/46798820/jays-barger-admits-bad-read-ended-game-6-world-series"
     }
   ]
 }
