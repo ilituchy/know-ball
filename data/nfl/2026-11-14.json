@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-14",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4685526",
+    "name": "Adam Randall",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685526.png",
+    "jersey": "#23",
+    "position": "Running Back",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4685526/adam-randall"
+  },
+  "team": {
+    "name": "Baltimore Ravens",
+    "abbreviation": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "color": "29126f"
+  },
+  "facts": {
+    "Age": 22,
+    "Height": "6' 3\"",
+    "Weight": "232 lbs",
+    "From": "Myrtle Beach, SC",
+    "College": "Clemson",
+    "Draft": "2026: Rd 5, Pk 174 (BAL)",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Adam Randall (born July 14, 2004) is an American professional football running back for the Baltimore Ravens of the National Football League (NFL). He played college football for the Clemson Tigers and was selected by the Ravens in the fifth round of the 2026 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Randall grew up in Little River, South Carolina, a small town in North Myrtle Beach, South Carolina. Randall comes from an athletic family, his father Jerome was a standout basketball player at South Carolina State and his brother Austin currently plays cornerback for Clemson after a stint at Coastal Carolina. His father serves as the Chief Investigator of the Horry County Public Defender's office and operates a non profit, while his mother Wanda is a guidance counselor. Randall began playing football at the age of 7, where he took snaps for multiple youth teams in the Myrtle Beach area, being was coached mostly by his father."
+      },
+      {
+        "heading": "College career",
+        "text": "Randall early enrolled at Clemson in 2022 and received praise for his performance in spring practice before suffering an ACL tear. He recovered quickly and made his collegiate debut in Week 3 against Louisiana Tech. Randall made his first start in the 2022 Orange Bowl, where he caught three passes for 44 yards. During the 2024 ACC championship, during which he switched positions to running back, he returned a kickoff 41 yards to set up a game winning Clemson field goal. In the offseason, it was announced that Randall would make the permanent switch to the backfield."
+      },
+      {
+        "heading": "Lately",
+        "text": "Randall was drafted by the Baltimore Ravens with the 174th pick in the fifth round of the 2026 NFL draft. Following the draft, reports came out that Steve Bisciotti, the owner of the Ravens, made the pick himself. General Manager Eric DeCosta confirmed this, and clarified that this was the first instance where Bisciotti made the draft pick for Baltimore. On August 30, 2026, Randall was placed on injured reserve."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Adam_Randall_(American_football)",
+    "title": "Adam Randall (American football)"
+  },
+  "stats": {
+    "labels": [
+      "CAR",
+      "YDS",
+      "AVG",
+      "TD",
+      "REC"
+    ],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Adam+Randall+NFL+highlights",
+    "videos": [
+      {
+        "id": "vuMiaD72t7I",
+        "title": "Adam Randall 2025 Regular Season Highlights | Clemson Running Back"
+      },
+      {
+        "id": "iE6wcYvsw3Y",
+        "title": "Adam Randall FULL 2026 Preseason Highlights 🔥 [RB/WR HYBRID]"
+      },
+      {
+        "id": "R-igThHz7aA",
+        "title": "Adam Randall EVERY TOUCH in Preseason Week 1 😤 | 2026 Preseason Highlights"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Adam Randall scores rushing TD for Clemson",
+      "url": "https://www.espn.com/video/clip?id=47427926"
+    },
+    {
+      "headline": "Adam Randall crosses goal line for 10-yard rushing touchdown",
+      "url": "https://www.espn.com/video/clip?id=47138834"
+    },
+    {
+      "headline": "Adam Randall scores his 2nd rushing TD for Clemson",
+      "url": "https://www.espn.com/video/clip?id=46970800"
+    }
+  ]
+}
