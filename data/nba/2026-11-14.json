@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-14",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4997526",
+    "name": "Ousmane Dieng",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4997526.png",
+    "jersey": "#21",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4997526/ousmane-dieng"
+  },
+  "team": {
+    "name": "Milwaukee Bucks",
+    "abbreviation": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "color": "00471b"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 9\"",
+    "Weight": "185 lbs",
+    "From": "Lot-et-Garonne, France",
+    "College": null,
+    "Draft": "2022: Rd 1, Pk 11 (NY)",
+    "Experience": "5th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Ousmane Dieng ( OOSS-mahn JENG; born 21 May 2003) is a French professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA). After playing 3 years in France and New Zealand, Dieng was selected in the 2022 NBA draft with the 11th overall pick by the New York Knicks, but was traded to the Oklahoma City Thunder on draft night. During the 2024–25 season, Dieng won his first NBA Championship with the Thunder."
+      },
+      {
+        "heading": "Early life and youth career",
+        "text": "Dieng grew up in Lot-et-Garonne in southwestern France. His father Ababacar, originally from Senegal, was a former professional basketball player in France. At the youth level, Dieng played for Villeneuve Basket Club and JSA Bordeaux. He attended the national athletics boarding school INSEP in Paris, and competed for its under-18 team at the Next Generation Tournament."
+      },
+      {
+        "heading": "Lately",
+        "text": "On 4 February 2026, Dieng was traded with a 2029 second round pick to the Charlotte Hornets in exchange for Mason Plumlee. Later in the day, Dieng, Collin Sexton, and three second-round draft picks were traded to the Chicago Bulls in exchange for Coby White and Mike Conley Jr. On 6 February, Dieng was traded again to the Milwaukee Bucks in a trade that also involved the Phoenix Suns. In his Bucks debut on 11 February, he scored 17 points and made a career-high five three-pointers made during a 116–108 win over the Orlando Magic. On 1 April, Dieng put up a career-high 36 points, along with 10 assists, in a 119-113 loss to the Houston Rockets."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Ousmane_Dieng",
+    "title": "Ousmane Dieng"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "9",
+          "13.0",
+          "4.3",
+          "1.3",
+          "1.1",
+          "42.4",
+          "36.8"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "175",
+          "14.6",
+          "5.4",
+          "2.5",
+          "1.5",
+          "42.3",
+          "31.6"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-12T01:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "123-112",
+      "stats": {
+        "MIN": "18",
+        "PTS": "9",
+        "REB": "2",
+        "AST": "4"
+      }
+    },
+    {
+      "date": "2026-11-11T00:30:00.000+00:00",
+      "opponent": "NY",
+      "at_vs": "@",
+      "result": "L",
+      "score": "117-85",
+      "stats": {
+        "MIN": "24",
+        "PTS": "8",
+        "REB": "3",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-09T01:00:00.000+00:00",
+      "opponent": "BOS",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "117-97",
+      "stats": {
+        "MIN": "15",
+        "PTS": "10",
+        "REB": "1",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-05T00:30:00.000+00:00",
+      "opponent": "BOS",
+      "at_vs": "@",
+      "result": "L",
+      "score": "109-102",
+      "stats": {
+        "MIN": "2",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-01T00:00:00.000+00:00",
+      "opponent": "CLE",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "136-111",
+      "stats": {
+        "MIN": "6",
+        "PTS": "0",
+        "REB": "1",
+        "AST": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Ousmane+Dieng+NBA+highlights",
+    "videos": [
+      {
+        "id": "7XhCncRwkds",
+        "title": "Highlights: Ousmane Dieng Career-High 36 Point 10 Assist Double-Double vs. Rockets | 04.01.26"
+      },
+      {
+        "id": "gTtimDRCr8k",
+        "title": "Ousmane Dieng: A FUTURE STAR? | 25-26 Milwaukee Bucks Highlights"
+      },
+      {
+        "id": "dtbggrzua9c",
+        "title": "Ousmane Dieng's Potential is HUGE | Best Plays with the Bucks"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Bulls send Coby White, Mike Conley to Hornets for Collin Sexton, Ousmane Dieng",
+      "url": "https://www.espn.com/nba/story/_/id/47829685/sources-bulls-send-white-conley-hornets-sexton-dieng"
+    }
+  ]
+}

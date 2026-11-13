@@ -1,51 +1,55 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "5105817",
-    "name": "Carson Cooper",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105817.png",
-    "jersey": null,
-    "position": "Center",
-    "espn_url": "https://www.espn.com/nba/player/_/id/5105817/carson-cooper"
+    "id": "3064482",
+    "name": "Bobby Portis",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3064482.png",
+    "jersey": "#95",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/3064482/bobby-portis"
   },
   "team": {
-    "name": "Los Angeles Lakers",
-    "abbreviation": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-    "color": "552583"
+    "name": "Miami Heat",
+    "abbreviation": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "color": "98002e"
   },
   "facts": {
-    "Age": 22,
-    "Height": "6' 11\"",
-    "Weight": "245 lbs",
-    "From": "Jackson, MI",
-    "College": "Michigan State",
-    "Draft": "Undrafted",
-    "Experience": "Rookie"
+    "Age": 31,
+    "Height": "6' 9\"",
+    "Weight": "250 lbs",
+    "From": "Little Rock, AR",
+    "College": "Arkansas",
+    "Draft": "2015: Rd 1, Pk 22 (CHI)",
+    "Experience": "12th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Carson John Cooper (born April 9, 2004) is an American basketball player for the Los Angeles Lakers of the National Basketball Association (NBA), on a two-way contract with the Coachella Valley Lakers of the NBA G League. He played college basketball for the Michigan State Spartans."
+        "text": "Bobby Portis Jr. (born February 10, 1995) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played college basketball for the Arkansas Razorbacks, earning consensus second-team All-American honors as a sophomore in 2015. Portis was selected in the first round of the 2015 NBA draft by the Chicago Bulls with the 22nd overall pick. He won an NBA championship with the Milwaukee Bucks in 2021. Portis was traded alongside Giannis Antetokounmpo in a blockbuster deal in 2026."
       },
       {
-        "heading": "Early life and high school",
-        "text": "Cooper attended Northwest High School, Ypsi Prep, and IMG Academy. As a senior at IMG, he averaged 12.4 points and 7.9 rebounds per game. Coming out of high school, Cooper committed to play college basketball for the Michigan State Spartans over offers from schools such as Eastern Michigan, Duquesne, Vermont."
+        "heading": "High school career",
+        "text": "Portis played high school basketball at Hall High School in Little Rock. He was a highly decorated prep player there, earning McDonald's and  Parade All-American status and was named Mr. Basketball of Arkansas in 2013. Upon committing to Arkansas, Portis became the first in-state McDonald's All-American to sign with the Razorbacks since Corliss Williamson in 1992 and was considered a key recruit for coach Mike Anderson's rebuild of the program."
       },
       {
         "heading": "College career",
-        "text": "In the first round of the 2023 NCAA tournament, Cooper scored six points in a victory over USC. As a freshman in 2022-23, he averaged 1.6 points and 0.9 rebounds in 30 games. On November 17, 2023, Cooper made his first start where he recorded three points, 11 rebounds, two blocks, and a steal in a win over Butler. During the 2023-24 season, he appeared in 35 games with eight starts, where he averaged 3.4 points, 4.4 rebounds, and 0.7 blocks per game. On December 30, 2024, Cooper notched a career-high 13 points along with six rebounds in a win against Western Michigan. In the semifinals of the 2025 Big Ten tournament, he recorded eight points and ten rebounds in a loss to Wisconsin."
+        "text": "As a freshman at Arkansas, Portis averaged 12.3 points, 6.8 rebounds and 1.6 blocks per game. He was named to the Southeastern Conference All-Freshman team and second-team All-SEC. In his sophomore season, Portis was named to the preseason All-SEC team and led the Razorbacks to a top 25 ranking. During his second and final season, Portis averaged 17.5 points, 8.9 rebounds, 1.4 blocks, 1.2 assists, and 1.1 steals per game. He was named one of 20 finalists for the John R. Wooden Award for national college player of the year, one of only two players from the SEC. On March 10, 2015, Portis was selected as the SEC Player of the Year by the league's coaches."
       },
       {
         "heading": "Lately",
-        "text": "After going undrafted in the 2026 NBA draft, Cooper signed a two-way contract with the Memphis Grizzlies."
+        "text": "On February 8, 2026, Portis was selected for the State Farm 3-Point Contest, his first time competing in an event at NBA All-Star Weekend. On July 6, 2026, Portis, alongside Giannis Antetokounmpo, was traded to the Miami Heat in exchange for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakučionis, the rights to Nate Ament and four more future draft picks. On October 21, Portis made his Heat debut, recording seven points and four rebounds in a 131–106 loss to the Minnesota Timberwolves."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Portis has said, \"I talked to God a lot since I was a young child. I followed the path that He lays, and He has blessed me tremendously and helped me get here. I feel like anything that I ask from Him, He gives it to me in some way.\" Portis' foundation, the Bobby Portis Foundation, is a charitable organization that creates programs and initiatives for single mothers in Arkansas. In October 2022, Portis launched a campaign alongside the Wisconsin Department of Transportation and Milwaukee mayor Cavalier Johnson that aims to lower reckless driving and speeding in Wisconsin."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Carson_Cooper_(basketball)",
-    "title": "Carson Cooper (basketball)"
+    "url": "https://en.wikipedia.org/wiki/Bobby_Portis",
+    "title": "Bobby Portis"
   },
   "stats": {
     "labels": [
@@ -61,73 +65,121 @@
       {
         "name": "2026-27",
         "values": [
-          "1",
-          "3.0",
-          "1.0",
-          "2.0",
-          "1.0",
-          "0.0",
-          "0.0"
+          "11",
+          "20.4",
+          "6.8",
+          "5.8",
+          "1.7",
+          "36.4",
+          "31.8"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "1",
-          "3.0",
-          "1.0",
-          "2.0",
-          "1.0",
-          "0.0",
-          "0.0"
+          "732",
+          "22.9",
+          "12.0",
+          "7.1",
+          "1.3",
+          "47.8",
+          "39.1"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-01T00:00:00.000+00:00",
-      "opponent": "SAC",
-      "at_vs": "vs",
+      "date": "2026-11-11T02:00:00.000+00:00",
+      "opponent": "UTAH",
+      "at_vs": "@",
       "result": "W",
-      "score": "136-105",
+      "score": "115-109",
       "stats": {
-        "MIN": "3",
-        "PTS": "1",
-        "REB": "2",
+        "MIN": "17",
+        "PTS": "5",
+        "REB": "1",
         "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-09T02:00:00.000+00:00",
+      "opponent": "SAC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "114-108",
+      "stats": {
+        "MIN": "20",
+        "PTS": "4",
+        "REB": "1",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-06T03:00:00.000+00:00",
+      "opponent": "GS",
+      "at_vs": "@",
+      "result": "L",
+      "score": "120-100",
+      "stats": {
+        "MIN": "14",
+        "PTS": "0",
+        "REB": "5",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-05T03:30:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "117-116 OT",
+      "stats": {
+        "MIN": "18",
+        "PTS": "4",
+        "REB": "10",
+        "AST": "5"
+      }
+    },
+    {
+      "date": "2026-11-03T03:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "@",
+      "result": "L",
+      "score": "138-117",
+      "stats": {
+        "MIN": "18",
+        "PTS": "2",
+        "REB": "3",
+        "AST": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Carson+Cooper+NBA+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Bobby+Portis+NBA+highlights",
     "videos": [
       {
-        "id": "xzvIghRYNWs",
-        "title": "NBA Draft 2026: Carson Cooper | Scoring Highlights | Michigan State 2025-26"
+        "id": "ST5dZm_MhMQ",
+        "title": "Best of Bobby Portis | 24/25 Season"
       },
       {
-        "id": "ed_z1_rYJzk",
-        "title": "Lakers Sign Carson Cooper (Highlights)"
+        "id": "dRuckBcV3RA",
+        "title": "Keegan Murray takes extremely scary fall over Bobby Portis onto his head 😳 #nbadrama"
       },
       {
-        "id": "-3arcrNTu60",
-        "title": "Carson Cooper 20 PTS 11 REB Performance vs. Ohio State | Michigan State Basketball | 02/22/2026"
+        "id": "4Kmw33Bjfao",
+        "title": "Giannis gets absolutely hacked by Montrezl Harrell and Bobby Portis immediately gets in Trez's face"
       }
     ]
   },
   "news": [
     {
-      "headline": "Carson Cooper rocks the rim with powerful flush",
-      "url": "https://www.espn.com/video/clip/_/id/49406673/carson-cooper-rocks-rim-powerful-flush"
+      "headline": "Bobby Portis with the and-1 bucket",
+      "url": "https://www.espn.com/video/clip/_/id/50270835/bobby-portis-1-bucket"
     },
     {
-      "headline": "Carson Cooper throws down powerful jam vs. Ohio State Buckeyes",
-      "url": "https://www.espn.com/video/clip?id=48008036"
-    },
-    {
-      "headline": "Carson Cooper flexes after a Spartans and-1",
-      "url": "https://www.espn.com/video/clip?id=47715618"
+      "headline": "Bucks trading Giannis Antetokounmpo to Heat for haul of players, picks",
+      "url": "https://www.espn.com/nba/story/_/id/49149967/bucks-trading-giannis-antetokounmpo-bobby-portis-heat-tyler-herro-kelel-ware-jaime-jaquez-jr-kasparas-jakucionis-picks"
     }
   ]
 }
