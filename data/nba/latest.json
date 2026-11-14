@@ -1,55 +1,47 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "3064482",
-    "name": "Bobby Portis",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3064482.png",
-    "jersey": "#95",
+    "id": "4997526",
+    "name": "Ousmane Dieng",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4997526.png",
+    "jersey": "#21",
     "position": "Forward",
-    "espn_url": "https://www.espn.com/nba/player/_/id/3064482/bobby-portis"
+    "espn_url": "https://www.espn.com/nba/player/_/id/4997526/ousmane-dieng"
   },
   "team": {
-    "name": "Miami Heat",
-    "abbreviation": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-    "color": "98002e"
+    "name": "Milwaukee Bucks",
+    "abbreviation": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "color": "00471b"
   },
   "facts": {
-    "Age": 31,
+    "Age": 23,
     "Height": "6' 9\"",
-    "Weight": "250 lbs",
-    "From": "Little Rock, AR",
-    "College": "Arkansas",
-    "Draft": "2015: Rd 1, Pk 22 (CHI)",
-    "Experience": "12th Season"
+    "Weight": "185 lbs",
+    "From": "Lot-et-Garonne, France",
+    "College": null,
+    "Draft": "2022: Rd 1, Pk 11 (NY)",
+    "Experience": "5th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Bobby Portis Jr. (born February 10, 1995) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). He played college basketball for the Arkansas Razorbacks, earning consensus second-team All-American honors as a sophomore in 2015. Portis was selected in the first round of the 2015 NBA draft by the Chicago Bulls with the 22nd overall pick. He won an NBA championship with the Milwaukee Bucks in 2021. Portis was traded alongside Giannis Antetokounmpo in a blockbuster deal in 2026."
+        "text": "Ousmane Dieng ( OOSS-mahn JENG; born 21 May 2003) is a French professional basketball player for the Milwaukee Bucks of the National Basketball Association (NBA). After playing 3 years in France and New Zealand, Dieng was selected in the 2022 NBA draft with the 11th overall pick by the New York Knicks, but was traded to the Oklahoma City Thunder on draft night. During the 2024–25 season, Dieng won his first NBA Championship with the Thunder."
       },
       {
-        "heading": "High school career",
-        "text": "Portis played high school basketball at Hall High School in Little Rock. He was a highly decorated prep player there, earning McDonald's and  Parade All-American status and was named Mr. Basketball of Arkansas in 2013. Upon committing to Arkansas, Portis became the first in-state McDonald's All-American to sign with the Razorbacks since Corliss Williamson in 1992 and was considered a key recruit for coach Mike Anderson's rebuild of the program."
-      },
-      {
-        "heading": "College career",
-        "text": "As a freshman at Arkansas, Portis averaged 12.3 points, 6.8 rebounds and 1.6 blocks per game. He was named to the Southeastern Conference All-Freshman team and second-team All-SEC. In his sophomore season, Portis was named to the preseason All-SEC team and led the Razorbacks to a top 25 ranking. During his second and final season, Portis averaged 17.5 points, 8.9 rebounds, 1.4 blocks, 1.2 assists, and 1.1 steals per game. He was named one of 20 finalists for the John R. Wooden Award for national college player of the year, one of only two players from the SEC. On March 10, 2015, Portis was selected as the SEC Player of the Year by the league's coaches."
+        "heading": "Early life and youth career",
+        "text": "Dieng grew up in Lot-et-Garonne in southwestern France. His father Ababacar, originally from Senegal, was a former professional basketball player in France. At the youth level, Dieng played for Villeneuve Basket Club and JSA Bordeaux. He attended the national athletics boarding school INSEP in Paris, and competed for its under-18 team at the Next Generation Tournament."
       },
       {
         "heading": "Lately",
-        "text": "On February 8, 2026, Portis was selected for the State Farm 3-Point Contest, his first time competing in an event at NBA All-Star Weekend. On July 6, 2026, Portis, alongside Giannis Antetokounmpo, was traded to the Miami Heat in exchange for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakučionis, the rights to Nate Ament and four more future draft picks. On October 21, Portis made his Heat debut, recording seven points and four rebounds in a 131–106 loss to the Minnesota Timberwolves."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Portis has said, \"I talked to God a lot since I was a young child. I followed the path that He lays, and He has blessed me tremendously and helped me get here. I feel like anything that I ask from Him, He gives it to me in some way.\" Portis' foundation, the Bobby Portis Foundation, is a charitable organization that creates programs and initiatives for single mothers in Arkansas. In October 2022, Portis launched a campaign alongside the Wisconsin Department of Transportation and Milwaukee mayor Cavalier Johnson that aims to lower reckless driving and speeding in Wisconsin."
+        "text": "On 4 February 2026, Dieng was traded with a 2029 second round pick to the Charlotte Hornets in exchange for Mason Plumlee. Later in the day, Dieng, Collin Sexton, and three second-round draft picks were traded to the Chicago Bulls in exchange for Coby White and Mike Conley Jr. On 6 February, Dieng was traded again to the Milwaukee Bucks in a trade that also involved the Phoenix Suns. In his Bucks debut on 11 February, he scored 17 points and made a career-high five three-pointers made during a 116–108 win over the Orlando Magic. On 1 April, Dieng put up a career-high 36 points, along with 10 assists, in a 119-113 loss to the Houston Rockets."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Bobby_Portis",
-    "title": "Bobby Portis"
+    "url": "https://en.wikipedia.org/wiki/Ousmane_Dieng",
+    "title": "Ousmane Dieng"
   },
   "stats": {
     "labels": [
@@ -65,121 +57,117 @@
       {
         "name": "2026-27",
         "values": [
-          "11",
-          "20.4",
-          "6.8",
-          "5.8",
-          "1.7",
-          "36.4",
-          "31.8"
+          "9",
+          "13.0",
+          "4.3",
+          "1.3",
+          "1.1",
+          "42.4",
+          "36.8"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "732",
-          "22.9",
-          "12.0",
-          "7.1",
-          "1.3",
-          "47.8",
-          "39.1"
+          "175",
+          "14.6",
+          "5.4",
+          "2.5",
+          "1.5",
+          "42.3",
+          "31.6"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-11T02:00:00.000+00:00",
-      "opponent": "UTAH",
-      "at_vs": "@",
-      "result": "W",
-      "score": "115-109",
+      "date": "2026-11-12T01:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "123-112",
       "stats": {
-        "MIN": "17",
-        "PTS": "5",
-        "REB": "1",
-        "AST": "1"
+        "MIN": "18",
+        "PTS": "9",
+        "REB": "2",
+        "AST": "4"
       }
     },
     {
-      "date": "2026-11-09T02:00:00.000+00:00",
-      "opponent": "SAC",
-      "at_vs": "@",
-      "result": "W",
-      "score": "114-108",
-      "stats": {
-        "MIN": "20",
-        "PTS": "4",
-        "REB": "1",
-        "AST": "1"
-      }
-    },
-    {
-      "date": "2026-11-06T03:00:00.000+00:00",
-      "opponent": "GS",
+      "date": "2026-11-11T00:30:00.000+00:00",
+      "opponent": "NY",
       "at_vs": "@",
       "result": "L",
-      "score": "120-100",
+      "score": "117-85",
       "stats": {
-        "MIN": "14",
-        "PTS": "0",
-        "REB": "5",
+        "MIN": "24",
+        "PTS": "8",
+        "REB": "3",
         "AST": "0"
       }
     },
     {
-      "date": "2026-11-05T03:30:00.000+00:00",
-      "opponent": "LAC",
-      "at_vs": "@",
-      "result": "W",
-      "score": "117-116 OT",
+      "date": "2026-11-09T01:00:00.000+00:00",
+      "opponent": "BOS",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "117-97",
       "stats": {
-        "MIN": "18",
-        "PTS": "4",
-        "REB": "10",
-        "AST": "5"
+        "MIN": "15",
+        "PTS": "10",
+        "REB": "1",
+        "AST": "0"
       }
     },
     {
-      "date": "2026-11-03T03:00:00.000+00:00",
-      "opponent": "LAL",
+      "date": "2026-11-05T00:30:00.000+00:00",
+      "opponent": "BOS",
       "at_vs": "@",
       "result": "L",
-      "score": "138-117",
+      "score": "109-102",
       "stats": {
-        "MIN": "18",
-        "PTS": "2",
-        "REB": "3",
+        "MIN": "2",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-01T00:00:00.000+00:00",
+      "opponent": "CLE",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "136-111",
+      "stats": {
+        "MIN": "6",
+        "PTS": "0",
+        "REB": "1",
         "AST": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Bobby+Portis+NBA+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Ousmane+Dieng+NBA+highlights",
     "videos": [
       {
-        "id": "ST5dZm_MhMQ",
-        "title": "Best of Bobby Portis | 24/25 Season"
+        "id": "7XhCncRwkds",
+        "title": "Highlights: Ousmane Dieng Career-High 36 Point 10 Assist Double-Double vs. Rockets | 04.01.26"
       },
       {
-        "id": "dRuckBcV3RA",
-        "title": "Keegan Murray takes extremely scary fall over Bobby Portis onto his head 😳 #nbadrama"
+        "id": "gTtimDRCr8k",
+        "title": "Ousmane Dieng: A FUTURE STAR? | 25-26 Milwaukee Bucks Highlights"
       },
       {
-        "id": "4Kmw33Bjfao",
-        "title": "Giannis gets absolutely hacked by Montrezl Harrell and Bobby Portis immediately gets in Trez's face"
+        "id": "dtbggrzua9c",
+        "title": "Ousmane Dieng's Potential is HUGE | Best Plays with the Bucks"
       }
     ]
   },
   "news": [
     {
-      "headline": "Bobby Portis with the and-1 bucket",
-      "url": "https://www.espn.com/video/clip/_/id/50270835/bobby-portis-1-bucket"
-    },
-    {
-      "headline": "Bucks trading Giannis Antetokounmpo to Heat for haul of players, picks",
-      "url": "https://www.espn.com/nba/story/_/id/49149967/bucks-trading-giannis-antetokounmpo-bobby-portis-heat-tyler-herro-kelel-ware-jaime-jaquez-jr-kasparas-jakucionis-picks"
+      "headline": "Bulls send Coby White, Mike Conley to Hornets for Collin Sexton, Ousmane Dieng",
+      "url": "https://www.espn.com/nba/story/_/id/47829685/sources-bulls-send-white-conley-hornets-sexton-dieng"
     }
   ]
 }
