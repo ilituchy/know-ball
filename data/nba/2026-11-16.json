@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-16",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "5105626",
+    "name": "Tyler Bilodeau",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105626.png",
+    "jersey": "#34",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau"
+  },
+  "team": {
+    "name": "Brooklyn Nets",
+    "abbreviation": "BKN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "color": "000000"
+  },
+  "facts": {
+    "Age": 22,
+    "Height": "6' 8\"",
+    "Weight": "228 lbs",
+    "From": "Kennewick, WA",
+    "College": "UCLA",
+    "Draft": "2026: Rd 2, Pk 43 (BKN)",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Tyler Bilodeau (born April 17, 2004) is an American basketball player for the Brooklyn Nets of the National Basketball Association (NBA), on a two-way contract with the Long Island Nets of the NBA G League. He played college basketball for the Oregon State Beavers and UCLA Bruins. He earned third-team all-conference honors twice in the Big Ten with UCLA. He was selected by Brooklyn in the second round of the 2026 NBA draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Bilodeau was born in Billings, Montana, to 1991 National Hockey League first-round draft pick Brent Bilodeau and Women's National Basketball Association player Cass Bauer-Bilodeau. Tyler Bilodeau played both hockey and basketball growing up, before settling on basketball. As a senior at Kamiakin High School in Kennewick, Washington, he averaged 22.7 points and 10.3 rebounds, while leading the team to a fourth-place finish in the Washington Class 4A state tournament. He was named Mid-Columbia Conference Player of the Year and honored as Washington Mr. Basketball."
+      },
+      {
+        "heading": "College career",
+        "text": "As a freshman at Oregon State University in 2022–23, Bilodeau made 13 starts and averaged 7.0 points and 3.9 rebounds per game. On December 28, 2023, he recorded 10 points and 14 rebounds against UCLA. In his sophomore year in 2023–24, Bilodeau changed his jersey number from 10 to 34 in honor of his mother, who wore the number in college and professionally. \"My mom is who I look up to. She's the reason I play basketball\", he said. He averaged 14.3 points and 5.7 rebounds per game that season, while shooting 34.5% on his three-pointers. His 53.3% field goal percentage ranked fourth in the Pac-12 Conference."
+      },
+      {
+        "heading": "Lately",
+        "text": "On June 24, 2026, Bilodeau was selected by the Brooklyn Nets in the second round of the 2026 NBA draft with the 43rd overall pick. He signed a two-way contract with Brooklyn and their G League team, the Long Island Nets."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Tyler_Bilodeau",
+    "title": "Tyler Bilodeau"
+  },
+  "stats": {
+    "labels": [],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Tyler+Bilodeau+NBA+highlights",
+    "videos": [
+      {
+        "id": "MWxNxukkp00",
+        "title": "2026 NBA DRAFT HIGHLIGHTS: F Tyler Bilodeau | UCLA Basketball"
+      },
+      {
+        "id": "ZBTqCU4DYDU",
+        "title": "Tyler Bilodeau 32 PTS 8 REB vs. Minnesota | UCLA Basketball | 02/28/2026"
+      },
+      {
+        "id": "Bch1urAlgLQ",
+        "title": "Tyler Bilodeau 30 PTS 8 REB vs. Ohio State | UCLA Basketball | 01/17/2026"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "UCLA loses Bilodeau but ousts Michigan St. in Big Ten quarters",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48201354/ucla-loses-bilodeau-ousts-michigan-st-big-ten-quarters"
+    },
+    {
+      "headline": "Tyler Bilodeau drains a long-range 3 to give UCLA momentum",
+      "url": "https://www.espn.com/video/clip?id=47641018"
+    },
+    {
+      "headline": "Tyler Bilodeau drops in the smooth basket",
+      "url": "https://www.espn.com/video/clip?id=47401561"
+    }
+  ]
+}
