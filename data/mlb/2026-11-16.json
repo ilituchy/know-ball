@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-16",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "41307",
+    "name": "Noelvi Marte",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/41307.png",
+    "jersey": "#4",
+    "position": "Right Fielder",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/41307"
+  },
+  "team": {
+    "name": "Cincinnati Reds",
+    "abbreviation": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
+    "color": "c6011f"
+  },
+  "facts": {
+    "Age": 25,
+    "Height": "6' 2\"",
+    "Weight": "216 lbs",
+    "From": "Cotui, Dominican Republic",
+    "College": null,
+    "Draft": null,
+    "Experience": "4th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Noelvi Marte (born October 16, 2001) is a Dominican professional baseball third baseman and outfielder for the Cincinnati Reds of Major League Baseball (MLB). He made his MLB debut in 2023."
+      },
+      {
+        "heading": "Lately",
+        "text": "On March 8, 2024, it was announced that Marte received an 80-game suspension without pay after testing positive for Boldenone, a performance-enhancing substance. He was activated from his suspension on June 27. In 66 total appearances for the Reds, Marte slashed .210/.248/.301 with four home runs, 18 RBI, and nine stolen bases. Following the 2024 season, Marte played winter league baseball for the Gigantes del Cibao of the Dominican Professional Baseball League. Marte was optioned to Triple-A Louisville to begin the 2025 season. On April 20, 2025, Marte hit his first career grand slam off Jorge Mateo of the Baltimore Orioles in a 24–2 blowout win."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Noelvi_Marte",
+    "title": "Noelvi Marte"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
+      "BB",
+      "SO"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "63",
+          "190",
+          "36",
+          ".189",
+          "6",
+          "15",
+          "10",
+          "52"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "254",
+          "872",
+          "209",
+          ".240",
+          "27",
+          "99",
+          "43",
+          "237"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-08-17T17:40:00.000+00:00",
+      "opponent": "STL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "2-1",
+      "stats": {
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-08-15T22:40:00.000+00:00",
+      "opponent": "MIA",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "8-4",
+      "stats": {
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-08-14T22:10:00.000+00:00",
+      "opponent": "MIA",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "1-0",
+      "stats": {
+        "AB": "3",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-08-12T23:40:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "L",
+      "score": "5-0",
+      "stats": {
+        "AB": "1",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-08-08T22:45:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "@",
+      "result": "L",
+      "score": "8-2",
+      "stats": {
+        "AB": "3",
+        "H": "1",
+        "HR": "0",
+        "RBI": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Noelvi+Marte+MLB+highlights",
+    "videos": [
+      {
+        "id": "utr74fl_hq0",
+        "title": "Every Noelvi Marté hit in order"
+      },
+      {
+        "id": "2LVE5V0ko_w",
+        "title": "FULL 9TH INNING: Noelvi Marte's SPECTACULAR no-look catch keeps the Reds alive 😤😤"
+      },
+      {
+        "id": "fDRoys7JwFI",
+        "title": "Noelvi Marte 2025 Highlights"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Reds' Terry Francona awed by Noelvi Marte's homer-robbing catch",
+      "url": "https://www.espn.com/mlb/story/_/id/46380962/reds-terry-francona-awed-noelvi-marte-homer-robbing-catch"
+    }
+  ]
+}
