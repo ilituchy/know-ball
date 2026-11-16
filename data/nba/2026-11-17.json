@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-17",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4683730",
+    "name": "Jaden Akins",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683730.png",
+    "jersey": "#14",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4683730/jaden-akins"
+  },
+  "team": {
+    "name": "New York Knicks",
+    "abbreviation": "NY",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "color": "1d428a"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 4\"",
+    "Weight": "195 lbs",
+    "From": "Farmington, MI",
+    "College": "Michigan State",
+    "Draft": "Undrafted",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Jaden Christopher Akins (born February 25, 2003) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA), on a two-way contract with the Westchester Knicks of the NBA G League. He played college basketball for the Michigan State Spartans."
+      },
+      {
+        "heading": "Early life and high school",
+        "text": "During his high school career, Akins attended Farmington High School, Ypsi Prep Academy, and Sunrise Christian Academy. He was rated as a four-star recruit and committed to play college basketball for the Michigan State Spartans over offers from schools such as Iowa, Missouri, Xavier, Georgia Tech, Michigan, and Mississippi State."
+      },
+      {
+        "heading": "College career",
+        "text": "As a freshman in 2021–22, Akins averaged 3.4 points in 15 minutes per game. On November 18, 2022, he recorded nine points, five rebounds and two assists in a victory against Villanova. On January 19, 2023, Akins tallied 11 points, five rebounds, four assists, four steals and a block against Rutgers. On February 25, 2023, he scored 21 points in a loss to Iowa. In 2022–23, Akins averaged 9.8 points, 4.0 rebounds, 1.2 assists and 1.2 steals in 27.4 minutes a game. On December 21, 2023, he recorded 22 points while hitting four threes in a victory against Stony Brook."
+      },
+      {
+        "heading": "Lately",
+        "text": "After going undrafted, Akins made his 2025 NBA Summer League debut with the Orlando Magic. On October 11, 2025, the Detroit Pistons added Akins to their roster on an Exhibit 10 contract. On October 13, he was waived by the Pistons. On September 15, 2026, Akins signed an Exhibit 10 contract with the New York Knicks, but was waived the same day."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Jaden_Akins",
+    "title": "Jaden Akins"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "2",
+          "1.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "2",
+          "1.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-10-28T00:00:00.000+00:00",
+      "opponent": "DET",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "111-97",
+      "stats": {
+        "MIN": "2",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Jaden+Akins+NBA+highlights",
+    "videos": [
+      {
+        "id": "0x4KX_S6IhE",
+        "title": "Jaden Akins Went Off For CAREER-HIGH 35 PTS In OT Battle Vs. Knicks"
+      },
+      {
+        "id": "8PshFLcebJs",
+        "title": "2025 SENIOR HIGHLIGHTS: G Jaden Akins | Michigan State Basketball"
+      },
+      {
+        "id": "nDH0E4qzI9E",
+        "title": "Jaden Akins Goes Off for 16 PTS & 15 AST in PRO DEBUT!"
+      }
+    ]
+  },
+  "news": []
+}

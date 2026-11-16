@@ -1,185 +1,86 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "5061585",
-    "name": "Isaiah Evans",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5061585.png",
-    "jersey": "#33",
+    "id": "5105626",
+    "name": "Tyler Bilodeau",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105626.png",
+    "jersey": "#34",
     "position": "Forward",
-    "espn_url": "https://www.espn.com/nba/player/_/id/5061585/isaiah-evans"
+    "espn_url": "https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau"
   },
   "team": {
-    "name": "Minnesota Timberwolves",
-    "abbreviation": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-    "color": "266092"
+    "name": "Brooklyn Nets",
+    "abbreviation": "BKN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "color": "000000"
   },
   "facts": {
-    "Age": 20,
-    "Height": "6' 6\"",
-    "Weight": "186 lbs",
-    "From": "Fayetteville, NC",
-    "College": "Duke",
-    "Draft": "2026: Rd 2, Pk 33 (BKN)",
+    "Age": 22,
+    "Height": "6' 8\"",
+    "Weight": "228 lbs",
+    "From": "Kennewick, WA",
+    "College": "UCLA",
+    "Draft": "2026: Rd 2, Pk 43 (BKN)",
     "Experience": "Rookie"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Isaiah Demonte Evans (born December 6, 2005) is an American basketball player for the Minnesota Timberwolves of the National Basketball Association (NBA). He played college basketball for the Duke Blue Devils."
+        "text": "Tyler Bilodeau (born April 17, 2004) is an American basketball player for the Brooklyn Nets of the National Basketball Association (NBA), on a two-way contract with the Long Island Nets of the NBA G League. He played college basketball for the Oregon State Beavers and UCLA Bruins. He earned third-team all-conference honors twice in the Big Ten with UCLA. He was selected by Brooklyn in the second round of the 2026 NBA draft."
       },
       {
-        "heading": "Early life and high school",
-        "text": "Evans grew up in Charlotte, North Carolina and attended North Mecklenburg High School in Huntersville, North Carolina. He averaged 26 points and 6.4 rebounds per game as a junior. Evans averaged 38.6 points over five games in the NCHSAA 4A state playoffs and was named North Carolina Mr. Basketball at the end of the season. Evans averaged 27.4 points, 6.1 rebounds, 3.2 assists and 2.3 steals per contest to guide the Vikings to a 30–3 record and a NCHSAA 4A state championship. He was selected to play in the  2024 McDonald's All-American Boys Game during his senior year. Evans also repeated as North Carolina Mr. Basketball."
+        "heading": "Early life",
+        "text": "Bilodeau was born in Billings, Montana, to 1991 National Hockey League first-round draft pick Brent Bilodeau and Women's National Basketball Association player Cass Bauer-Bilodeau. Tyler Bilodeau played both hockey and basketball growing up, before settling on basketball. As a senior at Kamiakin High School in Kennewick, Washington, he averaged 22.7 points and 10.3 rebounds, while leading the team to a fourth-place finish in the Washington Class 4A state tournament. He was named Mid-Columbia Conference Player of the Year and honored as Washington Mr. Basketball."
       },
       {
         "heading": "College career",
-        "text": "Evans enrolled at Duke University in June 2024 in order to take part in the Blue Devils' summer practices. Evans spent his freshman season playing behind future first-overall draft pick Cooper Flagg and averaged 6.8 points, 1.1 rebounds, and 0.5 assists per game. After the season he initially declared for the 2025 NBA draft, but ultimately decided to return to Duke for his sophomore season. Following his sophomore season at Duke, Evans officially declared for the 2026 NBA draft on April 22, 2026."
+        "text": "As a freshman at Oregon State University in 2022–23, Bilodeau made 13 starts and averaged 7.0 points and 3.9 rebounds per game. On December 28, 2023, he recorded 10 points and 14 rebounds against UCLA. In his sophomore year in 2023–24, Bilodeau changed his jersey number from 10 to 34 in honor of his mother, who wore the number in college and professionally. \"My mom is who I look up to. She's the reason I play basketball\", he said. He averaged 14.3 points and 5.7 rebounds per game that season, while shooting 34.5% on his three-pointers. His 53.3% field goal percentage ranked fourth in the Pac-12 Conference."
       },
       {
         "heading": "Lately",
-        "text": "On June 17, Evans received an invitation to sit in the NBA draft green room as one of 24 top prospects expected to be selected early in the event. However, during the first round of the draft on June 23, Evans went unselected, making him the only green room invitee not drafted on the event's opening night. On June 24, 2026, the Brooklyn Nets eventually selected him with the 33rd overall pick. Because of Evans' draft rights being part of a pre-draft, three-team trade involving Julius Randle, the Minnesota Timberwolves would end up receiving him."
+        "text": "On June 24, 2026, Bilodeau was selected by the Brooklyn Nets in the second round of the 2026 NBA draft with the 43rd overall pick. He signed a two-way contract with Brooklyn and their G League team, the Long Island Nets."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Isaiah_Evans",
-    "title": "Isaiah Evans"
+    "url": "https://en.wikipedia.org/wiki/Tyler_Bilodeau",
+    "title": "Tyler Bilodeau"
   },
   "stats": {
-    "labels": [
-      "GP",
-      "MIN",
-      "PTS",
-      "REB",
-      "AST",
-      "FG%",
-      "3P%"
-    ],
-    "rows": [
-      {
-        "name": "2026-27",
-        "values": [
-          "6",
-          "3.2",
-          "0.3",
-          "0.3",
-          "0.3",
-          "16.7",
-          "0.0"
-        ]
-      },
-      {
-        "name": "Career",
-        "values": [
-          "6",
-          "3.2",
-          "0.3",
-          "0.3",
-          "0.3",
-          "16.7",
-          "0.0"
-        ]
-      }
-    ]
+    "labels": [],
+    "rows": []
   },
-  "recent_games": [
-    {
-      "date": "2026-11-13T01:00:00.000+00:00",
-      "opponent": "DAL",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "133-94",
-      "stats": {
-        "MIN": "8",
-        "PTS": "2",
-        "REB": "1",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-11-09T00:00:00.000+00:00",
-      "opponent": "UTAH",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "115-100",
-      "stats": {
-        "MIN": "2",
-        "PTS": "0",
-        "REB": "0",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-10-31T00:00:00.000+00:00",
-      "opponent": "LAC",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "127-101",
-      "stats": {
-        "MIN": "2",
-        "PTS": "0",
-        "REB": "0",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-10-25T23:00:00.000+00:00",
-      "opponent": "TOR",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "117-94",
-      "stats": {
-        "MIN": "4",
-        "PTS": "0",
-        "REB": "0",
-        "AST": "1"
-      }
-    },
-    {
-      "date": "2026-10-23T23:00:00.000+00:00",
-      "opponent": "ORL",
-      "at_vs": "@",
-      "result": "W",
-      "score": "115-93",
-      "stats": {
-        "MIN": "2",
-        "PTS": "0",
-        "REB": "0",
-        "AST": "1"
-      }
-    }
-  ],
+  "recent_games": [],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Isaiah+Evans+NBA+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Tyler+Bilodeau+NBA+highlights",
     "videos": [
       {
-        "id": "Nqe3b_42Vsc",
-        "title": "Duke Commit Isaiah Evans is UNHINGED! \"Showtime Slim\" Senior Year Highlights!"
+        "id": "MWxNxukkp00",
+        "title": "2026 NBA DRAFT HIGHLIGHTS: F Tyler Bilodeau | UCLA Basketball"
       },
       {
-        "id": "_MX97-K1iJk",
-        "title": "Isaiah Evans Goes OFF for Career-High 32 PTS (7 Threes) in Duke ACC Tournament Win 🔥"
+        "id": "ZBTqCU4DYDU",
+        "title": "Tyler Bilodeau 32 PTS 8 REB vs. Minnesota | UCLA Basketball | 02/28/2026"
       },
       {
-        "id": "WdTAcJAJx0Q",
-        "title": "Isaiah Evans 2026 NCAA tournament highlights"
+        "id": "Bch1urAlgLQ",
+        "title": "Tyler Bilodeau 30 PTS 8 REB vs. Ohio State | UCLA Basketball | 01/17/2026"
       }
     ]
   },
   "news": [
     {
-      "headline": "Duke's Isaiah Evans among those to land on Night 2 of NBA draft",
-      "url": "https://www.espn.com/nba/story/_/id/49172398/duke-isaiah-evans-land-night-2-nba-draft"
+      "headline": "UCLA loses Bilodeau but ousts Michigan St. in Big Ten quarters",
+      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48201354/ucla-loses-bilodeau-ousts-michigan-st-big-ten-quarters"
     },
     {
-      "headline": "Okorie, Veesaar, Evans say they will remain in NBA draft",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48761387/okorie-veesaar-evans-say-remain-nba-draft"
+      "headline": "Tyler Bilodeau drains a long-range 3 to give UCLA momentum",
+      "url": "https://www.espn.com/video/clip?id=47641018"
     },
     {
-      "headline": "Isaiah Evans elevates for the big-time swat",
-      "url": "https://www.espn.com/video/clip?id=48189668"
+      "headline": "Tyler Bilodeau drops in the smooth basket",
+      "url": "https://www.espn.com/video/clip?id=47401561"
     }
   ]
 }
