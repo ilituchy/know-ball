@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-18",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4242402",
+    "name": "Elijah Hicks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242402.png",
+    "jersey": "#22",
+    "position": "Safety",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4242402/elijah-hicks"
+  },
+  "team": {
+    "name": "Chicago Bears",
+    "abbreviation": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "color": "0b1c3a"
+  },
+  "facts": {
+    "Age": 27,
+    "Height": "5' 11\"",
+    "Weight": "204 lbs",
+    "From": "Long Beach, CA",
+    "College": "California",
+    "Draft": "2022: Rd 7, Pk 254 (CHI)",
+    "Experience": "5th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Elijah Hicks (born October 16, 1999) is an American professional football safety for the Chicago Bears of the National Football League (NFL). He played college football for the California Golden Bears and was selected by the Bears in the seventh round of the 2022 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Born in Long Beach, California, Hicks grew up in La Mirada and attended La Mirada High School, where he led the Matadores to back-to-back Suburban League titles, a 13-3 record in 2015 which included a CIF Southern Section Southeast Division championship and a CIF State Division III-AA crown as a junior, and then an 11-3 record and a runner-up finish in Division 3 as a senior, a season in which he had a team-high five interceptions. Hicks earned All-CIF honors in each of his final two years playing high school football."
+      },
+      {
+        "heading": "College career",
+        "text": "Hicks was ranked as a three–star recruit by 247Sports.com coming out of high school. He committed to California on January 10, 2017, over offers from Michigan, Notre Dame, UCLA, and USC. He earned First-team All-Pac-12 honors for the 2021 season."
+      },
+      {
+        "heading": "Lately",
+        "text": "Hicks was selected by the Chicago Bears in the seventh round with the 254th overall pick in the 2022 NFL draft. As a rookie, he appeared in 15 games and started two in the 2022 season. He finished with 28 total tackles (15 solo), one forced fumble, and one fumble recovery. On March 12, 2026, Hicks re-signed with the Bears on a one-year, $2.6 million contract."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Elijah_Hicks",
+    "title": "Elijah Hicks"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "11",
+          "7",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "133",
+          "75",
+          "0",
+          "1",
+          "0",
+          "3"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-09T01:20:00.000+00:00",
+      "opponent": "TB",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "27-24",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-03T01:15:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "@",
+      "result": "W",
+      "score": "34-17",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-23T00:15:00.000+00:00",
+      "opponent": "NE",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "30-24",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-18T17:00:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "31-23",
+      "stats": {
+        "TOT": "4",
+        "SOLO": "2",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-11T17:00:00.000+00:00",
+      "opponent": "GB",
+      "at_vs": "@",
+      "result": "L",
+      "score": "31-7",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Elijah+Hicks+NFL+highlights",
+    "videos": [
+      {
+        "id": "zTqh6Fo0khg",
+        "title": "Elijah Hicks Highlights | Chicago Bears"
+      },
+      {
+        "id": "xTowN_81gjo",
+        "title": "Elijah Hicks fumble recovery special teams touchdown Chicago bears vs Seahawks"
+      },
+      {
+        "id": "m1tx0I1-SSk",
+        "title": "Elijah Hicks 2010 Highlights - Long Beach Browns"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Oregon loses ball in red zone as Cal recovers a fumble",
+      "url": "https://www.espn.com/video/clip?id=32408820"
+    }
+  ]
+}

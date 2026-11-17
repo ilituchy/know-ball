@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "3128303",
-    "name": "Josh Woods",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3128303.png",
-    "jersey": "#46",
-    "position": "Linebacker",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/3128303/josh-woods"
+    "id": "4044133",
+    "name": "Sam Franklin Jr.",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png",
+    "jersey": "#28",
+    "position": "Safety",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4044133/sam-franklin-jr"
   },
   "team": {
-    "name": "Atlanta Falcons",
-    "abbreviation": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "color": "a71930"
+    "name": "Buffalo Bills",
+    "abbreviation": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "color": "00338d"
   },
   "facts": {
     "Age": 30,
-    "Height": "6' 1\"",
-    "Weight": "235 lbs",
-    "From": "Baltimore, MD",
-    "College": "Maryland",
+    "Height": "6' 3\"",
+    "Weight": "210 lbs",
+    "From": "Crystal River, FL",
+    "College": "Temple",
     "Draft": "Undrafted",
     "Experience": "7th Season"
   },
@@ -29,23 +29,23 @@
     "sections": [
       {
         "heading": "The short version",
-        "text": "Josh Woods (born July 1, 1996) is an American professional football linebacker for the Atlanta Falcons of the National Football League (NFL). He played college football for the Maryland Terrapins."
+        "text": "Samuel Lamar Franklin Jr. (born February 2, 1996) is an American professional football safety for the Buffalo Bills of the National Football League (NFL). He played college football for the Temple Owls and was signed by the Carolina Panthers as an undrafted free agent in 2020."
       },
       {
         "heading": "Early life",
-        "text": "Woods was born and grew up in Baltimore, Maryland. He attended KIPP Baltimore (KIPP Ujima Village Academy) through eighth grade, and high school at the McDonogh School. He played both cornerback and wide receiver for the Eagles and was named first-team All-Metro by the Baltimore Sun and first-team All-State as a senior after making 35 tackles with four interceptions on defense catching 35 passes for 800 yards and 10 touchdowns on offense as McDonogh went 11-0 and won its first MIAA state championship.  All 4 years in high school, Josh was an academic all american.  He maintained a grade point average of 4.267 upon graduating high school."
+        "text": "Franklin grew up in Crystal River, Florida and attended Citrus High School, where he played wide receiver, safety and linebacker on the football team. He was recruited by the University of Massachusetts, but failed to qualify academically. He enrolled at East Coast Prep, where he  played alongside future Panthers teammate Myles Hartsfield for a post-graduate year to improve his grades and test scores."
       },
       {
         "heading": "College career",
-        "text": "Woods played four seasons for the Maryland Terrapins as a defensive back. He was used primarily on special teams during his freshman and sophomore seasons, playing in 14 total games and making two tackles. Woods became a key member of the Terrapins secondary as a junior, playing in ten games with five starts while making 41 tackles (one for loss) and breaking up two passes. As a senior, Woods made 62 tackles (4.5 for loss) with four passes broken up and two interceptions despite missing two games due to injury. In his college career, Woods appeared in 34 games with 14 starts at safety, recording 107 total tackles, two interceptions, eight pass breakups, and one forced fumble."
+        "text": "Franklin was a member of the Temple Owls for four seasons, starting as a defensive back before moving to linebacker. As a senior, he was the team's third-leading tackler with 68 tackles and had 7.5 tackles for loss. Franklin finished his collegiate career with 194 tackles including 24 tackles for loss, eight sacks, two interceptions, 10 pass breakups, three fumble recoveries and one forced fumble in 53 games played."
       },
       {
         "heading": "Lately",
-        "text": "On September 17, 2024, Woods was signed to the Atlanta Falcons' practice squad. He was promoted to the active roster on December 28. On July 30, 2026, Woods re-signed with the Falcons. He was released by Atlanta on August 30 as a part of final roster cuts. Woods was re–signed to Atlanta's active roster the following day."
+        "text": "On February 27, 2026, Franklin signed a three-year contract extension with the Bills worth up to $7.5 million. On October 21, 2026, Franklin was suspended by the NFL for one game for spitting at a Raiders opponent three days after a Week 6 win over the Las Vegas Raiders. He was the second Bills' player to be suspended for spitting at an opponent in that game, after C. J. Gardner-Johnson was disqualified for spitting earlier in the game. Franklin denied the allegation, and announced that he would appeal the suspension. On October 23, the NFL announced that Franklin’s suspension was reduced to a unsportsmanlike conduct fine following his successful appeal."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Josh_Woods_(American_football)",
-    "title": "Josh Woods (American football)"
+    "url": "https://en.wikipedia.org/wiki/Sam_Franklin_Jr.",
+    "title": "Sam Franklin Jr."
   },
   "stats": {
     "labels": [
@@ -60,8 +60,8 @@
       {
         "name": "2026",
         "values": [
-          "15",
           "8",
+          "2",
           "0",
           "0",
           "0",
@@ -71,23 +71,36 @@
       {
         "name": "Career",
         "values": [
-          "152",
-          "94",
-          "0.5",
+          "126",
+          "86",
           "1",
-          "0",
-          "1"
+          "1",
+          "1",
+          "5"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-08T14:30:00.000+00:00",
-      "opponent": "CIN",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "34-17",
+      "date": "2026-11-15T18:00:00.000+00:00",
+      "opponent": "NYJ",
+      "at_vs": "@",
+      "result": "W",
+      "score": "31-12",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-10T01:15:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
+      "result": "W",
+      "score": "23-6",
       "stats": {
         "TOT": "0",
         "SOLO": "0",
@@ -97,73 +110,73 @@
     },
     {
       "date": "2026-11-01T18:00:00.000+00:00",
-      "opponent": "TB",
-      "at_vs": "@",
-      "result": "L",
-      "score": "16-0",
-      "stats": {
-        "TOT": "3",
-        "SOLO": "1",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-25T17:00:00.000+00:00",
-      "opponent": "SF",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "29-20",
-      "stats": {
-        "TOT": "1",
-        "SOLO": "1",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-18T17:00:00.000+00:00",
-      "opponent": "CHI",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "31-23",
-      "stats": {
-        "TOT": "4",
-        "SOLO": "3",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-12T00:20:00.000+00:00",
       "opponent": "BAL",
       "at_vs": "vs",
-      "result": "L",
-      "score": "30-23 OT",
+      "result": "W",
+      "score": "36-10",
       "stats": {
         "TOT": "1",
-        "SOLO": "1",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-18T20:25:00.000+00:00",
+      "opponent": "LV",
+      "at_vs": "@",
+      "result": "W",
+      "score": "33-30",
+      "stats": {
+        "TOT": "3",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-13T00:15:00.000+00:00",
+      "opponent": "LAR",
+      "at_vs": "@",
+      "result": "W",
+      "score": "37-34 OT",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Josh+Woods+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Sam+Franklin+Jr.+NFL+highlights",
     "videos": [
       {
-        "id": "-FsFE221AbE",
-        "title": "Josh Woods is Mic'd Up for AT&T Training Camp | Atlanta Falcons | NFL"
+        "id": "UdxV_lPuG4I",
+        "title": "Sam Franklin Jr || NFL Highlights || Denver Broncos S/ST"
       },
       {
-        "id": "8hqOFhgZuac",
-        "title": "107-YARD PICK-6! JOSH WOODS TAKES IT TO THE HOUSE!"
+        "id": "l3mvmQk-fPI",
+        "title": "Bills' Sam Franklin wins appeal of one-game spitting suspension"
       },
       {
-        "id": "SktS1_WjjEc",
-        "title": "josh woods football highlights"
+        "id": "FgUSim_wsqc",
+        "title": "Sam Franklin 99-yd Pick 6 - VIKINGS VS PANTHERS - 2023-24 NFL SEASON - WEEK 4"
       }
     ]
   },
-  "news": []
+  "news": [
+    {
+      "headline": "Bills' Sam Franklin Jr. ready to play this week after suspension reduced to fine",
+      "url": "https://www.espn.com/nfl/story/_/id/50311224/bills-sam-franklin-ready-play-ban-reduced-fine"
+    },
+    {
+      "headline": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
+      "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned"
+    },
+    {
+      "headline": "Bills' Sam Franklin suspended one game for spitting; appealing, per sources",
+      "url": "https://www.espn.com/nfl/story/_/id/50237503/bills-sam-franklin-suspended-spitting-appeal"
+    }
+  ]
 }
