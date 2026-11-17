@@ -1,86 +1,120 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "5105626",
-    "name": "Tyler Bilodeau",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105626.png",
-    "jersey": "#34",
-    "position": "Forward",
-    "espn_url": "https://www.espn.com/nba/player/_/id/5105626/tyler-bilodeau"
+    "id": "4683730",
+    "name": "Jaden Akins",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683730.png",
+    "jersey": "#14",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4683730/jaden-akins"
   },
   "team": {
-    "name": "Brooklyn Nets",
-    "abbreviation": "BKN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-    "color": "000000"
+    "name": "New York Knicks",
+    "abbreviation": "NY",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "color": "1d428a"
   },
   "facts": {
-    "Age": 22,
-    "Height": "6' 8\"",
-    "Weight": "228 lbs",
-    "From": "Kennewick, WA",
-    "College": "UCLA",
-    "Draft": "2026: Rd 2, Pk 43 (BKN)",
+    "Age": 23,
+    "Height": "6' 4\"",
+    "Weight": "195 lbs",
+    "From": "Farmington, MI",
+    "College": "Michigan State",
+    "Draft": "Undrafted",
     "Experience": "Rookie"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Tyler Bilodeau (born April 17, 2004) is an American basketball player for the Brooklyn Nets of the National Basketball Association (NBA), on a two-way contract with the Long Island Nets of the NBA G League. He played college basketball for the Oregon State Beavers and UCLA Bruins. He earned third-team all-conference honors twice in the Big Ten with UCLA. He was selected by Brooklyn in the second round of the 2026 NBA draft."
+        "text": "Jaden Christopher Akins (born February 25, 2003) is an American professional basketball player for the New York Knicks of the National Basketball Association (NBA), on a two-way contract with the Westchester Knicks of the NBA G League. He played college basketball for the Michigan State Spartans."
       },
       {
-        "heading": "Early life",
-        "text": "Bilodeau was born in Billings, Montana, to 1991 National Hockey League first-round draft pick Brent Bilodeau and Women's National Basketball Association player Cass Bauer-Bilodeau. Tyler Bilodeau played both hockey and basketball growing up, before settling on basketball. As a senior at Kamiakin High School in Kennewick, Washington, he averaged 22.7 points and 10.3 rebounds, while leading the team to a fourth-place finish in the Washington Class 4A state tournament. He was named Mid-Columbia Conference Player of the Year and honored as Washington Mr. Basketball."
+        "heading": "Early life and high school",
+        "text": "During his high school career, Akins attended Farmington High School, Ypsi Prep Academy, and Sunrise Christian Academy. He was rated as a four-star recruit and committed to play college basketball for the Michigan State Spartans over offers from schools such as Iowa, Missouri, Xavier, Georgia Tech, Michigan, and Mississippi State."
       },
       {
         "heading": "College career",
-        "text": "As a freshman at Oregon State University in 2022–23, Bilodeau made 13 starts and averaged 7.0 points and 3.9 rebounds per game. On December 28, 2023, he recorded 10 points and 14 rebounds against UCLA. In his sophomore year in 2023–24, Bilodeau changed his jersey number from 10 to 34 in honor of his mother, who wore the number in college and professionally. \"My mom is who I look up to. She's the reason I play basketball\", he said. He averaged 14.3 points and 5.7 rebounds per game that season, while shooting 34.5% on his three-pointers. His 53.3% field goal percentage ranked fourth in the Pac-12 Conference."
+        "text": "As a freshman in 2021–22, Akins averaged 3.4 points in 15 minutes per game. On November 18, 2022, he recorded nine points, five rebounds and two assists in a victory against Villanova. On January 19, 2023, Akins tallied 11 points, five rebounds, four assists, four steals and a block against Rutgers. On February 25, 2023, he scored 21 points in a loss to Iowa. In 2022–23, Akins averaged 9.8 points, 4.0 rebounds, 1.2 assists and 1.2 steals in 27.4 minutes a game. On December 21, 2023, he recorded 22 points while hitting four threes in a victory against Stony Brook."
       },
       {
         "heading": "Lately",
-        "text": "On June 24, 2026, Bilodeau was selected by the Brooklyn Nets in the second round of the 2026 NBA draft with the 43rd overall pick. He signed a two-way contract with Brooklyn and their G League team, the Long Island Nets."
+        "text": "After going undrafted, Akins made his 2025 NBA Summer League debut with the Orlando Magic. On October 11, 2025, the Detroit Pistons added Akins to their roster on an Exhibit 10 contract. On October 13, he was waived by the Pistons. On September 15, 2026, Akins signed an Exhibit 10 contract with the New York Knicks, but was waived the same day."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Tyler_Bilodeau",
-    "title": "Tyler Bilodeau"
+    "url": "https://en.wikipedia.org/wiki/Jaden_Akins",
+    "title": "Jaden Akins"
   },
   "stats": {
-    "labels": [],
-    "rows": []
-  },
-  "recent_games": [],
-  "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Tyler+Bilodeau+NBA+highlights",
-    "videos": [
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
       {
-        "id": "MWxNxukkp00",
-        "title": "2026 NBA DRAFT HIGHLIGHTS: F Tyler Bilodeau | UCLA Basketball"
+        "name": "2026-27",
+        "values": [
+          "2",
+          "1.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0"
+        ]
       },
       {
-        "id": "ZBTqCU4DYDU",
-        "title": "Tyler Bilodeau 32 PTS 8 REB vs. Minnesota | UCLA Basketball | 02/28/2026"
-      },
-      {
-        "id": "Bch1urAlgLQ",
-        "title": "Tyler Bilodeau 30 PTS 8 REB vs. Ohio State | UCLA Basketball | 01/17/2026"
+        "name": "Career",
+        "values": [
+          "2",
+          "1.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0",
+          "0.0"
+        ]
       }
     ]
   },
-  "news": [
+  "recent_games": [
     {
-      "headline": "UCLA loses Bilodeau but ousts Michigan St. in Big Ten quarters",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/48201354/ucla-loses-bilodeau-ousts-michigan-st-big-ten-quarters"
-    },
-    {
-      "headline": "Tyler Bilodeau drains a long-range 3 to give UCLA momentum",
-      "url": "https://www.espn.com/video/clip?id=47641018"
-    },
-    {
-      "headline": "Tyler Bilodeau drops in the smooth basket",
-      "url": "https://www.espn.com/video/clip?id=47401561"
+      "date": "2026-10-28T00:00:00.000+00:00",
+      "opponent": "DET",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "111-97",
+      "stats": {
+        "MIN": "2",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
     }
-  ]
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Jaden+Akins+NBA+highlights",
+    "videos": [
+      {
+        "id": "0x4KX_S6IhE",
+        "title": "Jaden Akins Went Off For CAREER-HIGH 35 PTS In OT Battle Vs. Knicks"
+      },
+      {
+        "id": "8PshFLcebJs",
+        "title": "2025 SENIOR HIGHLIGHTS: G Jaden Akins | Michigan State Basketball"
+      },
+      {
+        "id": "nDH0E4qzI9E",
+        "title": "Jaden Akins Goes Off for 16 PTS & 15 AST in PRO DEBUT!"
+      }
+    ]
+  },
+  "news": []
 }
