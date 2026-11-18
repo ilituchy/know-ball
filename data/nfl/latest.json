@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4044133",
-    "name": "Sam Franklin Jr.",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png",
-    "jersey": "#28",
+    "id": "4242402",
+    "name": "Elijah Hicks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242402.png",
+    "jersey": "#22",
     "position": "Safety",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4044133/sam-franklin-jr"
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4242402/elijah-hicks"
   },
   "team": {
-    "name": "Buffalo Bills",
-    "abbreviation": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "color": "00338d"
+    "name": "Chicago Bears",
+    "abbreviation": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "color": "0b1c3a"
   },
   "facts": {
-    "Age": 30,
-    "Height": "6' 3\"",
-    "Weight": "210 lbs",
-    "From": "Crystal River, FL",
-    "College": "Temple",
-    "Draft": "Undrafted",
-    "Experience": "7th Season"
+    "Age": 27,
+    "Height": "5' 11\"",
+    "Weight": "204 lbs",
+    "From": "Long Beach, CA",
+    "College": "California",
+    "Draft": "2022: Rd 7, Pk 254 (CHI)",
+    "Experience": "5th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Samuel Lamar Franklin Jr. (born February 2, 1996) is an American professional football safety for the Buffalo Bills of the National Football League (NFL). He played college football for the Temple Owls and was signed by the Carolina Panthers as an undrafted free agent in 2020."
+        "text": "Elijah Hicks (born October 16, 1999) is an American professional football safety for the Chicago Bears of the National Football League (NFL). He played college football for the California Golden Bears and was selected by the Bears in the seventh round of the 2022 NFL draft."
       },
       {
         "heading": "Early life",
-        "text": "Franklin grew up in Crystal River, Florida and attended Citrus High School, where he played wide receiver, safety and linebacker on the football team. He was recruited by the University of Massachusetts, but failed to qualify academically. He enrolled at East Coast Prep, where he  played alongside future Panthers teammate Myles Hartsfield for a post-graduate year to improve his grades and test scores."
+        "text": "Born in Long Beach, California, Hicks grew up in La Mirada and attended La Mirada High School, where he led the Matadores to back-to-back Suburban League titles, a 13-3 record in 2015 which included a CIF Southern Section Southeast Division championship and a CIF State Division III-AA crown as a junior, and then an 11-3 record and a runner-up finish in Division 3 as a senior, a season in which he had a team-high five interceptions. Hicks earned All-CIF honors in each of his final two years playing high school football."
       },
       {
         "heading": "College career",
-        "text": "Franklin was a member of the Temple Owls for four seasons, starting as a defensive back before moving to linebacker. As a senior, he was the team's third-leading tackler with 68 tackles and had 7.5 tackles for loss. Franklin finished his collegiate career with 194 tackles including 24 tackles for loss, eight sacks, two interceptions, 10 pass breakups, three fumble recoveries and one forced fumble in 53 games played."
+        "text": "Hicks was ranked as a three–star recruit by 247Sports.com coming out of high school. He committed to California on January 10, 2017, over offers from Michigan, Notre Dame, UCLA, and USC. He earned First-team All-Pac-12 honors for the 2021 season."
       },
       {
         "heading": "Lately",
-        "text": "On February 27, 2026, Franklin signed a three-year contract extension with the Bills worth up to $7.5 million. On October 21, 2026, Franklin was suspended by the NFL for one game for spitting at a Raiders opponent three days after a Week 6 win over the Las Vegas Raiders. He was the second Bills' player to be suspended for spitting at an opponent in that game, after C. J. Gardner-Johnson was disqualified for spitting earlier in the game. Franklin denied the allegation, and announced that he would appeal the suspension. On October 23, the NFL announced that Franklin’s suspension was reduced to a unsportsmanlike conduct fine following his successful appeal."
+        "text": "Hicks was selected by the Chicago Bears in the seventh round with the 254th overall pick in the 2022 NFL draft. As a rookie, he appeared in 15 games and started two in the 2022 season. He finished with 28 total tackles (15 solo), one forced fumble, and one fumble recovery. On March 12, 2026, Hicks re-signed with the Bears on a one-year, $2.6 million contract."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Sam_Franklin_Jr.",
-    "title": "Sam Franklin Jr."
+    "url": "https://en.wikipedia.org/wiki/Elijah_Hicks",
+    "title": "Elijah Hicks"
   },
   "stats": {
     "labels": [
@@ -60,8 +60,8 @@
       {
         "name": "2026",
         "values": [
-          "8",
-          "2",
+          "11",
+          "7",
           "0",
           "0",
           "0",
@@ -71,36 +71,23 @@
       {
         "name": "Career",
         "values": [
-          "126",
-          "86",
+          "133",
+          "75",
+          "0",
           "1",
-          "1",
-          "1",
-          "5"
+          "0",
+          "3"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-15T18:00:00.000+00:00",
-      "opponent": "NYJ",
-      "at_vs": "@",
+      "date": "2026-11-09T01:20:00.000+00:00",
+      "opponent": "TB",
+      "at_vs": "vs",
       "result": "W",
-      "score": "31-12",
-      "stats": {
-        "TOT": "1",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-11-10T01:15:00.000+00:00",
-      "opponent": "MIN",
-      "at_vs": "@",
-      "result": "W",
-      "score": "23-6",
+      "score": "27-24",
       "stats": {
         "TOT": "0",
         "SOLO": "0",
@@ -109,37 +96,50 @@
       }
     },
     {
-      "date": "2026-11-01T18:00:00.000+00:00",
-      "opponent": "BAL",
+      "date": "2026-11-03T01:15:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "@",
+      "result": "W",
+      "score": "34-17",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-23T00:15:00.000+00:00",
+      "opponent": "NE",
       "at_vs": "vs",
       "result": "W",
-      "score": "36-10",
+      "score": "30-24",
       "stats": {
         "TOT": "1",
-        "SOLO": "0",
+        "SOLO": "1",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-18T20:25:00.000+00:00",
-      "opponent": "LV",
+      "date": "2026-10-18T17:00:00.000+00:00",
+      "opponent": "ATL",
       "at_vs": "@",
       "result": "W",
-      "score": "33-30",
+      "score": "31-23",
       "stats": {
-        "TOT": "3",
-        "SOLO": "0",
+        "TOT": "4",
+        "SOLO": "2",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-13T00:15:00.000+00:00",
-      "opponent": "LAR",
+      "date": "2026-10-11T17:00:00.000+00:00",
+      "opponent": "GB",
       "at_vs": "@",
-      "result": "W",
-      "score": "37-34 OT",
+      "result": "L",
+      "score": "31-7",
       "stats": {
         "TOT": "0",
         "SOLO": "0",
@@ -149,34 +149,26 @@
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Sam+Franklin+Jr.+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Elijah+Hicks+NFL+highlights",
     "videos": [
       {
-        "id": "UdxV_lPuG4I",
-        "title": "Sam Franklin Jr || NFL Highlights || Denver Broncos S/ST"
+        "id": "zTqh6Fo0khg",
+        "title": "Elijah Hicks Highlights | Chicago Bears"
       },
       {
-        "id": "l3mvmQk-fPI",
-        "title": "Bills' Sam Franklin wins appeal of one-game spitting suspension"
+        "id": "xTowN_81gjo",
+        "title": "Elijah Hicks fumble recovery special teams touchdown Chicago bears vs Seahawks"
       },
       {
-        "id": "FgUSim_wsqc",
-        "title": "Sam Franklin 99-yd Pick 6 - VIKINGS VS PANTHERS - 2023-24 NFL SEASON - WEEK 4"
+        "id": "m1tx0I1-SSk",
+        "title": "Elijah Hicks 2010 Highlights - Long Beach Browns"
       }
     ]
   },
   "news": [
     {
-      "headline": "Bills' Sam Franklin Jr. ready to play this week after suspension reduced to fine",
-      "url": "https://www.espn.com/nfl/story/_/id/50311224/bills-sam-franklin-ready-play-ban-reduced-fine"
-    },
-    {
-      "headline": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
-      "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned"
-    },
-    {
-      "headline": "Bills' Sam Franklin suspended one game for spitting; appealing, per sources",
-      "url": "https://www.espn.com/nfl/story/_/id/50237503/bills-sam-franklin-suspended-spitting-appeal"
+      "headline": "Oregon loses ball in red zone as Cal recovers a fumble",
+      "url": "https://www.espn.com/video/clip?id=32408820"
     }
   ]
 }

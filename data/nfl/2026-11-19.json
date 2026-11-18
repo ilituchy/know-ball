@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-19",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4365319",
+    "name": "Josh Newton",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4365319.png",
+    "jersey": "#28",
+    "position": "Cornerback",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4365319/josh-newton"
+  },
+  "team": {
+    "name": "Cincinnati Bengals",
+    "abbreviation": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "color": "fb4f14"
+  },
+  "facts": {
+    "Age": 26,
+    "Height": "5' 11\"",
+    "Weight": "190 lbs",
+    "From": "Monroe, LA",
+    "College": "TCU",
+    "Draft": "2024: Rd 5, Pk 149 (CIN)",
+    "Experience": "3rd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Josh Newton (born September 14, 2000) is an American professional football cornerback for the Cincinnati Bengals of the National Football League (NFL). He played college football for the Louisiana–Monroe Warhawks and TCU Horned Frogs."
+      },
+      {
+        "heading": "Early life",
+        "text": "Newton attended Ouachita Parish High School in Monroe, Louisiana, where he was a two-year starting wide receiver on the football team. As a senior, he earned first-team all-district honors and was selected to play in the LHSCA East-West All-Star Game. Newton committed to play college football at Louisiana–Monroe."
+      },
+      {
+        "heading": "College career",
+        "text": "Newton redshirted his freshman season in 2018. In the 2019 spring practices, he was converted to a cornerback. In 2019, Newton recorded 20 tackles and two pass deflections. In week nine of the 2020 season, he picked off a pass by Zac Thomas for his first career interception, but the Warhawks lost to Appalachian State 31–13. Newton finished the 2020 season with 16 tackles with 0.5 being for a loss, five pass deflections, and an interception. In week seven of the 2021 season, he intercepted a pass off Malik Willis in a win over Liberty. In week twelve, Newton made another interception in a defeat to LSU 27–14."
+      },
+      {
+        "heading": "Lately",
+        "text": "Newton was selected by the Cincinnati Bengals in the 5th round (149th overall) of the 2024 NFL draft. He caught his first career interception during Week 15's road win against the Tennessee Titans."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Josh_Newton_(American_football)",
+    "title": "Josh Newton (American football)"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "9",
+          "6",
+          "0",
+          "0",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "55",
+          "45",
+          "0",
+          "0",
+          "1",
+          "13"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-16T01:20:00.000+00:00",
+      "opponent": "PIT",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "38-18",
+      "stats": {
+        "TOT": "2",
+        "SOLO": "2",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-08T14:30:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "34-17",
+      "stats": {
+        "TOT": "5",
+        "SOLO": "3",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-01T18:00:00.000+00:00",
+      "opponent": "TEN",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "43-36 OT",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-25T17:00:00.000+00:00",
+      "opponent": "BAL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "35-13",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-11T17:00:00.000+00:00",
+      "opponent": "MIA",
+      "at_vs": "@",
+      "result": "W",
+      "score": "31-24",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Josh+Newton+NFL+highlights",
+    "videos": [
+      {
+        "id": "n_F-CNNCnrc",
+        "title": "Josh Newton leaps for high-point INT from Kyle Trask"
+      },
+      {
+        "id": "654OXf7a3XU",
+        "title": "Josh Newton 🔥 Top Cover Corner in College Football ᴴᴰ"
+      },
+      {
+        "id": "ORwfm82z-Vc",
+        "title": "Josh Newton | Cornerback | TCU | 2023 Highlights | 2024 NFL Draft"
+      }
+    ]
+  },
+  "news": []
+}
