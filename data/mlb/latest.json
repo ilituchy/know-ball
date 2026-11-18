@@ -1,43 +1,47 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "42556",
-    "name": "AJ Blubaugh",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/42556.png",
-    "jersey": "#69",
+    "id": "4326800",
+    "name": "Ben Casparius",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4326800.png",
+    "jersey": "#78",
     "position": "Relief Pitcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/42556"
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4326800"
   },
   "team": {
-    "name": "Houston Astros",
-    "abbreviation": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
-    "color": "002d62"
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+    "color": "005a9c"
   },
   "facts": {
-    "Age": 26,
+    "Age": 27,
     "Height": "6' 2\"",
-    "Weight": "190 lbs",
-    "From": "Mansfield, OH",
-    "College": "Milwaukee",
+    "Weight": "215 lbs",
+    "From": "Westport, CT",
+    "College": "UConn",
     "Draft": null,
-    "Experience": "2nd Season"
+    "Experience": "3rd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Alan Joseph Blubaugh (born July 4, 2000) is an American professional baseball pitcher for the Houston Astros of Major League Baseball (MLB). He made his MLB debut in 2025."
+        "text": "Benjamin Keith Casparius (born February 11, 1999) is an American professional baseball pitcher for the Los Angeles Dodgers of Major League Baseball (MLB)."
       },
       {
         "heading": "Lately",
-        "text": "On April 30, 2025, Blubaugh was selected to the 40-man roster and promoted to the major leagues for the first time. He made his Major League debut that day against the Detroit Tigers. Blubaugh pitched four innings, allowing five hits and two runs while walking a batter, and struck out six batters in his debut. On August 5, Blubaugh recorded his first career win after allowing two runs in five innings of relief against the Miami Marlins. In 2025, Blubaugh appeared in 11 games with a 3–1 record with a 1.69 ERA. In 2026, Blubaugh ranked first in the major leagues among relievers in innings pitched (96), and sixth in the American League (AL) in strikeouts (94)."
+        "text": "In 2025, Casparius made the Dodgers opening day roster and he became an important member of the bullpen, providing length when needed. In June, as a result of several pitching injuries to the staff, Casparius was moved to the starting rotation. He struggled in that role and returned to the pen a month later. He was optioned back to the minors on September 9. In 46 games, Casparius had a 7–5 record and 4.64 ERA with 71 strikeouts. He also made five appearances for Oklahoma City, allowing two runs in 5+1⁄3 innings. Casparius was on the active roster for the 2025 NLCS but did not appear in any games, he was inactive for the other postseason series."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Casparius was in a relationship with North Carolina field hockey coach Erin Matson."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/AJ_Blubaugh",
-    "title": "AJ Blubaugh"
+    "url": "https://en.wikipedia.org/wiki/Ben_Casparius",
+    "title": "Ben Casparius"
   },
   "stats": {
     "labels": [
@@ -52,110 +56,119 @@
       {
         "name": "2026",
         "values": [
-          "64",
+          "5",
           "0",
-          "96.0",
-          "3.66",
-          "42",
-          "94"
+          "4.2",
+          "9.64",
+          "4",
+          "4"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "75",
+          "54",
           "3",
-          "128.0",
-          "3.16",
-          "53",
-          "129"
+          "90.2",
+          "4.67",
+          "29",
+          "87"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-30T21:00:00.000+00:00",
-      "opponent": "CHW",
+      "date": "2026-04-12T20:10:00.000+00:00",
+      "opponent": "TEX",
       "at_vs": "vs",
       "result": "L",
-      "score": "7-3",
+      "score": "5-2",
       "stats": {
-        "IP": "1.1",
-        "H": "0",
-        "ER": "0",
-        "K": "2"
+        "IP": "1.0",
+        "H": "2",
+        "ER": "2",
+        "K": "1"
       }
     },
     {
-      "date": "2026-09-29T21:00:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "vs",
+      "date": "2026-04-08T19:07:00.000+00:00",
+      "opponent": "TOR",
+      "at_vs": "@",
       "result": "L",
-      "score": "6-3",
+      "score": "4-3",
       "stats": {
-        "IP": "0.2",
-        "H": "0",
-        "ER": "0",
+        "IP": "1.0",
+        "H": "1",
+        "ER": "1",
         "K": "0"
       }
     },
     {
-      "date": "2026-09-26T01:40:00.000+00:00",
-      "opponent": "ATH",
-      "at_vs": "@",
-      "result": "L",
-      "score": "6-5",
-      "stats": {
-        "IP": "0.2",
-        "H": "1",
-        "ER": "1",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-09-24T02:00:00.000+00:00",
-      "opponent": "SEA",
-      "at_vs": "@",
-      "result": "L",
-      "score": "6-5 F/10",
-      "stats": {
-        "IP": "2.0",
-        "H": "0",
-        "ER": "0",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-09-23T01:40:00.000+00:00",
-      "opponent": "SEA",
+      "date": "2026-04-04T20:05:00.000+00:00",
+      "opponent": "WSH",
       "at_vs": "@",
       "result": "W",
-      "score": "7-0",
+      "score": "10-5",
+      "stats": {
+        "IP": "1.0",
+        "H": "2",
+        "ER": "2",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-04-03T17:05:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "@",
+      "result": "W",
+      "score": "13-6",
       "stats": {
         "IP": "1.0",
         "H": "0",
         "ER": "0",
-        "K": "0"
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-03-28T02:10:00.000+00:00",
+      "opponent": "ARI",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "5-4",
+      "stats": {
+        "IP": "0.2",
+        "H": "1",
+        "ER": "0",
+        "K": "1"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=AJ+Blubaugh+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Ben+Casparius+MLB+highlights",
     "videos": [
       {
-        "id": "XouL-Hc2pSk",
-        "title": "AJ Blubaugh 2025 MLB Highlights!"
+        "id": "e9bYitpTYA8",
+        "title": "Ben Casparius 2025 MLB Highlights!"
       },
       {
-        "id": "3Of14RvCtC4",
-        "title": "AJ Blubaugh 2026 MLB Highlights!"
+        "id": "God7232vVrU",
+        "title": "Ben Casparius 2024 MLB Highlights!"
       },
       {
-        "id": "6Dl-Wp7SfoA",
-        "title": "AJ Blubaugh...warm-up pitches...Astros vs. Angels...3/27/26"
+        "id": "RCgWiaUYLLY",
+        "title": "Ben Casparius 2024 Highlights!"
       }
     ]
   },
-  "news": []
+  "news": [
+    {
+      "headline": "Brewers' Nick Mears, Dodgers' Ben Casparius make NLCS rosters",
+      "url": "https://www.espn.com/mlb/story/_/id/46583423/brewers-nick-mears-dodgers-ben-casparius-make-nlcs-rosters"
+    },
+    {
+      "headline": "Dodgers replace Michael Grove with Ben Casparius on roster",
+      "url": "https://www.espn.com/mlb/story/_/id/41686439/dodgers-replace-micahel-grove-ben-casparius-roster"
+    }
+  ]
 }
