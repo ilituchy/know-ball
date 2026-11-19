@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-20",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4243541",
+    "name": "Kalia Davis",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243541.png",
+    "jersey": "#93",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4243541/kalia-davis"
+  },
+  "team": {
+    "name": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "color": "472a08"
+  },
+  "facts": {
+    "Age": 28,
+    "Height": "6' 2\"",
+    "Weight": "310 lbs",
+    "From": "Pensacola, FL",
+    "College": "UCF",
+    "Draft": "2022: Rd 6, Pk 220 (SF)",
+    "Experience": "5th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Kalia Davis (born October 2, 1998) is an American professional football defensive tackle for the Cleveland Browns in the National Football League (NFL). He played college football for the UCF Knights."
+      },
+      {
+        "heading": "Lately",
+        "text": "On August 12, 2024, it was announced that Davis would undergo knee surgery that would rule him out for roughly half the season. He was placed on injured reserve on August 27. He was activated on October 5. In Week 7, against the Kansas City Chiefs, Davis recorded his first career interception, which he returned for two yards in the 18–28 loss. On March 19, 2026, Davis signed with the Cleveland Browns on a one-year, $3 million contract. On September 1, Davis was placed on injured reserve due to a quad injury."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Davis was born in Pensacola, Florida to parents Kenneth Davis II and Antoinette Rivera. He is the third of six siblings. He attended West Florida Tech High School where, as a senior, he was ranked the 41st ILB in the nation as a senior, and received three stars from ESPN."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Kalia_Davis",
+    "title": "Kalia Davis"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2025",
+        "values": [
+          "28",
+          "10",
+          "0.5",
+          "0",
+          "0",
+          "3"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "41",
+          "17",
+          "1.5",
+          "0",
+          "1",
+          "4"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-01-18T01:00:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "@",
+      "result": "L",
+      "score": "41-6",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-01-11T21:30:00.000+00:00",
+      "opponent": "PHI",
+      "at_vs": "@",
+      "result": "W",
+      "score": "23-19",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-01-04T01:00:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "13-3",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2025-12-29T01:20:00.000+00:00",
+      "opponent": "CHI",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "42-38",
+      "stats": {
+        "TOT": "3",
+        "SOLO": "2",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2025-12-23T01:15:00.000+00:00",
+      "opponent": "IND",
+      "at_vs": "@",
+      "result": "W",
+      "score": "48-27",
+      "stats": {
+        "TOT": "3",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Kalia+Davis+NFL+highlights",
+    "videos": [
+      {
+        "id": "yJdmEppBJ6o",
+        "title": "Kalia Davis Highlights - Cleveland Browns | 2026 NFL Free Agency"
+      },
+      {
+        "id": "TXD14ymYk60",
+        "title": "The San Francisco 49ers Just Found Their Next DT: KALIA DAVIS"
+      },
+      {
+        "id": "o4orLfSPs6M",
+        "title": "The Cleveland Browns made a SNEAKY GOOD MOVE by signing DT Kalia Davis away from the 49ers"
+      }
+    ]
+  },
+  "news": []
+}

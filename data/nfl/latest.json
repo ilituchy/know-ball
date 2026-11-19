@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4242402",
-    "name": "Elijah Hicks",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242402.png",
-    "jersey": "#22",
-    "position": "Safety",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4242402/elijah-hicks"
+    "id": "4365319",
+    "name": "Josh Newton",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4365319.png",
+    "jersey": "#28",
+    "position": "Cornerback",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4365319/josh-newton"
   },
   "team": {
-    "name": "Chicago Bears",
-    "abbreviation": "CHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-    "color": "0b1c3a"
+    "name": "Cincinnati Bengals",
+    "abbreviation": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "color": "fb4f14"
   },
   "facts": {
-    "Age": 27,
+    "Age": 26,
     "Height": "5' 11\"",
-    "Weight": "204 lbs",
-    "From": "Long Beach, CA",
-    "College": "California",
-    "Draft": "2022: Rd 7, Pk 254 (CHI)",
-    "Experience": "5th Season"
+    "Weight": "190 lbs",
+    "From": "Monroe, LA",
+    "College": "TCU",
+    "Draft": "2024: Rd 5, Pk 149 (CIN)",
+    "Experience": "3rd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Elijah Hicks (born October 16, 1999) is an American professional football safety for the Chicago Bears of the National Football League (NFL). He played college football for the California Golden Bears and was selected by the Bears in the seventh round of the 2022 NFL draft."
+        "text": "Josh Newton (born September 14, 2000) is an American professional football cornerback for the Cincinnati Bengals of the National Football League (NFL). He played college football for the Louisiana–Monroe Warhawks and TCU Horned Frogs."
       },
       {
         "heading": "Early life",
-        "text": "Born in Long Beach, California, Hicks grew up in La Mirada and attended La Mirada High School, where he led the Matadores to back-to-back Suburban League titles, a 13-3 record in 2015 which included a CIF Southern Section Southeast Division championship and a CIF State Division III-AA crown as a junior, and then an 11-3 record and a runner-up finish in Division 3 as a senior, a season in which he had a team-high five interceptions. Hicks earned All-CIF honors in each of his final two years playing high school football."
+        "text": "Newton attended Ouachita Parish High School in Monroe, Louisiana, where he was a two-year starting wide receiver on the football team. As a senior, he earned first-team all-district honors and was selected to play in the LHSCA East-West All-Star Game. Newton committed to play college football at Louisiana–Monroe."
       },
       {
         "heading": "College career",
-        "text": "Hicks was ranked as a three–star recruit by 247Sports.com coming out of high school. He committed to California on January 10, 2017, over offers from Michigan, Notre Dame, UCLA, and USC. He earned First-team All-Pac-12 honors for the 2021 season."
+        "text": "Newton redshirted his freshman season in 2018. In the 2019 spring practices, he was converted to a cornerback. In 2019, Newton recorded 20 tackles and two pass deflections. In week nine of the 2020 season, he picked off a pass by Zac Thomas for his first career interception, but the Warhawks lost to Appalachian State 31–13. Newton finished the 2020 season with 16 tackles with 0.5 being for a loss, five pass deflections, and an interception. In week seven of the 2021 season, he intercepted a pass off Malik Willis in a win over Liberty. In week twelve, Newton made another interception in a defeat to LSU 27–14."
       },
       {
         "heading": "Lately",
-        "text": "Hicks was selected by the Chicago Bears in the seventh round with the 254th overall pick in the 2022 NFL draft. As a rookie, he appeared in 15 games and started two in the 2022 season. He finished with 28 total tackles (15 solo), one forced fumble, and one fumble recovery. On March 12, 2026, Hicks re-signed with the Bears on a one-year, $2.6 million contract."
+        "text": "Newton was selected by the Cincinnati Bengals in the 5th round (149th overall) of the 2024 NFL draft. He caught his first career interception during Week 15's road win against the Tennessee Titans."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Elijah_Hicks",
-    "title": "Elijah Hicks"
+    "url": "https://en.wikipedia.org/wiki/Josh_Newton_(American_football)",
+    "title": "Josh Newton (American football)"
   },
   "stats": {
     "labels": [
@@ -60,60 +60,60 @@
       {
         "name": "2026",
         "values": [
-          "11",
-          "7",
+          "9",
+          "6",
           "0",
           "0",
           "0",
-          "0"
+          "3"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "133",
-          "75",
+          "55",
+          "45",
+          "0",
           "0",
           "1",
-          "0",
-          "3"
+          "13"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-09T01:20:00.000+00:00",
-      "opponent": "TB",
+      "date": "2026-11-16T01:20:00.000+00:00",
+      "opponent": "PIT",
       "at_vs": "vs",
       "result": "W",
-      "score": "27-24",
+      "score": "38-18",
       "stats": {
-        "TOT": "0",
-        "SOLO": "0",
+        "TOT": "2",
+        "SOLO": "2",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-11-03T01:15:00.000+00:00",
-      "opponent": "SEA",
-      "at_vs": "@",
+      "date": "2026-11-08T14:30:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
       "result": "W",
       "score": "34-17",
       "stats": {
-        "TOT": "0",
-        "SOLO": "0",
+        "TOT": "5",
+        "SOLO": "3",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-23T00:15:00.000+00:00",
-      "opponent": "NE",
+      "date": "2026-11-01T18:00:00.000+00:00",
+      "opponent": "TEN",
       "at_vs": "vs",
       "result": "W",
-      "score": "30-24",
+      "score": "43-36 OT",
       "stats": {
         "TOT": "1",
         "SOLO": "1",
@@ -122,24 +122,24 @@
       }
     },
     {
-      "date": "2026-10-18T17:00:00.000+00:00",
-      "opponent": "ATL",
+      "date": "2026-10-25T17:00:00.000+00:00",
+      "opponent": "BAL",
       "at_vs": "@",
       "result": "W",
-      "score": "31-23",
+      "score": "35-13",
       "stats": {
-        "TOT": "4",
-        "SOLO": "2",
+        "TOT": "1",
+        "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
       "date": "2026-10-11T17:00:00.000+00:00",
-      "opponent": "GB",
+      "opponent": "MIA",
       "at_vs": "@",
-      "result": "L",
-      "score": "31-7",
+      "result": "W",
+      "score": "31-24",
       "stats": {
         "TOT": "0",
         "SOLO": "0",
@@ -149,26 +149,21 @@
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Elijah+Hicks+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Josh+Newton+NFL+highlights",
     "videos": [
       {
-        "id": "zTqh6Fo0khg",
-        "title": "Elijah Hicks Highlights | Chicago Bears"
+        "id": "n_F-CNNCnrc",
+        "title": "Josh Newton leaps for high-point INT from Kyle Trask"
       },
       {
-        "id": "xTowN_81gjo",
-        "title": "Elijah Hicks fumble recovery special teams touchdown Chicago bears vs Seahawks"
+        "id": "654OXf7a3XU",
+        "title": "Josh Newton 🔥 Top Cover Corner in College Football ᴴᴰ"
       },
       {
-        "id": "m1tx0I1-SSk",
-        "title": "Elijah Hicks 2010 Highlights - Long Beach Browns"
+        "id": "ORwfm82z-Vc",
+        "title": "Josh Newton | Cornerback | TCU | 2023 Highlights | 2024 NFL Draft"
       }
     ]
   },
-  "news": [
-    {
-      "headline": "Oregon loses ball in red zone as Cal recovers a fumble",
-      "url": "https://www.espn.com/video/clip?id=32408820"
-    }
-  ]
+  "news": []
 }
