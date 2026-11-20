@@ -1,51 +1,47 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4365319",
-    "name": "Josh Newton",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4365319.png",
-    "jersey": "#28",
-    "position": "Cornerback",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4365319/josh-newton"
+    "id": "4243541",
+    "name": "Kalia Davis",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243541.png",
+    "jersey": "#93",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4243541/kalia-davis"
   },
   "team": {
-    "name": "Cincinnati Bengals",
-    "abbreviation": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-    "color": "fb4f14"
+    "name": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "color": "472a08"
   },
   "facts": {
-    "Age": 26,
-    "Height": "5' 11\"",
-    "Weight": "190 lbs",
-    "From": "Monroe, LA",
-    "College": "TCU",
-    "Draft": "2024: Rd 5, Pk 149 (CIN)",
-    "Experience": "3rd Season"
+    "Age": 28,
+    "Height": "6' 2\"",
+    "Weight": "310 lbs",
+    "From": "Pensacola, FL",
+    "College": "UCF",
+    "Draft": "2022: Rd 6, Pk 220 (SF)",
+    "Experience": "5th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Josh Newton (born September 14, 2000) is an American professional football cornerback for the Cincinnati Bengals of the National Football League (NFL). He played college football for the Louisiana–Monroe Warhawks and TCU Horned Frogs."
-      },
-      {
-        "heading": "Early life",
-        "text": "Newton attended Ouachita Parish High School in Monroe, Louisiana, where he was a two-year starting wide receiver on the football team. As a senior, he earned first-team all-district honors and was selected to play in the LHSCA East-West All-Star Game. Newton committed to play college football at Louisiana–Monroe."
-      },
-      {
-        "heading": "College career",
-        "text": "Newton redshirted his freshman season in 2018. In the 2019 spring practices, he was converted to a cornerback. In 2019, Newton recorded 20 tackles and two pass deflections. In week nine of the 2020 season, he picked off a pass by Zac Thomas for his first career interception, but the Warhawks lost to Appalachian State 31–13. Newton finished the 2020 season with 16 tackles with 0.5 being for a loss, five pass deflections, and an interception. In week seven of the 2021 season, he intercepted a pass off Malik Willis in a win over Liberty. In week twelve, Newton made another interception in a defeat to LSU 27–14."
+        "text": "Kalia Davis (born October 2, 1998) is an American professional football defensive tackle for the Cleveland Browns in the National Football League (NFL). He played college football for the UCF Knights."
       },
       {
         "heading": "Lately",
-        "text": "Newton was selected by the Cincinnati Bengals in the 5th round (149th overall) of the 2024 NFL draft. He caught his first career interception during Week 15's road win against the Tennessee Titans."
+        "text": "On August 12, 2024, it was announced that Davis would undergo knee surgery that would rule him out for roughly half the season. He was placed on injured reserve on August 27. He was activated on October 5. In Week 7, against the Kansas City Chiefs, Davis recorded his first career interception, which he returned for two yards in the 18–28 loss. On March 19, 2026, Davis signed with the Cleveland Browns on a one-year, $3 million contract. On September 1, Davis was placed on injured reserve due to a quad injury."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Davis was born in Pensacola, Florida to parents Kenneth Davis II and Antoinette Rivera. He is the third of six siblings. He attended West Florida Tech High School where, as a senior, he was ranked the 41st ILB in the nation as a senior, and received three stars from ESPN."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Josh_Newton_(American_football)",
-    "title": "Josh Newton (American football)"
+    "url": "https://en.wikipedia.org/wiki/Kalia_Davis",
+    "title": "Kalia Davis"
   },
   "stats": {
     "labels": [
@@ -58,11 +54,11 @@
     ],
     "rows": [
       {
-        "name": "2026",
+        "name": "2025",
         "values": [
-          "9",
-          "6",
-          "0",
+          "28",
+          "10",
+          "0.5",
           "0",
           "0",
           "3"
@@ -71,77 +67,77 @@
       {
         "name": "Career",
         "values": [
-          "55",
-          "45",
-          "0",
+          "41",
+          "17",
+          "1.5",
           "0",
           "1",
-          "13"
+          "4"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-16T01:20:00.000+00:00",
-      "opponent": "PIT",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "38-18",
-      "stats": {
-        "TOT": "2",
-        "SOLO": "2",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-11-08T14:30:00.000+00:00",
-      "opponent": "ATL",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "34-17",
-      "stats": {
-        "TOT": "5",
-        "SOLO": "3",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-11-01T18:00:00.000+00:00",
-      "opponent": "TEN",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "43-36 OT",
-      "stats": {
-        "TOT": "1",
-        "SOLO": "1",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-25T17:00:00.000+00:00",
-      "opponent": "BAL",
+      "date": "2026-01-18T01:00:00.000+00:00",
+      "opponent": "SEA",
       "at_vs": "@",
-      "result": "W",
-      "score": "35-13",
+      "result": "L",
+      "score": "41-6",
       "stats": {
-        "TOT": "1",
+        "TOT": "0",
         "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-11T17:00:00.000+00:00",
-      "opponent": "MIA",
+      "date": "2026-01-11T21:30:00.000+00:00",
+      "opponent": "PHI",
       "at_vs": "@",
       "result": "W",
-      "score": "31-24",
+      "score": "23-19",
       "stats": {
         "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-01-04T01:00:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "13-3",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2025-12-29T01:20:00.000+00:00",
+      "opponent": "CHI",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "42-38",
+      "stats": {
+        "TOT": "3",
+        "SOLO": "2",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2025-12-23T01:15:00.000+00:00",
+      "opponent": "IND",
+      "at_vs": "@",
+      "result": "W",
+      "score": "48-27",
+      "stats": {
+        "TOT": "3",
         "SOLO": "0",
         "SACK": "0",
         "INT": "0"
@@ -149,19 +145,19 @@
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Josh+Newton+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Kalia+Davis+NFL+highlights",
     "videos": [
       {
-        "id": "n_F-CNNCnrc",
-        "title": "Josh Newton leaps for high-point INT from Kyle Trask"
+        "id": "yJdmEppBJ6o",
+        "title": "Kalia Davis Highlights - Cleveland Browns | 2026 NFL Free Agency"
       },
       {
-        "id": "654OXf7a3XU",
-        "title": "Josh Newton 🔥 Top Cover Corner in College Football ᴴᴰ"
+        "id": "TXD14ymYk60",
+        "title": "The San Francisco 49ers Just Found Their Next DT: KALIA DAVIS"
       },
       {
-        "id": "ORwfm82z-Vc",
-        "title": "Josh Newton | Cornerback | TCU | 2023 Highlights | 2024 NFL Draft"
+        "id": "o4orLfSPs6M",
+        "title": "The Cleveland Browns made a SNEAKY GOOD MOVE by signing DT Kalia Davis away from the 49ers"
       }
     ]
   },

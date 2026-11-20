@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-21",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4040982",
+    "name": "Quinnen Williams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040982.png",
+    "jersey": "#92",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4040982/quinnen-williams"
+  },
+  "team": {
+    "name": "Dallas Cowboys",
+    "abbreviation": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "color": "002a5c"
+  },
+  "facts": {
+    "Age": 28,
+    "Height": "6' 3\"",
+    "Weight": "303 lbs",
+    "From": "Birmingham, AL",
+    "College": "Alabama",
+    "Draft": "2019: Rd 1, Pk 3 (NYJ)",
+    "Experience": "8th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Quinnen Williams (born December 20, 1997) is an American professional football defensive tackle for the Dallas Cowboys of the National Football League (NFL). He played college football for the Alabama Crimson Tide and was selected by the New York Jets with the third overall pick in the 2019 NFL draft. He is the younger brother of linebacker Quincy Williams."
+      },
+      {
+        "heading": "Early life",
+        "text": "Williams attended Wenonah High School in Birmingham, Alabama. His mother died of breast cancer in 2010. He was rated as a four-star prospect and the 17th best defensive tackle in the country for the class of 2016 by the 247Sports Composite. Williams originally committed to Auburn University to play college football but changed to the University of Alabama on June 30, 2015."
+      },
+      {
+        "heading": "College career",
+        "text": "After redshirting his first year at Alabama in 2016, Williams played in all 14 games as a redshirt freshman in 2017, recording 20 tackles and two sacks. He had two tackles in the 2018 College Football Playoff National Championship victory over Georgia. Williams was named the starting nose guard prior to Alabama's 2018 season opener against Louisville. He accounted for six total tackles and 3.5 tackles for loss in the game and was named SEC Co-Defensive Line player of the week. In a shutout win against LSU on November 3, Williams had 10 total tackles, 3.5 for loss, and 2.5 sacks, and was named Walter Camp National Defensive Player of the Week and SEC Defensive Player of the Week."
+      },
+      {
+        "heading": "Lately",
+        "text": "Williams was named to his fourth consecutive Pro Bowl on December 23, 2025. On August 10, 2026, the Cowboys and Williams agreed to terms on a three-year, $105.9 million extension, making him one of the highest paid DL's in the league and the total contract spans five years and is worth $153.15 million with $101 million guaranteed."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Quinnen_Williams",
+    "title": "Quinnen Williams"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "46",
+          "26",
+          "6",
+          "3",
+          "0",
+          "1"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "389",
+          "234",
+          "47.5",
+          "11",
+          "2",
+          "16"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-15T21:25:00.000+00:00",
+      "opponent": "SF",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "46-40",
+      "stats": {
+        "TOT": "10",
+        "SOLO": "6",
+        "SACK": "1",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-08T18:00:00.000+00:00",
+      "opponent": "IND",
+      "at_vs": "@",
+      "result": "W",
+      "score": "27-23",
+      "stats": {
+        "TOT": "7",
+        "SOLO": "3",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-01T18:00:00.000+00:00",
+      "opponent": "ARI",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "33-30 OT",
+      "stats": {
+        "TOT": "7",
+        "SOLO": "4",
+        "SACK": "2",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-27T00:15:00.000+00:00",
+      "opponent": "PHI",
+      "at_vs": "@",
+      "result": "W",
+      "score": "38-21",
+      "stats": {
+        "TOT": "4",
+        "SOLO": "4",
+        "SACK": "1",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-19T00:20:00.000+00:00",
+      "opponent": "GB",
+      "at_vs": "@",
+      "result": "L",
+      "score": "23-13",
+      "stats": {
+        "TOT": "3",
+        "SOLO": "2",
+        "SACK": "1",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Quinnen+Williams+NFL+highlights",
+    "videos": []
+  },
+  "news": [
+    {
+      "headline": "Cowboys rave about Quinnen Williams a year after trade deadline deal",
+      "url": "https://www.espn.com/nfl/story/_/id/50445806/cowboys-quinnen-williams-trade-deadline"
+    },
+    {
+      "headline": "Regrading 2025 NFL deadline trades: How Gardner, Williams deals look right now",
+      "url": "https://www.espn.com/nfl/story/_/id/50359560/regrading-deals-2025-nfl-trade-deadline-williams-gardner"
+    },
+    {
+      "headline": "How the Jets trading stars Quinnen Williams and Sauce Gardner looks a year later",
+      "url": "https://www.espn.com/nfl/story/_/id/50360565/trade-deadline-quinnen-sauce-jets-cowboys-colts"
+    }
+  ]
+}
