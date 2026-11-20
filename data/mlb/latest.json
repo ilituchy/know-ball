@@ -1,43 +1,47 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "5337128",
-    "name": "Erik Tolman",
-    "headshot": null,
-    "jersey": "#73",
+    "id": "4415756",
+    "name": "Chayce McDermott",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4415756.png",
+    "jersey": "#43",
     "position": "Relief Pitcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/5337128"
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4415756"
   },
   "team": {
-    "name": "Washington Nationals",
-    "abbreviation": "WSH",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
-    "color": "ab0003"
+    "name": "New York Mets",
+    "abbreviation": "NYM",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+    "color": "002d72"
   },
   "facts": {
-    "Age": 27,
-    "Height": "6' 2\"",
-    "Weight": "193 lbs",
-    "From": "Irvine, CA",
-    "College": null,
-    "Draft": null,
-    "Experience": "1st Season"
+    "Age": 28,
+    "Height": "6' 3\"",
+    "Weight": "190 lbs",
+    "From": "Anderson, IN",
+    "College": "Ball State",
+    "Draft": "2021: Rd 4, Pk 132 (HOU)",
+    "Experience": "3rd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Erik Tolman (born June 3, 1999) is an American professional baseball pitcher for the Washington Nationals of Major League Baseball (MLB). He debuted in MLB in 2026."
+        "text": "Chayce Michael McDermott (born August 22, 1998) is an American professional baseball pitcher for the New York Mets of Major League Baseball (MLB). He has previously played in MLB for the Baltimore Orioles and Los Angeles Dodgers."
       },
       {
         "heading": "Lately",
-        "text": "Tolman underwent his second Tommy John surgery procedure on his left elbow in 2022, after previously having his ulnar collateral ligament of the elbow replaced while at Arizona State. After rehabbing from surgery, while pitching for the Fredericksburg Nationals in 2023, he caught a cleat in the turf while hopping over the foul line on his way from the mound, tearing his calf and hamstring muscles, his meniscus, and every ligament in his knee. Tolman lost substantial feeling and lateral movement in his foot, requiring intensive physical therapy that included relearning how to walk and run. He ultimately returned to baseball while wearing a custom ankle brace for stability."
+        "text": "On April 16, 2026, McDermott was traded to the Los Angeles Dodgers in exchange for rookie league pitcher Axel Pérez. He pitched 2+2⁄3 innings over two games for the Dodgers, allowing two runs on three hits; McDermott also recorded a 4.10 ERA in 26+1⁄3 innings across 27 games for the Triple–A Oklahoma City Comets. McDermott was designated for assignment by Los Angeles on July 31. On August 3, 2026, McDermott was traded to the New York Mets in exchange for Ben Rortvedt."
+      },
+      {
+        "heading": "Personal life",
+        "text": "McDermott's older brother, Sean, played in the National Basketball Association (NBA) for the Memphis Grizzlies.  His uncle is long-time college coach, Linc Darner.  His other uncle, Tige Darner, scored over 1,200 points for the Appalachian St Mountaineers."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Erik_Tolman",
-    "title": "Erik Tolman"
+    "url": "https://en.wikipedia.org/wiki/Chayce_McDermott",
+    "title": "Chayce McDermott"
   },
   "stats": {
     "labels": [
@@ -52,97 +56,115 @@
       {
         "name": "2026",
         "values": [
-          "15",
+          "5",
           "0",
-          "15.1",
-          "2.93",
-          "9",
-          "17"
+          "7.2",
+          "5.87",
+          "4",
+          "6"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "15",
-          "0",
-          "15.1",
-          "2.93",
-          "9",
-          "17"
+          "10",
+          "2",
+          "20.1",
+          "10.18",
+          "18",
+          "18"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-27T17:05:00.000+00:00",
-      "opponent": "NYM",
+      "date": "2026-08-26T23:10:00.000+00:00",
+      "opponent": "MIL",
       "at_vs": "vs",
-      "result": "W",
-      "score": "6-4",
+      "result": "L",
+      "score": "8-1",
+      "stats": {
+        "IP": "2.0",
+        "H": "3",
+        "ER": "1",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-08-11T23:15:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "@",
+      "result": "L",
+      "score": "4-0",
       "stats": {
         "IP": "1.1",
-        "H": "1",
+        "H": "2",
+        "ER": "2",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-05T22:40:00.000+00:00",
+      "opponent": "CLE",
+      "at_vs": "@",
+      "result": "W",
+      "score": "6-5 F/10",
+      "stats": {
+        "IP": "2.0",
+        "H": "0",
         "ER": "0",
         "K": "2"
       }
     },
     {
-      "date": "2026-09-23T17:10:00.000+00:00",
-      "opponent": "DET",
-      "at_vs": "@",
-      "result": "W",
-      "score": "4-2",
+      "date": "2026-06-21T20:10:00.000+00:00",
+      "opponent": "BAL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "12-1",
       "stats": {
-        "IP": "0.2",
-        "H": "0",
-        "ER": "0",
+        "IP": "1.1",
+        "H": "2",
+        "ER": "2",
         "K": "0"
       }
     },
     {
-      "date": "2026-09-22T22:40:00.000+00:00",
-      "opponent": "DET",
+      "date": "2026-05-17T20:07:00.000+00:00",
+      "opponent": "LAA",
       "at_vs": "@",
       "result": "W",
-      "score": "3-1",
+      "score": "10-1",
       "stats": {
         "IP": "1.0",
-        "H": "0",
-        "ER": "0",
-        "K": "3"
-      }
-    },
-    {
-      "date": "2026-09-20T18:15:00.000+00:00",
-      "opponent": "STL",
-      "at_vs": "@",
-      "result": "L",
-      "score": "5-3",
-      "stats": {
-        "IP": "0.2",
         "H": "1",
-        "ER": "1",
-        "K": "0"
-      }
-    },
-    {
-      "date": "2026-09-19T23:15:00.000+00:00",
-      "opponent": "STL",
-      "at_vs": "@",
-      "result": "W",
-      "score": "8-5 F/11",
-      "stats": {
-        "IP": "0.1",
-        "H": "3",
-        "ER": "1",
+        "ER": "0",
         "K": "1"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Erik+Tolman+MLB+highlights",
-    "videos": []
+    "search_url": "https://www.youtube.com/results?search_query=Chayce+McDermott+MLB+highlights",
+    "videos": [
+      {
+        "id": "TSQOHxjbxL0",
+        "title": "Chayce McDermott 2024 Minor League Highlights!"
+      },
+      {
+        "id": "BdPtlZbyzHw",
+        "title": "Chayce McDermott 2023 Highlights!"
+      },
+      {
+        "id": "9so-q3VFipo",
+        "title": "Chayce McDermott Gets 11 Strikeouts, Tides Throw a No-Hitter"
+      }
+    ]
   },
-  "news": []
+  "news": [
+    {
+      "headline": "Dodgers acquire RHP McDermott from Orioles for RHP Perez",
+      "url": "https://www.espn.com/mlb/story/_/id/48506129/dodgers-acquire-rhp-mcdermott-orioles-rhp-perez"
+    }
+  ]
 }
