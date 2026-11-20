@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-21",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4683678",
+    "name": "Scoot Henderson",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683678.png",
+    "jersey": "#00",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4683678/scoot-henderson"
+  },
+  "team": {
+    "name": "Portland Trail Blazers",
+    "abbreviation": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "color": "e03a3e"
+  },
+  "facts": {
+    "Age": 22,
+    "Height": "6' 3\"",
+    "Weight": "207 lbs",
+    "From": "Marietta, GA",
+    "College": null,
+    "Draft": "2023: Rd 1, Pk 3 (POR)",
+    "Experience": "4th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Sterling \"Scoot\" Henderson (born February 3, 2004) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA). He played for Carlton J. Kell High School in his hometown of Marietta, Georgia, where he was a five-star recruit. At age 17, Henderson signed with the NBA G League Ignite after graduating early from high school and became the youngest player in G League history. In his second season, he was selected as a captain of the G League Next Up Game. Henderson was drafted with the 3rd pick in the 2023 NBA draft by the Trail Blazers."
+      },
+      {
+        "heading": "Early life",
+        "text": "Henderson was born in Marietta, Georgia, to Chris and Crystal Henderson. His father is a coach and trainer, and his mother is a healthcare administrator. His parents run the training facility Next Play 360° in Marietta, where they moved from Hempstead, New York, shortly before Henderson's birth. He is the second youngest of seven siblings, including three sisters who played NCAA Division I basketball, and was nicknamed \"Scoot\" or \"Scoota\" because of how he would scoot across the floor as a baby."
+      },
+      {
+        "heading": "High school career",
+        "text": "Henderson played basketball for Carlton J. Kell High School in Marietta. During his freshman season, he came off the bench and played alongside his brother, C. J., a senior on the team. In February 2020, during his sophomore season, Henderson scored a then career-high 49 points and made the game-winning shot in a 92–91 overtime win over Miller Grove High School in the first round of the Class 5A state tournament. He led Kell to the semifinals and averaged 24 points, six rebounds, three assists and three steals per game as a sophomore. Henderson was named Class 5A Player of the Year and first-team 5A All-State by The Atlanta Journal-Constitution."
+      },
+      {
+        "heading": "Lately",
+        "text": "On September 26, 2025, Henderson was ruled out for at least one-to-two months after suffering a left hamstring tear during a workout. On February 6, 2026, Henderson made his season debut, scoring 11 points, five rebounds and nine assists in a 135–115 victory over the Memphis Grizzlies. On April 22, 2026, Henderson scored a game-high 31 points in a game-two win against the San Antonio Spurs in the first round of the 2026 NBA playoffs, becoming the youngest Trail Blazer to score at least 30 points in a playoff game."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Scoot_Henderson",
+    "title": "Scoot Henderson"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "15",
+          "23.0",
+          "9.9",
+          "2.1",
+          "1.5",
+          "34.8",
+          "25.8"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "173",
+          "26.7",
+          "13.2",
+          "2.9",
+          "4.7",
+          "40.0",
+          "33.5"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-20T01:00:00.000+00:00",
+      "opponent": "MIL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "124-114",
+      "stats": {
+        "MIN": "35",
+        "PTS": "27",
+        "REB": "7",
+        "AST": "3"
+      }
+    },
+    {
+      "date": "2026-11-18T01:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "106-105",
+      "stats": {
+        "MIN": "21",
+        "PTS": "9",
+        "REB": "1",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-17T01:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "106-98",
+      "stats": {
+        "MIN": "23",
+        "PTS": "10",
+        "REB": "1",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-14T03:00:00.000+00:00",
+      "opponent": "SAC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "120-107",
+      "stats": {
+        "MIN": "23",
+        "PTS": "11",
+        "REB": "0",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-12T03:00:00.000+00:00",
+      "opponent": "OKC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "118-108",
+      "stats": {
+        "MIN": "19",
+        "PTS": "5",
+        "REB": "2",
+        "AST": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Scoot+Henderson+NBA+highlights",
+    "videos": [
+      {
+        "id": "OvjRnJ0PTPs",
+        "title": "Scoot Henderson Highlights (27 Points, 7 Rebounds) | Blazers 124, Bucks 114 | Nov. 19, 2026"
+      },
+      {
+        "id": "sIdUEgf9ECk",
+        "title": "Scoot Henderson 27 pts 5 threes 7 rebs vs Bucks 26/27 season"
+      },
+      {
+        "id": "WScNOo3G-Xg",
+        "title": "Scoot Henderson GOES OFF PLAYOFF CAREER-HIGH 31 PTS (5 3PM) In Game 2 🔥 | April 21, 2026"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Lillard, Henderson combine for 60 points in Blazers' win over Bucks",
+      "url": "https://www.espn.com/video/clip/_/id/50538477/lillard-henderson-combine-60-points-blazers-win-bucks"
+    },
+    {
+      "headline": "Scoot Henderson drains triple vs. Milwaukee Bucks",
+      "url": "https://www.espn.com/video/clip/_/id/50536010/scoot-henderson-drains-triple-vs-milwaukee-bucks"
+    },
+    {
+      "headline": "Scoot Henderson throws down the hammer",
+      "url": "https://www.espn.com/video/clip/_/id/50338730/scoot-henderson-throws-hammer"
+    }
+  ]
+}

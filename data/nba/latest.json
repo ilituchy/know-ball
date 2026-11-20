@@ -1,55 +1,51 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "4711297",
-    "name": "Justin Edwards",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4711297.png",
-    "jersey": "#11",
-    "position": "Forward",
-    "espn_url": "https://www.espn.com/nba/player/_/id/4711297/justin-edwards"
+    "id": "4278585",
+    "name": "Collin Gillespie",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278585.png",
+    "jersey": "#12",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4278585/collin-gillespie"
   },
   "team": {
-    "name": "Philadelphia 76ers",
-    "abbreviation": "PHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-    "color": "1d428a"
+    "name": "Phoenix Suns",
+    "abbreviation": "PHX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "color": "29127a"
   },
   "facts": {
-    "Age": 22,
-    "Height": "6' 7\"",
-    "Weight": "222 lbs",
-    "From": "Philadelphia, PA",
-    "College": "Kentucky",
+    "Age": 27,
+    "Height": "6' 1\"",
+    "Weight": "195 lbs",
+    "From": "Huntingdon Valley, PA",
+    "College": "Villanova",
     "Draft": "Undrafted",
-    "Experience": "3rd Season"
+    "Experience": "4th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Justin Tejon Edwards (born December 16, 2003) is an American professional basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats. He was a consensus five-star recruit and one of the top players in the 2023 class."
+        "text": "Collin Andrew Gillespie (born June 25, 1999) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played college basketball for the Villanova Wildcats. Gillespie was named Big East co-Player of the Year in 2021 and won it outright the following year."
       },
       {
-        "heading": "Early life and high school career",
-        "text": "Edwards grew up in Philadelphia, Pennsylvania, and attended Imhotep Institute Charter High School. He helped Imhotep win the Philadelphia City championship as a sophomore. As a junior, Edwards averaged 18.3 points and 8.3 rebounds per game and led the Panthers to the PIAA Class 5A state championship. He played in the Nike Elite Youth Basketball League following the season. Edwards was selected to play in the 2023 McDonald's All-American Boys Game. He was also selected to play for Team USA in the Nike Hoops Summit. As a senior, Edwards averaged 17.9 points and 7.5 rebounds as the Panthers repeated as state champions. He was named Mr. Pennsylvania Basketball."
+        "heading": "Early life",
+        "text": "Gillespie grew up just outside Philadelphia and is the son of a police officer. He attended Archbishop Wood Catholic High School, where he was coached by John Mosco. Gillespie had no Division I scholarship offers coming into his senior year, but received offers from Rider, Hofstra and Villanova after strong play in a tournament. He scored 42 points in a regular-season win over Neumann Goretti featuring Kentucky recruit Quade Green. As a senior, he led the team to a PIAA Class 5A state title in 2017. Gillespie averaged 24.1 points per game as a senior and was named Philadelphia Player of the Year by the Philadelphia Daily News as well as Catholic League Most Valuable Player."
       },
       {
         "heading": "College career",
-        "text": "Edwards enrolled at the University of Kentucky in June 2023. During the summer before his freshman year he played for the Wildcats in the GLOBL JAM tournament in Canada and averaged 14.5 points, 6.5 rebounds, 2.3 assists and 1.8 steals over four games as the team went undefeated and won the tournament. Edwards averaged 8.8 points and 3.4 rebounds in 32 games played during his freshman season. After the season, he declared for the 2024 NBA draft."
+        "text": "Gillespie enrolled at Villanova in the fall of 2017, and he wanted to redshirt his freshman year at the school, but coach Jay Wright decided against doing it because Gillespie \"was playing above his years.\" Soon breaking into the rotation, Gillespie scored in double figures in his second collegiate game, but he also had to learn to adjust to the quickness of the college game. Gillespie had to miss more than a month in December and January due to a fractured bone in his left hand sustained in a December 10 practice. However, he returned to action in a January 17 road win over Georgetown."
       },
       {
         "heading": "Lately",
-        "text": "After going undrafted in the 2024 NBA draft, Edwards signed a two-way contract with his hometown team, the Philadelphia 76ers, on July 4, 2024. On January 14, 2025, Edwards scored a career-high 25 points on 9-of-16 shooting in a 118–102 loss to the Oklahoma City Thunder. On February 9, the 76ers signed him to a standard NBA contract. On March 21, Edwards tied a career-high 25 points in a 128–120 loss to the San Antonio Spurs. He made 44 appearances (26 starts) for Philadelphia during the 2024–25 NBA season, averaging 10.1 points, 3.4 rebounds, and 1.6 assists. On June 27, 2025, Edwards re-signed with the 76ers on a three-year, $7.1 million contract."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Edwards's mother, Ebony Twiggs, played college basketball at Cheyney University of Pennsylvania and overseas in Portugal."
+        "text": "During the 2025–26 season, Gillespie averaged career-highs in nearly every major statistical category, including points per game (12.7), minutes per game (28.5), assists per game (4.6), and games started (58). He helped the Suns clinch a 45–37 record and the eighth seed in the playoffs after a play-in tournament win over the Golden State Warriors, a successful turnaround for the team after a 2024–25 season that saw them miss the playoffs. The Suns faced the reigning champion and top-seeded Oklahoma City Thunder during their first-round series. On April 19, Gillespie made his playoff debut, recording eight points and two assists in a 119–84 Game 1 loss."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Justin_Edwards_(basketball,_born_2003)",
-    "title": "Justin Edwards (basketball, born 2003)"
+    "url": "https://en.wikipedia.org/wiki/Collin_Gillespie",
+    "title": "Collin Gillespie"
   },
   "stats": {
     "labels": [
@@ -65,117 +61,112 @@
       {
         "name": "2026-27",
         "values": [
-          "6",
-          "2.5",
-          "0.8",
-          "0.7",
-          "0.0",
-          "50.0",
-          "50.0"
+          "14",
+          "24.3",
+          "9.3",
+          "2.4",
+          "3.8",
+          "38.8",
+          "35.6"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "114",
-          "18.8",
-          "7.3",
-          "2.2",
-          "1.3",
-          "45.2",
-          "36.8"
+          "151",
+          "21.9",
+          "9.4",
+          "3.0",
+          "3.5",
+          "41.9",
+          "40.0"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-13T00:00:00.000+00:00",
-      "opponent": "TOR",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "123-112",
-      "stats": {
-        "MIN": "1",
-        "PTS": "0",
-        "REB": "1",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-11-11T01:00:00.000+00:00",
-      "opponent": "BOS",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "123-101",
-      "stats": {
-        "MIN": "6",
-        "PTS": "0",
-        "REB": "0",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-11-07T00:30:00.000+00:00",
-      "opponent": "CLE",
+      "date": "2026-11-19T03:00:00.000+00:00",
+      "opponent": "SAC",
       "at_vs": "@",
-      "result": "L",
-      "score": "119-95",
-      "stats": {
-        "MIN": "4",
-        "PTS": "3",
-        "REB": "1",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-11-03T00:30:00.000+00:00",
-      "opponent": "CHI",
-      "at_vs": "vs",
       "result": "W",
-      "score": "126-107",
+      "score": "128-107",
       "stats": {
-        "MIN": "2",
-        "PTS": "2",
-        "REB": "1",
-        "AST": "0"
+        "MIN": "17",
+        "PTS": "9",
+        "REB": "3",
+        "AST": "1"
       }
     },
     {
-      "date": "2026-10-31T22:00:00.000+00:00",
+      "date": "2026-11-17T02:00:00.000+00:00",
+      "opponent": "DEN",
+      "at_vs": "@",
+      "result": "W",
+      "score": "117-105",
+      "stats": {
+        "MIN": "26",
+        "PTS": "10",
+        "REB": "3",
+        "AST": "3"
+      }
+    },
+    {
+      "date": "2026-11-15T21:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "131-123",
+      "stats": {
+        "MIN": "28",
+        "PTS": "26",
+        "REB": "4",
+        "AST": "4"
+      }
+    },
+    {
+      "date": "2026-11-13T02:00:00.000+00:00",
       "opponent": "CHA",
-      "at_vs": "@",
+      "at_vs": "vs",
       "result": "W",
-      "score": "109-104",
+      "score": "101-96",
       "stats": {
-        "MIN": "2",
-        "PTS": "0",
-        "REB": "1",
-        "AST": "0"
+        "MIN": "27",
+        "PTS": "13",
+        "REB": "2",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-11T02:00:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "133-110",
+      "stats": {
+        "MIN": "22",
+        "PTS": "12",
+        "REB": "2",
+        "AST": "8"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Justin+Edwards+NBA+highlights",
-    "videos": [
-      {
-        "id": "rmctlHBWMnk",
-        "title": "Justin Edwards 2024-25 Rookie Season Highlights"
-      },
-      {
-        "id": "evQbFHLzxaI",
-        "title": "JUSTIN EDWARDS Highlights | 2025-26 Sixers Season"
-      },
-      {
-        "id": "Wys2_ewh_Po",
-        "title": "Justin Edwards || 2025-2026 Philadelphia 76ers Highlights"
-      }
-    ]
+    "search_url": "https://www.youtube.com/results?search_query=Collin+Gillespie+NBA+highlights",
+    "videos": []
   },
   "news": [
     {
-      "headline": "Sources: 76ers intend to sign Justin Edwards to 3-year deal",
-      "url": "https://www.espn.com/nba/story/_/id/45598917/76ers-intend-sign-justin-edwards-new-3-year-contract"
+      "headline": "Collin Gillespie with the and-1 bucket",
+      "url": "https://www.espn.com/video/clip/_/id/50495635/collin-gillespie-1-bucket"
+    },
+    {
+      "headline": "Collin Gillespie drains triple vs. Los Angeles Lakers",
+      "url": "https://www.espn.com/video/clip/_/id/50494033/collin-gillespie-drains-triple-vs-los-angeles-lakers"
+    },
+    {
+      "headline": "Collin Gillespie knocks down the triple",
+      "url": "https://www.espn.com/video/clip/_/id/50128874/collin-gillespie-knocks-triple"
     }
   ]
 }
