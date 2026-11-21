@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-22",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4567462",
+    "name": "Ja'Quan McMillian",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567462.png",
+    "jersey": "#29",
+    "position": "Cornerback",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4567462/jaquan-mcmillian"
+  },
+  "team": {
+    "name": "Denver Broncos",
+    "abbreviation": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "color": "0a2343"
+  },
+  "facts": {
+    "Age": 26,
+    "Height": "5' 10\"",
+    "Weight": "183 lbs",
+    "From": "Winston-Salem, NC",
+    "College": "East Carolina",
+    "Draft": "Undrafted",
+    "Experience": "4th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Ja'Quan McMillian ( mak-MIH-lən; born June 4, 2000) is an American professional football cornerback for the Denver Broncos of the National Football League (NFL). He played college football for the East Carolina Pirates and was signed by the Broncos as an undrafted free agent in 2022."
+      },
+      {
+        "heading": "College career",
+        "text": "McMillian was a semi-finalist for the Jim Thorpe Award and earned second-team All-American honors for his 2021 season. He also earned second-team all-American Athletic Conference honors for his 2020 and 2021 seasons."
+      },
+      {
+        "heading": "Lately",
+        "text": "During the Broncos Divisional Round matchup against the Buffalo Bills, McMillian intercepted Josh Allen in overtime, ripping the ball away from Brandin Cooks to give the Broncos the ball. They would end up kicking a game-winning field goal on the subsequent drive, advancing to the AFC Championship. On February 27, 2026, the Broncos placed a second-round restricted free agent tender on McMillian worth $5.8 million."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Ja%27Quan_McMillian",
+    "title": "Ja'Quan McMillian"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "31",
+          "21",
+          "3",
+          "0",
+          "1",
+          "7"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "226",
+          "165",
+          "10",
+          "5",
+          "7",
+          "31"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-08T18:00:00.000+00:00",
+      "opponent": "CAR",
+      "at_vs": "@",
+      "result": "W",
+      "score": "26-21",
+      "stats": {
+        "TOT": "6",
+        "SOLO": "4",
+        "SACK": "1",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-01T21:25:00.000+00:00",
+      "opponent": "KC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "28-24",
+      "stats": {
+        "TOT": "4",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-25T20:05:00.000+00:00",
+      "opponent": "ARI",
+      "at_vs": "@",
+      "result": "W",
+      "score": "30-16",
+      "stats": {
+        "TOT": "5",
+        "SOLO": "4",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-16T00:15:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "17-14 OT",
+      "stats": {
+        "TOT": "5",
+        "SOLO": "5",
+        "SACK": "1",
+        "INT": "1"
+      }
+    },
+    {
+      "date": "2026-10-11T20:05:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "23-17",
+      "stats": {
+        "TOT": "5",
+        "SOLO": "3",
+        "SACK": "1",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Ja%27Quan+McMillian+NFL+highlights",
+    "videos": [
+      {
+        "id": "zBHuI8rS5rw",
+        "title": "Ja’Quan McMillian || 2025-26 Highlights || Denver Broncos CB"
+      },
+      {
+        "id": "r8OeRgDbgoY",
+        "title": "Jaquan McMillian || 2024-25 Highlights || Denver Broncos CB"
+      },
+      {
+        "id": "nM1s_4YnBC4",
+        "title": "Ja’Quan McMillian || 2023 Highlights || Denver Broncos DB"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Ja'Quan McMillian's big plays key to Broncos' playoff push",
+      "url": "https://www.espn.com/nfl/story/_/id/47044564/jaquan-mcmillian-denver-broncos-big-plays-nickel-cornerback-pat-surtain-ii-absence"
+    },
+    {
+      "headline": "Broncos might have a budding star in CB Ja'Quan McMillian",
+      "url": "https://www.espn.com/nfl/story/_/id/39015791/denver-broncos-young-cornerback-star-jaquan-mcmillian"
+    }
+  ]
+}
