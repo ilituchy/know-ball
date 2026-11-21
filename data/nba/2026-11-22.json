@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-22",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4395650",
+    "name": "Leaky Black",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395650.png",
+    "jersey": "#19",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4395650/leaky-black"
+  },
+  "team": {
+    "name": "Sacramento Kings",
+    "abbreviation": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "color": "5a2d81"
+  },
+  "facts": {
+    "Age": 27,
+    "Height": "6' 6\"",
+    "Weight": "209 lbs",
+    "From": "Concord, NC",
+    "College": "North Carolina",
+    "Draft": "Undrafted",
+    "Experience": "3rd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Rechon Malik \"Leaky\" Black (born June 14, 1999) is an American professional basketball player for the Sacramento Kings of the National Basketball Association (NBA), on a two-way contract with the Stockton Kings of the NBA G League. He played college basketball for the North Carolina Tar Heels."
+      },
+      {
+        "heading": "College career",
+        "text": "Black, raised in Concord, North Carolina, committed to coach Roy Williams and North Carolina as a high school sophomore. After a shortened freshman campaign due to an ankle injury, Black entered the starting lineup in his sophomore season for the Tar Heels. As a senior, Black became one of the top defensive players in the ACC, earning conference all-defensive team honors at the close of the regular season. Black was a part of a Tar Heel starting lineup that each averaged big minutes and led the eighth-seeded Tar Heels to an unexpected Final Four berth in the 2022 NCAA tournament."
+      },
+      {
+        "heading": "Lately",
+        "text": "On September 29, 2024, Black signed with the Washington Wizards, but was waived on October 12. On October 28, he joined the Capital City Go-Go. On October 2, 2025, the Wizards added Black to their training camp roster, prior to the 2025–26 season. Black was later released and then re-added to the Go-Go's roster. On February 21, 2026, the Wizards signed Black to a two-way contract. He made 15 appearances (nine starts) for Washington over the remainder of the year, averaging career-highs in points (7.1), rebounds (5.0), assists (1.5), and steals (1.2). Black was waived by the Wizards on July 1."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Black has been open about his struggles with anxiety and his coping strategies that have helped him control it. He earned his nickname, which comes from his middle name \"Malik\", from his grandmother."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Leaky_Black",
+    "title": "Leaky Black"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "11",
+          "19.1",
+          "4.5",
+          "3.0",
+          "1.5",
+          "40.5",
+          "42.9"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "52",
+          "17.8",
+          "4.3",
+          "3.0",
+          "1.2",
+          "41.6",
+          "39.1"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-21T03:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "@",
+      "result": "L",
+      "score": "106-104",
+      "stats": {
+        "MIN": "19",
+        "PTS": "0",
+        "REB": "3",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-19T03:00:00.000+00:00",
+      "opponent": "PHX",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "128-107",
+      "stats": {
+        "MIN": "17",
+        "PTS": "3",
+        "REB": "0",
+        "AST": "2"
+      }
+    },
+    {
+      "date": "2026-11-16T02:00:00.000+00:00",
+      "opponent": "OKC",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "125-103",
+      "stats": {
+        "MIN": "29",
+        "PTS": "12",
+        "REB": "9",
+        "AST": "2"
+      }
+    },
+    {
+      "date": "2026-11-14T03:00:00.000+00:00",
+      "opponent": "POR",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "120-107",
+      "stats": {
+        "MIN": "12",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-11T03:00:00.000+00:00",
+      "opponent": "ORL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "107-100",
+      "stats": {
+        "MIN": "18",
+        "PTS": "0",
+        "REB": "3",
+        "AST": "2"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Leaky+Black+NBA+highlights",
+    "videos": [
+      {
+        "id": "6iCHaWfktLE",
+        "title": "Leaky Black Highlights from the 2025-26 Season"
+      },
+      {
+        "id": "Cq0GosKY5qM",
+        "title": "Leaky Black - 10 Points, 1 Assist, 6 Rebounds vs Trail Blazers - 2026-27 Preseason"
+      },
+      {
+        "id": "JGoxbCE9Pn4",
+        "title": "Leaky Black Career High 16 Points vs Jazz Full Highlights! (3/5/2026)"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Leaky Black elevates for the big-time stuff",
+      "url": "https://www.espn.com/video/clip/_/id/50476968/leaky-black-elevates-big-stuff"
+    },
+    {
+      "headline": "Leaky Black gets up for the big stuff",
+      "url": "https://www.espn.com/video/clip?id=35824525"
+    },
+    {
+      "headline": "Vince Carter approves of Leaky Black 3-pointer",
+      "url": "https://www.espn.com/video/clip?id=35785423"
+    }
+  ]
+}

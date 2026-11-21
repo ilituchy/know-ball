@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "4278585",
-    "name": "Collin Gillespie",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278585.png",
-    "jersey": "#12",
+    "id": "4683678",
+    "name": "Scoot Henderson",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683678.png",
+    "jersey": "#00",
     "position": "Guard",
-    "espn_url": "https://www.espn.com/nba/player/_/id/4278585/collin-gillespie"
+    "espn_url": "https://www.espn.com/nba/player/_/id/4683678/scoot-henderson"
   },
   "team": {
-    "name": "Phoenix Suns",
-    "abbreviation": "PHX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-    "color": "29127a"
+    "name": "Portland Trail Blazers",
+    "abbreviation": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "color": "e03a3e"
   },
   "facts": {
-    "Age": 27,
-    "Height": "6' 1\"",
-    "Weight": "195 lbs",
-    "From": "Huntingdon Valley, PA",
-    "College": "Villanova",
-    "Draft": "Undrafted",
+    "Age": 22,
+    "Height": "6' 3\"",
+    "Weight": "207 lbs",
+    "From": "Marietta, GA",
+    "College": null,
+    "Draft": "2023: Rd 1, Pk 3 (POR)",
     "Experience": "4th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Collin Andrew Gillespie (born June 25, 1999) is an American professional basketball player for the Phoenix Suns of the National Basketball Association (NBA). He played college basketball for the Villanova Wildcats. Gillespie was named Big East co-Player of the Year in 2021 and won it outright the following year."
+        "text": "Sterling \"Scoot\" Henderson (born February 3, 2004) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA). He played for Carlton J. Kell High School in his hometown of Marietta, Georgia, where he was a five-star recruit. At age 17, Henderson signed with the NBA G League Ignite after graduating early from high school and became the youngest player in G League history. In his second season, he was selected as a captain of the G League Next Up Game. Henderson was drafted with the 3rd pick in the 2023 NBA draft by the Trail Blazers."
       },
       {
         "heading": "Early life",
-        "text": "Gillespie grew up just outside Philadelphia and is the son of a police officer. He attended Archbishop Wood Catholic High School, where he was coached by John Mosco. Gillespie had no Division I scholarship offers coming into his senior year, but received offers from Rider, Hofstra and Villanova after strong play in a tournament. He scored 42 points in a regular-season win over Neumann Goretti featuring Kentucky recruit Quade Green. As a senior, he led the team to a PIAA Class 5A state title in 2017. Gillespie averaged 24.1 points per game as a senior and was named Philadelphia Player of the Year by the Philadelphia Daily News as well as Catholic League Most Valuable Player."
+        "text": "Henderson was born in Marietta, Georgia, to Chris and Crystal Henderson. His father is a coach and trainer, and his mother is a healthcare administrator. His parents run the training facility Next Play 360° in Marietta, where they moved from Hempstead, New York, shortly before Henderson's birth. He is the second youngest of seven siblings, including three sisters who played NCAA Division I basketball, and was nicknamed \"Scoot\" or \"Scoota\" because of how he would scoot across the floor as a baby."
       },
       {
-        "heading": "College career",
-        "text": "Gillespie enrolled at Villanova in the fall of 2017, and he wanted to redshirt his freshman year at the school, but coach Jay Wright decided against doing it because Gillespie \"was playing above his years.\" Soon breaking into the rotation, Gillespie scored in double figures in his second collegiate game, but he also had to learn to adjust to the quickness of the college game. Gillespie had to miss more than a month in December and January due to a fractured bone in his left hand sustained in a December 10 practice. However, he returned to action in a January 17 road win over Georgetown."
+        "heading": "High school career",
+        "text": "Henderson played basketball for Carlton J. Kell High School in Marietta. During his freshman season, he came off the bench and played alongside his brother, C. J., a senior on the team. In February 2020, during his sophomore season, Henderson scored a then career-high 49 points and made the game-winning shot in a 92–91 overtime win over Miller Grove High School in the first round of the Class 5A state tournament. He led Kell to the semifinals and averaged 24 points, six rebounds, three assists and three steals per game as a sophomore. Henderson was named Class 5A Player of the Year and first-team 5A All-State by The Atlanta Journal-Constitution."
       },
       {
         "heading": "Lately",
-        "text": "During the 2025–26 season, Gillespie averaged career-highs in nearly every major statistical category, including points per game (12.7), minutes per game (28.5), assists per game (4.6), and games started (58). He helped the Suns clinch a 45–37 record and the eighth seed in the playoffs after a play-in tournament win over the Golden State Warriors, a successful turnaround for the team after a 2024–25 season that saw them miss the playoffs. The Suns faced the reigning champion and top-seeded Oklahoma City Thunder during their first-round series. On April 19, Gillespie made his playoff debut, recording eight points and two assists in a 119–84 Game 1 loss."
+        "text": "On September 26, 2025, Henderson was ruled out for at least one-to-two months after suffering a left hamstring tear during a workout. On February 6, 2026, Henderson made his season debut, scoring 11 points, five rebounds and nine assists in a 135–115 victory over the Memphis Grizzlies. On April 22, 2026, Henderson scored a game-high 31 points in a game-two win against the San Antonio Spurs in the first round of the 2026 NBA playoffs, becoming the youngest Trail Blazer to score at least 30 points in a playoff game."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Collin_Gillespie",
-    "title": "Collin Gillespie"
+    "url": "https://en.wikipedia.org/wiki/Scoot_Henderson",
+    "title": "Scoot Henderson"
   },
   "stats": {
     "labels": [
@@ -61,112 +61,125 @@
       {
         "name": "2026-27",
         "values": [
-          "14",
-          "24.3",
-          "9.3",
-          "2.4",
-          "3.8",
-          "38.8",
-          "35.6"
+          "15",
+          "23.0",
+          "9.9",
+          "2.1",
+          "1.5",
+          "34.8",
+          "25.8"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "151",
-          "21.9",
-          "9.4",
-          "3.0",
-          "3.5",
-          "41.9",
-          "40.0"
+          "173",
+          "26.7",
+          "13.2",
+          "2.9",
+          "4.7",
+          "40.0",
+          "33.5"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-19T03:00:00.000+00:00",
-      "opponent": "SAC",
+      "date": "2026-11-20T01:00:00.000+00:00",
+      "opponent": "MIL",
       "at_vs": "@",
       "result": "W",
-      "score": "128-107",
+      "score": "124-114",
       "stats": {
-        "MIN": "17",
-        "PTS": "9",
-        "REB": "3",
-        "AST": "1"
-      }
-    },
-    {
-      "date": "2026-11-17T02:00:00.000+00:00",
-      "opponent": "DEN",
-      "at_vs": "@",
-      "result": "W",
-      "score": "117-105",
-      "stats": {
-        "MIN": "26",
-        "PTS": "10",
-        "REB": "3",
+        "MIN": "35",
+        "PTS": "27",
+        "REB": "7",
         "AST": "3"
       }
     },
     {
-      "date": "2026-11-15T21:00:00.000+00:00",
-      "opponent": "LAL",
-      "at_vs": "vs",
+      "date": "2026-11-18T01:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
       "result": "L",
-      "score": "131-123",
+      "score": "106-105",
       "stats": {
-        "MIN": "28",
-        "PTS": "26",
-        "REB": "4",
-        "AST": "4"
-      }
-    },
-    {
-      "date": "2026-11-13T02:00:00.000+00:00",
-      "opponent": "CHA",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "101-96",
-      "stats": {
-        "MIN": "27",
-        "PTS": "13",
-        "REB": "2",
+        "MIN": "21",
+        "PTS": "9",
+        "REB": "1",
         "AST": "1"
       }
     },
     {
-      "date": "2026-11-11T02:00:00.000+00:00",
-      "opponent": "LAC",
+      "date": "2026-11-17T01:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "106-98",
+      "stats": {
+        "MIN": "23",
+        "PTS": "10",
+        "REB": "1",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-14T03:00:00.000+00:00",
+      "opponent": "SAC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "120-107",
+      "stats": {
+        "MIN": "23",
+        "PTS": "11",
+        "REB": "0",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-12T03:00:00.000+00:00",
+      "opponent": "OKC",
       "at_vs": "vs",
       "result": "W",
-      "score": "133-110",
+      "score": "118-108",
       "stats": {
-        "MIN": "22",
-        "PTS": "12",
+        "MIN": "19",
+        "PTS": "5",
         "REB": "2",
-        "AST": "8"
+        "AST": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Collin+Gillespie+NBA+highlights",
-    "videos": []
+    "search_url": "https://www.youtube.com/results?search_query=Scoot+Henderson+NBA+highlights",
+    "videos": [
+      {
+        "id": "OvjRnJ0PTPs",
+        "title": "Scoot Henderson Highlights (27 Points, 7 Rebounds) | Blazers 124, Bucks 114 | Nov. 19, 2026"
+      },
+      {
+        "id": "sIdUEgf9ECk",
+        "title": "Scoot Henderson 27 pts 5 threes 7 rebs vs Bucks 26/27 season"
+      },
+      {
+        "id": "WScNOo3G-Xg",
+        "title": "Scoot Henderson GOES OFF PLAYOFF CAREER-HIGH 31 PTS (5 3PM) In Game 2 🔥 | April 21, 2026"
+      }
+    ]
   },
   "news": [
     {
-      "headline": "Collin Gillespie with the and-1 bucket",
-      "url": "https://www.espn.com/video/clip/_/id/50495635/collin-gillespie-1-bucket"
+      "headline": "Lillard, Henderson combine for 60 points in Blazers' win over Bucks",
+      "url": "https://www.espn.com/video/clip/_/id/50538477/lillard-henderson-combine-60-points-blazers-win-bucks"
     },
     {
-      "headline": "Collin Gillespie drains triple vs. Los Angeles Lakers",
-      "url": "https://www.espn.com/video/clip/_/id/50494033/collin-gillespie-drains-triple-vs-los-angeles-lakers"
+      "headline": "Scoot Henderson drains triple vs. Milwaukee Bucks",
+      "url": "https://www.espn.com/video/clip/_/id/50536010/scoot-henderson-drains-triple-vs-milwaukee-bucks"
     },
     {
-      "headline": "Collin Gillespie knocks down the triple",
-      "url": "https://www.espn.com/video/clip/_/id/50128874/collin-gillespie-knocks-triple"
+      "headline": "Scoot Henderson throws down the hammer",
+      "url": "https://www.espn.com/video/clip/_/id/50338730/scoot-henderson-throws-hammer"
     }
   ]
 }
