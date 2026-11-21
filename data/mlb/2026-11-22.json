@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-22",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "5134366",
+    "name": "Antwone Kelly",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5134366.png",
+    "jersey": "#62",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5134366"
+  },
+  "team": {
+    "name": "Pittsburgh Pirates",
+    "abbreviation": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png",
+    "color": "000000"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "5' 10\"",
+    "Weight": "238 lbs",
+    "From": "Oranjestad, Aruba",
+    "College": null,
+    "Draft": null,
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Antwone Thyshon Kelly (born September 1, 2003) is an Aruban professional baseball pitcher for the Pittsburgh Pirates of Major League Baseball (MLB). He made his MLB debut in 2026. Kelly has also pitched for the Netherlands national team in international competitions."
+      },
+      {
+        "heading": "Lately",
+        "text": "Kelly opened the 2025 season with the High-A Greensboro Grasshoppers and was promoted to the Double-A Altoona Curve in June. Over 25 starts between the two teams, he went 3–3 with a 3.02 ERA and 116 strikeouts. On November 18, the Pirates added Kelly to their 40-man roster to protect him from the Rule 5 draft. Kelly began the 2026 season with the Triple-A Indianapolis Indians. He was named the team's player of the month for May. On June 12, the Pirates promoted him to the major leagues for the first time. Across 13 games (ten starts) with the Indians at the time of his promotion, he had a 3–4 record, a 4.50 ERA and 47 strikeouts over 54 innings."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Antwone_Kelly",
+    "title": "Antwone Kelly"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "8",
+          "0",
+          "18.2",
+          "4.82",
+          "8",
+          "14"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "8",
+          "0",
+          "18.2",
+          "4.82",
+          "8",
+          "14"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "DET",
+      "at_vs": "@",
+      "result": "W",
+      "score": "4-2",
+      "stats": {
+        "IP": "2.1",
+        "H": "2",
+        "ER": "2",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-23T22:40:00.000+00:00",
+      "opponent": "STL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "5-1",
+      "stats": {
+        "IP": "2.0",
+        "H": "1",
+        "ER": "0",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-09-15T22:40:00.000+00:00",
+      "opponent": "MIL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "5-1",
+      "stats": {
+        "IP": "3.0",
+        "H": "2",
+        "ER": "0",
+        "K": "3"
+      }
+    },
+    {
+      "date": "2026-09-11T18:20:00.000+00:00",
+      "opponent": "CHC",
+      "at_vs": "@",
+      "result": "L",
+      "score": "12-2",
+      "stats": {
+        "IP": "3.0",
+        "H": "6",
+        "ER": "3",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-08-22T23:15:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "@",
+      "result": "L",
+      "score": "4-3",
+      "stats": {
+        "IP": "1.0",
+        "H": "0",
+        "ER": "0",
+        "K": "1"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Antwone+Kelly+MLB+highlights",
+    "videos": [
+      {
+        "id": "M5t58fn5T_Q",
+        "title": "Antwone Kelly 2026 MLB Highlights!"
+      },
+      {
+        "id": "A-XytEie3ec",
+        "title": "Antwone Kelly 2026 Minor League Highlights! (Mid-Season)"
+      },
+      {
+        "id": "LQ6pP7ln_ew",
+        "title": "Antwone Kelly faces Shohei Ohtani"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Pirates shuttle pitchers between majors and Triple-A",
+      "url": "https://www.espn.com/mlb/story/_/id/49328575/pirates-shuttle-pitchers-majors-triple-a"
+    }
+  ]
+}
