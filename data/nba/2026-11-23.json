@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-23",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "5105337",
+    "name": "Maliq Brown",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105337.png",
+    "jersey": "#15",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/5105337/maliq-brown"
+  },
+  "team": {
+    "name": "San Antonio Spurs",
+    "abbreviation": "SA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "color": "000000"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 9\"",
+    "Weight": "235 lbs",
+    "From": "Culpeper, VA",
+    "College": "Duke",
+    "Draft": "2026: Rd 2, Pk 44 (SA)",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Maliq Xavier Brown (born November 15, 2003) is an American basketball player for the San Antonio Spurs of the National Basketball Association (NBA), on a two-way contract with the Austin Spurs of the NBA G League. He played college basketball for the Syracuse Orange and Duke Blue Devils."
+      },
+      {
+        "heading": "Early life",
+        "text": "Brown was born in Culpeper, Virginia into an athletic family, and began football at age five and basketball at around age seven. He attended Blue Ridge School, an independent all-boys high school in St. George, Virginia, where he was a four-time VISAA Division II basketball state champion. Brown was selected as VISAA Division II Player of the Year and first-team All-VISAA his senior year, averaging 15.4 points, 11.1 rebounds, 2.2 assists, 2.4 steals and 1.5 blocks. Brown was consistently rated a three-star prospect and top-15 player in the Virginia class of 2022."
+      },
+      {
+        "heading": "College career",
+        "text": "Brown enrolled at Syracuse on June 3, 2022 and participated in summer practices. He appeared in 29 games and made seven starts, averaging 20.2 minutes per game. Brown contributed a double-double in a home win over Virginia Tech, and scored a career-high 18 points and four steals in a loss at Georgia Tech. As a sophomore, Brown saw a significant uptick in production, starting 18 of 32 games played. He achieved the double-double mark four times, including in the ACC Tournament against NC State. On February 7, 2024, against Louisville, Brown scored 11 points on 4-for-4 shooting with nine rebounds, five assists, six blocks and five steals."
+      },
+      {
+        "heading": "Lately",
+        "text": "On June 24, 2026, the San Antonio Spurs selected Brown with the 44th overall pick in the 2026 NBA draft. He signed a two-way contract with Spurs on 3 July, 2026."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Maliq_Brown",
+    "title": "Maliq Brown"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "1",
+          "1.0",
+          "0.0",
+          "0.0",
+          "1.0",
+          "0.0",
+          "0.0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "1",
+          "1.0",
+          "0.0",
+          "0.0",
+          "1.0",
+          "0.0",
+          "0.0"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-10-21T01:50:00.000+00:00",
+      "opponent": "OKC",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "116-104",
+      "stats": {
+        "MIN": "1",
+        "PTS": "0",
+        "REB": "0",
+        "AST": "1"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Maliq+Brown+NBA+highlights",
+    "videos": [
+      {
+        "id": "aO-arp6oBvo",
+        "title": "Maliq Brown 2026 NCAA tournament highlights"
+      },
+      {
+        "id": "TcTjlCyt0mo",
+        "title": "Best of Maliq Brown - Duke Highlights!"
+      },
+      {
+        "id": "cWJRMLca3xo",
+        "title": "Maliq Brown 2024-25 Regular Season Highlights | Duke Forward"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Maliq Brown slams it home with authority",
+      "url": "https://www.espn.com/video/clip/_/id/50199280/maliq-brown-slams-home-authority"
+    },
+    {
+      "headline": "Maliq Brown with the massive swat at the rim",
+      "url": "https://www.espn.com/video/clip/_/id/49347567/maliq-brown-massive-swat-rim"
+    },
+    {
+      "headline": "Maliq Brown rocks the rim with slam dunk",
+      "url": "https://www.espn.com/video/clip/_/id/49337453/maliq-brown-rocks-rim-slam-dunk"
+    }
+  ]
+}

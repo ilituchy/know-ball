@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "4683678",
-    "name": "Scoot Henderson",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683678.png",
-    "jersey": "#00",
-    "position": "Guard",
-    "espn_url": "https://www.espn.com/nba/player/_/id/4683678/scoot-henderson"
+    "id": "4395650",
+    "name": "Leaky Black",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395650.png",
+    "jersey": "#19",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4395650/leaky-black"
   },
   "team": {
-    "name": "Portland Trail Blazers",
-    "abbreviation": "POR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-    "color": "e03a3e"
+    "name": "Sacramento Kings",
+    "abbreviation": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "color": "5a2d81"
   },
   "facts": {
-    "Age": 22,
-    "Height": "6' 3\"",
-    "Weight": "207 lbs",
-    "From": "Marietta, GA",
-    "College": null,
-    "Draft": "2023: Rd 1, Pk 3 (POR)",
-    "Experience": "4th Season"
+    "Age": 27,
+    "Height": "6' 6\"",
+    "Weight": "209 lbs",
+    "From": "Concord, NC",
+    "College": "North Carolina",
+    "Draft": "Undrafted",
+    "Experience": "3rd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Sterling \"Scoot\" Henderson (born February 3, 2004) is an American professional basketball player for the Portland Trail Blazers of the National Basketball Association (NBA). He played for Carlton J. Kell High School in his hometown of Marietta, Georgia, where he was a five-star recruit. At age 17, Henderson signed with the NBA G League Ignite after graduating early from high school and became the youngest player in G League history. In his second season, he was selected as a captain of the G League Next Up Game. Henderson was drafted with the 3rd pick in the 2023 NBA draft by the Trail Blazers."
+        "text": "Rechon Malik \"Leaky\" Black (born June 14, 1999) is an American professional basketball player for the Sacramento Kings of the National Basketball Association (NBA), on a two-way contract with the Stockton Kings of the NBA G League. He played college basketball for the North Carolina Tar Heels."
       },
       {
-        "heading": "Early life",
-        "text": "Henderson was born in Marietta, Georgia, to Chris and Crystal Henderson. His father is a coach and trainer, and his mother is a healthcare administrator. His parents run the training facility Next Play 360° in Marietta, where they moved from Hempstead, New York, shortly before Henderson's birth. He is the second youngest of seven siblings, including three sisters who played NCAA Division I basketball, and was nicknamed \"Scoot\" or \"Scoota\" because of how he would scoot across the floor as a baby."
-      },
-      {
-        "heading": "High school career",
-        "text": "Henderson played basketball for Carlton J. Kell High School in Marietta. During his freshman season, he came off the bench and played alongside his brother, C. J., a senior on the team. In February 2020, during his sophomore season, Henderson scored a then career-high 49 points and made the game-winning shot in a 92–91 overtime win over Miller Grove High School in the first round of the Class 5A state tournament. He led Kell to the semifinals and averaged 24 points, six rebounds, three assists and three steals per game as a sophomore. Henderson was named Class 5A Player of the Year and first-team 5A All-State by The Atlanta Journal-Constitution."
+        "heading": "College career",
+        "text": "Black, raised in Concord, North Carolina, committed to coach Roy Williams and North Carolina as a high school sophomore. After a shortened freshman campaign due to an ankle injury, Black entered the starting lineup in his sophomore season for the Tar Heels. As a senior, Black became one of the top defensive players in the ACC, earning conference all-defensive team honors at the close of the regular season. Black was a part of a Tar Heel starting lineup that each averaged big minutes and led the eighth-seeded Tar Heels to an unexpected Final Four berth in the 2022 NCAA tournament."
       },
       {
         "heading": "Lately",
-        "text": "On September 26, 2025, Henderson was ruled out for at least one-to-two months after suffering a left hamstring tear during a workout. On February 6, 2026, Henderson made his season debut, scoring 11 points, five rebounds and nine assists in a 135–115 victory over the Memphis Grizzlies. On April 22, 2026, Henderson scored a game-high 31 points in a game-two win against the San Antonio Spurs in the first round of the 2026 NBA playoffs, becoming the youngest Trail Blazer to score at least 30 points in a playoff game."
+        "text": "On September 29, 2024, Black signed with the Washington Wizards, but was waived on October 12. On October 28, he joined the Capital City Go-Go. On October 2, 2025, the Wizards added Black to their training camp roster, prior to the 2025–26 season. Black was later released and then re-added to the Go-Go's roster. On February 21, 2026, the Wizards signed Black to a two-way contract. He made 15 appearances (nine starts) for Washington over the remainder of the year, averaging career-highs in points (7.1), rebounds (5.0), assists (1.5), and steals (1.2). Black was waived by the Wizards on July 1."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Black has been open about his struggles with anxiety and his coping strategies that have helped him control it. He earned his nickname, which comes from his middle name \"Malik\", from his grandmother."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Scoot_Henderson",
-    "title": "Scoot Henderson"
+    "url": "https://en.wikipedia.org/wiki/Leaky_Black",
+    "title": "Leaky Black"
   },
   "stats": {
     "labels": [
@@ -61,125 +61,125 @@
       {
         "name": "2026-27",
         "values": [
-          "15",
-          "23.0",
-          "9.9",
-          "2.1",
+          "11",
+          "19.1",
+          "4.5",
+          "3.0",
           "1.5",
-          "34.8",
-          "25.8"
+          "40.5",
+          "42.9"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "173",
-          "26.7",
-          "13.2",
-          "2.9",
-          "4.7",
-          "40.0",
-          "33.5"
+          "52",
+          "17.8",
+          "4.3",
+          "3.0",
+          "1.2",
+          "41.6",
+          "39.1"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-20T01:00:00.000+00:00",
-      "opponent": "MIL",
-      "at_vs": "@",
-      "result": "W",
-      "score": "124-114",
-      "stats": {
-        "MIN": "35",
-        "PTS": "27",
-        "REB": "7",
-        "AST": "3"
-      }
-    },
-    {
-      "date": "2026-11-18T01:00:00.000+00:00",
-      "opponent": "MIN",
+      "date": "2026-11-21T03:00:00.000+00:00",
+      "opponent": "LAL",
       "at_vs": "@",
       "result": "L",
-      "score": "106-105",
+      "score": "106-104",
       "stats": {
-        "MIN": "21",
-        "PTS": "9",
-        "REB": "1",
+        "MIN": "19",
+        "PTS": "0",
+        "REB": "3",
         "AST": "1"
       }
     },
     {
-      "date": "2026-11-17T01:00:00.000+00:00",
-      "opponent": "MIN",
-      "at_vs": "@",
+      "date": "2026-11-19T03:00:00.000+00:00",
+      "opponent": "PHX",
+      "at_vs": "vs",
       "result": "L",
-      "score": "106-98",
+      "score": "128-107",
       "stats": {
-        "MIN": "23",
-        "PTS": "10",
-        "REB": "1",
-        "AST": "0"
+        "MIN": "17",
+        "PTS": "3",
+        "REB": "0",
+        "AST": "2"
+      }
+    },
+    {
+      "date": "2026-11-16T02:00:00.000+00:00",
+      "opponent": "OKC",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "125-103",
+      "stats": {
+        "MIN": "29",
+        "PTS": "12",
+        "REB": "9",
+        "AST": "2"
       }
     },
     {
       "date": "2026-11-14T03:00:00.000+00:00",
-      "opponent": "SAC",
-      "at_vs": "@",
-      "result": "W",
+      "opponent": "POR",
+      "at_vs": "vs",
+      "result": "L",
       "score": "120-107",
       "stats": {
-        "MIN": "23",
-        "PTS": "11",
+        "MIN": "12",
+        "PTS": "0",
         "REB": "0",
-        "AST": "1"
+        "AST": "0"
       }
     },
     {
-      "date": "2026-11-12T03:00:00.000+00:00",
-      "opponent": "OKC",
+      "date": "2026-11-11T03:00:00.000+00:00",
+      "opponent": "ORL",
       "at_vs": "vs",
-      "result": "W",
-      "score": "118-108",
+      "result": "L",
+      "score": "107-100",
       "stats": {
-        "MIN": "19",
-        "PTS": "5",
-        "REB": "2",
+        "MIN": "18",
+        "PTS": "0",
+        "REB": "3",
         "AST": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Scoot+Henderson+NBA+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Leaky+Black+NBA+highlights",
     "videos": [
       {
-        "id": "OvjRnJ0PTPs",
-        "title": "Scoot Henderson Highlights (27 Points, 7 Rebounds) | Blazers 124, Bucks 114 | Nov. 19, 2026"
+        "id": "6iCHaWfktLE",
+        "title": "Leaky Black Highlights from the 2025-26 Season"
       },
       {
-        "id": "sIdUEgf9ECk",
-        "title": "Scoot Henderson 27 pts 5 threes 7 rebs vs Bucks 26/27 season"
+        "id": "Cq0GosKY5qM",
+        "title": "Leaky Black - 10 Points, 1 Assist, 6 Rebounds vs Trail Blazers - 2026-27 Preseason"
       },
       {
-        "id": "WScNOo3G-Xg",
-        "title": "Scoot Henderson GOES OFF PLAYOFF CAREER-HIGH 31 PTS (5 3PM) In Game 2 🔥 | April 21, 2026"
+        "id": "JGoxbCE9Pn4",
+        "title": "Leaky Black Career High 16 Points vs Jazz Full Highlights! (3/5/2026)"
       }
     ]
   },
   "news": [
     {
-      "headline": "Lillard, Henderson combine for 60 points in Blazers' win over Bucks",
-      "url": "https://www.espn.com/video/clip/_/id/50538477/lillard-henderson-combine-60-points-blazers-win-bucks"
+      "headline": "Leaky Black elevates for the big-time stuff",
+      "url": "https://www.espn.com/video/clip/_/id/50476968/leaky-black-elevates-big-stuff"
     },
     {
-      "headline": "Scoot Henderson drains triple vs. Milwaukee Bucks",
-      "url": "https://www.espn.com/video/clip/_/id/50536010/scoot-henderson-drains-triple-vs-milwaukee-bucks"
+      "headline": "Leaky Black gets up for the big stuff",
+      "url": "https://www.espn.com/video/clip?id=35824525"
     },
     {
-      "headline": "Scoot Henderson throws down the hammer",
-      "url": "https://www.espn.com/video/clip/_/id/50338730/scoot-henderson-throws-hammer"
+      "headline": "Vince Carter approves of Leaky Black 3-pointer",
+      "url": "https://www.espn.com/video/clip?id=35785423"
     }
   ]
 }
