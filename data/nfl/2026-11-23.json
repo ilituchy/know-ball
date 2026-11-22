@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-23",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4361788",
+    "name": "Cade Mays",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361788.png",
+    "jersey": "#64",
+    "position": "Center",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4361788/cade-mays"
+  },
+  "team": {
+    "name": "Detroit Lions",
+    "abbreviation": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "color": "0076b6"
+  },
+  "facts": {
+    "Age": 27,
+    "Height": "6' 6\"",
+    "Weight": "325 lbs",
+    "From": "Knoxville, TN",
+    "College": "Tennessee",
+    "Draft": "2022: Rd 6, Pk 199 (CAR)",
+    "Experience": "5th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Cade Montgomery Mays (born April 26, 1999) is an American professional football center for the Detroit Lions of the National Football League (NFL). He played college football for the Georgia Bulldogs and Tennessee Volunteers. Mays was selected by the Carolina Panthers in the sixth round of the 2022 NFL draft."
+      },
+      {
+        "heading": "College career",
+        "text": "Mays started his college career at Georgia. As a freshman in 2018, he earned Freshman All-American honors as well as being selected to the SEC All-Freshman Team. During his two years with the Bulldogs, he had at least one start for each position across the offensive line. After the 2019 season, he transferred to Tennessee. He then played two years for the Volunteers, primarily at the right tackle position. Following the conclusion of his final collegiate season in 2021, he earned a second-team All-SEC selection by the Associated Press and conference coaches."
+      },
+      {
+        "heading": "Lately",
+        "text": "On March 9, 2026, Mays signed with the Detroit Lions on a three-year contract worth $25 million. On August 10, 2026, it was announced that Mays had fractured his wrist during training camp practice and was expected to miss approximately 8–10 weeks of time from the date of the injury. He was placed on injured reserve on August 30. On October 24, Mays was activated off injured reserve. On November 21, Mays was placed on injured reserve again."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Mays enjoys fishing and is an avid hunter. He collects turkey stones as a hobby. Both his father, Kevin, and younger brother, Cooper, played as linemen for Tennessee from 1991-1994 and 2020-2024, respectively."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Cade_Mays",
+    "title": "Cade Mays"
+  },
+  "stats": {
+    "labels": [],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Cade+Mays+NFL+highlights",
+    "videos": []
+  },
+  "news": [
+    {
+      "headline": "Lions to get DB Brian Branch, C Cade Mays back vs. Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50232574/lions-brian-branch-injury-return-cade-mays-packers"
+    },
+    {
+      "headline": "Source: Lions' Cade Mays (wrist) expected to miss 8-10 weeks",
+      "url": "https://www.espn.com/nfl/story/_/id/49574921/lions-cade-mays-wrist-expected-miss-8-10-weeks"
+    },
+    {
+      "headline": "Source: Lions, center Cade Mays reach agreement",
+      "url": "https://www.espn.com/nfl/story/_/id/48154578/source-lions-center-cade-mays-reach-agreement"
+    }
+  ]
+}
