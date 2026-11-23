@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-24",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4361791",
+    "name": "Devonte Wyatt",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361791.png",
+    "jersey": "#95",
+    "position": "Defensive Tackle",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4361791/devonte-wyatt"
+  },
+  "team": {
+    "name": "Green Bay Packers",
+    "abbreviation": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "color": "204e32"
+  },
+  "facts": {
+    "Age": 28,
+    "Height": "6' 3\"",
+    "Weight": "304 lbs",
+    "From": "Decatur, GA",
+    "College": "Georgia",
+    "Draft": "2022: Rd 1, Pk 28 (GB)",
+    "Experience": "5th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Devonte Malik Wyatt (born March 31, 1998) is an American professional football defensive tackle for the Green Bay Packers of the National Football League (NFL). He played college football for the Georgia Bulldogs and was selected by the Packers in the first round of the 2022 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Wyatt grew up in Decatur, Georgia and attended Towers High School. He was rated a three-star recruit and initially committed to play college football at South Carolina before de-committing in favor of Georgia. Wyatt was ruled academically ineligible to play at Georgia and did not enroll."
+      },
+      {
+        "heading": "College career",
+        "text": "Wyatt began his collegiate career at Hutchinson Community College in order to meet the academic requirements to play Division I football. As a freshman, he had 30 tackles, 4.5 tackles for loss, and three sacks. Wyatt qualified academically to enroll at Georgia after his freshman season. Wyatt was part of Georgia's defensive line rotation as a sophomore and as a junior. As a senior, Wyatt started all ten of Georgia's games and had 25 tackles, two tackles for loss, and 14 quarterback hurries."
+      },
+      {
+        "heading": "Lately",
+        "text": "On May 1, 2025, the Packers picked up the fifth-year option in Wyatt's contract. Entering the 2025 season Wyatt was named as a starting defensive tackle after Tedarrell Slaton signed with the Cincinnati Bengals as a free agent, and the Packers traded away Kenny Clark. He missed two games early in the season after suffering an ankle injury against Dallas. He was placed on injured reserve on December 3, due to a fibula fracture and ankle ligament tear suffered in Week 13 against the Detroit Lions. On July 27, 2026, Wyatt and the Packers agreed to a three–year, $57 million contract extension."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Devonte_Wyatt",
+    "title": "Devonte Wyatt"
+  },
+  "stats": {
+    "labels": [
+      "TOT",
+      "SOLO",
+      "SACK",
+      "FF",
+      "INT",
+      "PD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "21",
+          "12",
+          "3",
+          "1",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "122",
+          "70",
+          "19",
+          "2",
+          "0",
+          "3"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-15T18:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "30-10",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-11-08T21:25:00.000+00:00",
+      "opponent": "NE",
+      "at_vs": "@",
+      "result": "W",
+      "score": "45-27",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-30T00:15:00.000+00:00",
+      "opponent": "CAR",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "27-19",
+      "stats": {
+        "TOT": "2",
+        "SOLO": "2",
+        "SACK": "1",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-25T20:25:00.000+00:00",
+      "opponent": "DET",
+      "at_vs": "@",
+      "result": "L",
+      "score": "20-17",
+      "stats": {
+        "TOT": "3",
+        "SOLO": "1",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-10-19T00:20:00.000+00:00",
+      "opponent": "DAL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "23-13",
+      "stats": {
+        "TOT": "1",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Devonte+Wyatt+NFL+highlights",
+    "videos": [
+      {
+        "id": "VbL6LuOKV2I",
+        "title": "Devonte Wyatt is Worth the Contract Extension | Packers DT Film Study"
+      },
+      {
+        "id": "8oydow_XFJw",
+        "title": "Georgia DT Devonte Wyatt Highlights ᴴᴰ"
+      },
+      {
+        "id": "xAD5EHHynHs",
+        "title": "Mic’d Up: Devonte Wyatt"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Packers, DT Devonte Wyatt reach 3-year, $57M extension",
+      "url": "https://www.espn.com/nfl/story/_/id/49411888/packers-dl-devonte-wyatt-reach-3-year-57m-extension"
+    },
+    {
+      "headline": "Packers DT Devonte Wyatt (ankle) out for rest of season",
+      "url": "https://www.espn.com/nfl/story/_/id/47169897/packers-dt-devonte-wyatt-ankle-rest-season"
+    },
+    {
+      "headline": "Pressure is on Packers' Walker, Wyatt, Van Ness, Morgan",
+      "url": "https://www.espn.com/nfl/story/_/id/46018121/nfl-green-bay-packers-walker-wyatt-van-ness-morgan"
+    }
+  ]
+}
