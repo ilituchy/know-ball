@@ -1,51 +1,51 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "sport": "nba",
   "league": "NBA",
   "player": {
-    "id": "4395650",
-    "name": "Leaky Black",
-    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395650.png",
-    "jersey": "#19",
+    "id": "5105337",
+    "name": "Maliq Brown",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105337.png",
+    "jersey": "#15",
     "position": "Forward",
-    "espn_url": "https://www.espn.com/nba/player/_/id/4395650/leaky-black"
+    "espn_url": "https://www.espn.com/nba/player/_/id/5105337/maliq-brown"
   },
   "team": {
-    "name": "Sacramento Kings",
-    "abbreviation": "SAC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-    "color": "5a2d81"
+    "name": "San Antonio Spurs",
+    "abbreviation": "SA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "color": "000000"
   },
   "facts": {
-    "Age": 27,
-    "Height": "6' 6\"",
-    "Weight": "209 lbs",
-    "From": "Concord, NC",
-    "College": "North Carolina",
-    "Draft": "Undrafted",
-    "Experience": "3rd Season"
+    "Age": 23,
+    "Height": "6' 9\"",
+    "Weight": "235 lbs",
+    "From": "Culpeper, VA",
+    "College": "Duke",
+    "Draft": "2026: Rd 2, Pk 44 (SA)",
+    "Experience": "Rookie"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Rechon Malik \"Leaky\" Black (born June 14, 1999) is an American professional basketball player for the Sacramento Kings of the National Basketball Association (NBA), on a two-way contract with the Stockton Kings of the NBA G League. He played college basketball for the North Carolina Tar Heels."
+        "text": "Maliq Xavier Brown (born November 15, 2003) is an American basketball player for the San Antonio Spurs of the National Basketball Association (NBA), on a two-way contract with the Austin Spurs of the NBA G League. He played college basketball for the Syracuse Orange and Duke Blue Devils."
+      },
+      {
+        "heading": "Early life",
+        "text": "Brown was born in Culpeper, Virginia into an athletic family, and began football at age five and basketball at around age seven. He attended Blue Ridge School, an independent all-boys high school in St. George, Virginia, where he was a four-time VISAA Division II basketball state champion. Brown was selected as VISAA Division II Player of the Year and first-team All-VISAA his senior year, averaging 15.4 points, 11.1 rebounds, 2.2 assists, 2.4 steals and 1.5 blocks. Brown was consistently rated a three-star prospect and top-15 player in the Virginia class of 2022."
       },
       {
         "heading": "College career",
-        "text": "Black, raised in Concord, North Carolina, committed to coach Roy Williams and North Carolina as a high school sophomore. After a shortened freshman campaign due to an ankle injury, Black entered the starting lineup in his sophomore season for the Tar Heels. As a senior, Black became one of the top defensive players in the ACC, earning conference all-defensive team honors at the close of the regular season. Black was a part of a Tar Heel starting lineup that each averaged big minutes and led the eighth-seeded Tar Heels to an unexpected Final Four berth in the 2022 NCAA tournament."
+        "text": "Brown enrolled at Syracuse on June 3, 2022 and participated in summer practices. He appeared in 29 games and made seven starts, averaging 20.2 minutes per game. Brown contributed a double-double in a home win over Virginia Tech, and scored a career-high 18 points and four steals in a loss at Georgia Tech. As a sophomore, Brown saw a significant uptick in production, starting 18 of 32 games played. He achieved the double-double mark four times, including in the ACC Tournament against NC State. On February 7, 2024, against Louisville, Brown scored 11 points on 4-for-4 shooting with nine rebounds, five assists, six blocks and five steals."
       },
       {
         "heading": "Lately",
-        "text": "On September 29, 2024, Black signed with the Washington Wizards, but was waived on October 12. On October 28, he joined the Capital City Go-Go. On October 2, 2025, the Wizards added Black to their training camp roster, prior to the 2025–26 season. Black was later released and then re-added to the Go-Go's roster. On February 21, 2026, the Wizards signed Black to a two-way contract. He made 15 appearances (nine starts) for Washington over the remainder of the year, averaging career-highs in points (7.1), rebounds (5.0), assists (1.5), and steals (1.2). Black was waived by the Wizards on July 1."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Black has been open about his struggles with anxiety and his coping strategies that have helped him control it. He earned his nickname, which comes from his middle name \"Malik\", from his grandmother."
+        "text": "On June 24, 2026, the San Antonio Spurs selected Brown with the 44th overall pick in the 2026 NBA draft. He signed a two-way contract with Spurs on 3 July, 2026."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Leaky_Black",
-    "title": "Leaky Black"
+    "url": "https://en.wikipedia.org/wiki/Maliq_Brown",
+    "title": "Maliq Brown"
   },
   "stats": {
     "labels": [
@@ -61,125 +61,73 @@
       {
         "name": "2026-27",
         "values": [
-          "11",
-          "19.1",
-          "4.5",
-          "3.0",
-          "1.5",
-          "40.5",
-          "42.9"
+          "1",
+          "1.0",
+          "0.0",
+          "0.0",
+          "1.0",
+          "0.0",
+          "0.0"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "52",
-          "17.8",
-          "4.3",
-          "3.0",
-          "1.2",
-          "41.6",
-          "39.1"
+          "1",
+          "1.0",
+          "0.0",
+          "0.0",
+          "1.0",
+          "0.0",
+          "0.0"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-21T03:00:00.000+00:00",
-      "opponent": "LAL",
-      "at_vs": "@",
-      "result": "L",
-      "score": "106-104",
-      "stats": {
-        "MIN": "19",
-        "PTS": "0",
-        "REB": "3",
-        "AST": "1"
-      }
-    },
-    {
-      "date": "2026-11-19T03:00:00.000+00:00",
-      "opponent": "PHX",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "128-107",
-      "stats": {
-        "MIN": "17",
-        "PTS": "3",
-        "REB": "0",
-        "AST": "2"
-      }
-    },
-    {
-      "date": "2026-11-16T02:00:00.000+00:00",
+      "date": "2026-10-21T01:50:00.000+00:00",
       "opponent": "OKC",
       "at_vs": "vs",
       "result": "L",
-      "score": "125-103",
+      "score": "116-104",
       "stats": {
-        "MIN": "29",
-        "PTS": "12",
-        "REB": "9",
-        "AST": "2"
-      }
-    },
-    {
-      "date": "2026-11-14T03:00:00.000+00:00",
-      "opponent": "POR",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "120-107",
-      "stats": {
-        "MIN": "12",
+        "MIN": "1",
         "PTS": "0",
         "REB": "0",
-        "AST": "0"
-      }
-    },
-    {
-      "date": "2026-11-11T03:00:00.000+00:00",
-      "opponent": "ORL",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "107-100",
-      "stats": {
-        "MIN": "18",
-        "PTS": "0",
-        "REB": "3",
-        "AST": "2"
+        "AST": "1"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Leaky+Black+NBA+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Maliq+Brown+NBA+highlights",
     "videos": [
       {
-        "id": "6iCHaWfktLE",
-        "title": "Leaky Black Highlights from the 2025-26 Season"
+        "id": "aO-arp6oBvo",
+        "title": "Maliq Brown 2026 NCAA tournament highlights"
       },
       {
-        "id": "Cq0GosKY5qM",
-        "title": "Leaky Black - 10 Points, 1 Assist, 6 Rebounds vs Trail Blazers - 2026-27 Preseason"
+        "id": "TcTjlCyt0mo",
+        "title": "Best of Maliq Brown - Duke Highlights!"
       },
       {
-        "id": "JGoxbCE9Pn4",
-        "title": "Leaky Black Career High 16 Points vs Jazz Full Highlights! (3/5/2026)"
+        "id": "cWJRMLca3xo",
+        "title": "Maliq Brown 2024-25 Regular Season Highlights | Duke Forward"
       }
     ]
   },
   "news": [
     {
-      "headline": "Leaky Black elevates for the big-time stuff",
-      "url": "https://www.espn.com/video/clip/_/id/50476968/leaky-black-elevates-big-stuff"
+      "headline": "Maliq Brown slams it home with authority",
+      "url": "https://www.espn.com/video/clip/_/id/50199280/maliq-brown-slams-home-authority"
     },
     {
-      "headline": "Leaky Black gets up for the big stuff",
-      "url": "https://www.espn.com/video/clip?id=35824525"
+      "headline": "Maliq Brown with the massive swat at the rim",
+      "url": "https://www.espn.com/video/clip/_/id/49347567/maliq-brown-massive-swat-rim"
     },
     {
-      "headline": "Vince Carter approves of Leaky Black 3-pointer",
-      "url": "https://www.espn.com/video/clip?id=35785423"
+      "headline": "Maliq Brown rocks the rim with slam dunk",
+      "url": "https://www.espn.com/video/clip/_/id/49337453/maliq-brown-rocks-rim-slam-dunk"
     }
   ]
 }
