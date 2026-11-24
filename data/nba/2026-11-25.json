@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-25",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "3133602",
+    "name": "Svi Mykhailiuk",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3133602.png",
+    "jersey": "#10",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/3133602/svi-mykhailiuk"
+  },
+  "team": {
+    "name": "Utah Jazz",
+    "abbreviation": "UTAH",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "color": "4e008e"
+  },
+  "facts": {
+    "Age": 29,
+    "Height": "6' 7\"",
+    "Weight": "205 lbs",
+    "From": "Cherkasy, Ukraine",
+    "College": "Kansas",
+    "Draft": "2018: Rd 2, Pk 47 (LAL)",
+    "Experience": "9th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Sviatoslav Yuriyovych \"Svi\" Mykhailiuk (Ukrainian: Святосла́в Ю́рійович Михайлю́к, pronounced [sʲwʲɐtoˈslɑu̯ mɪxɐjˈlʲuk]; born June 10, 1997) is a Ukrainian professional basketball player for the Utah Jazz of the National Basketball Association (NBA). He played college basketball for the Kansas Jayhawks and prior to that, he played for Cherkaski Mavpy in the Ukrainian Basketball SuperLeague from 2012 to 2014 and for the Ukraine national team at the 2014 FIBA World Cup. As a reserve with the 2023-24 Boston Celtics, Mykhailiuk won an NBA championship."
+      },
+      {
+        "heading": "Early life",
+        "text": "Born in Cherkasy, Ukraine, Mykhailiuk's mother, Inna, is a high school biology teacher, and his father, Iurri, is a college history professor. He attended high school at Cherkasy First City Gymnasia."
+      },
+      {
+        "heading": "College career",
+        "text": "Mykhailiuk received offers from Virginia, Iowa State, Oregon, and Kansas. On May 21, 2014, Mykhailiuk committed to play basketball at the University of Kansas and played for the team during their 2014–15 season. During his freshman season, he started five of the first seven games of the season, averaging 21.3 minutes a game, but his playing time since then was significantly curtailed. He scored 11 points while playing 32 minutes in the Orlando Classic Championship game against Michigan State on November 30, 2014. He was the youngest player in Big 12 Conference history at 17 years old."
+      },
+      {
+        "heading": "Lately",
+        "text": "On August 31, 2023, Mykhailiuk signed a 1-year deal with the Boston Celtics. On June 6, 2024, he made his debut in the NBA Finals against Dallas Mavericks, becoming the second Ukrainian to achieve this feat following Slava Medvedenko. He eventually achieved the NBA title with his club, which won their 18th championship overall. On 13 August 2024, Mykhailiuk signed a 4-year deal with the Utah Jazz. On November 22, 2026, Mykhailiuk scored an NBA career high 39 points in a game against Dallas Mavericks, alongside 10 made three-pointers, also a career high."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Following Russia's invasion of Ukraine on February 23, 2022, Mykhailiuk along with the only other Ukrainian NBA player, Alex Len, released a statement condemning the invasion. The statement read \"A great tragedy befell our dear homeland of Ukraine. We categorically condemn the war. Ukraine is a peaceful, sovereign state inhabited by people who want to control their own destiny. We pray for their families, friends, and relatives and all the people who are in the territory of Ukraine. We hope for an end to this terrible war as soon as possible. Dear fellow Ukrainians, hold on! Our strength is in unity! We are with you!\""
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Sviatoslav_Mykhailiuk",
+    "title": "Sviatoslav Mykhailiuk"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "18",
+          "19.3",
+          "6.8",
+          "2.4",
+          "1.7",
+          "38.9",
+          "39.2"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "399",
+          "17.3",
+          "6.9",
+          "1.9",
+          "1.5",
+          "41.3",
+          "36.9"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-23T00:00:00.000+00:00",
+      "opponent": "DAL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "116-114",
+      "stats": {
+        "MIN": "32",
+        "PTS": "39",
+        "REB": "5",
+        "AST": "3"
+      }
+    },
+    {
+      "date": "2026-11-21T02:30:00.000+00:00",
+      "opponent": "PHX",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "111-101",
+      "stats": {
+        "MIN": "28",
+        "PTS": "11",
+        "REB": "7",
+        "AST": "2"
+      }
+    },
+    {
+      "date": "2026-11-19T03:00:00.000+00:00",
+      "opponent": "LAL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "109-97",
+      "stats": {
+        "MIN": "34",
+        "PTS": "15",
+        "REB": "3",
+        "AST": "5"
+      }
+    },
+    {
+      "date": "2026-11-18T03:30:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "132-107",
+      "stats": {
+        "MIN": "33",
+        "PTS": "8",
+        "REB": "7",
+        "AST": "5"
+      }
+    },
+    {
+      "date": "2026-11-15T22:00:00.000+00:00",
+      "opponent": "SA",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "110-102",
+      "stats": {
+        "MIN": "21",
+        "PTS": "6",
+        "REB": "2",
+        "AST": "3"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Svi+Mykhailiuk+NBA+highlights",
+    "videos": [
+      {
+        "id": "KIOLACSAJ78",
+        "title": "Svi Mykhailiuk GOES OFF For CAREER-HIGH 39 PTS & 10 THREES vs. Mavericks 🔥 | November 22, 2026"
+      },
+      {
+        "id": "FjvID3LIZyc",
+        "title": "Svi Mykhailiuk scores career high 39 pts against Mavs"
+      },
+      {
+        "id": "pSswTifbRLI",
+        "title": "Sviatoslav Mykhailiuk Official Kansas Jayhawks Highlights"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Svi Mykhailiuk hits the 3 Dallas Mavericks",
+      "url": "https://www.espn.com/video/clip/_/id/50568767/svi-mykhailiuk-hits-3-dallas-mavericks"
+    },
+    {
+      "headline": "Svi Mykhailiuk drains it from downtown",
+      "url": "https://www.espn.com/video/clip/_/id/50568721/svi-mykhailiuk-drains-downtown"
+    },
+    {
+      "headline": "Svi Mykhailiuk hits the shot vs. LA Clippers",
+      "url": "https://www.espn.com/video/clip/_/id/50517371/svi-mykhailiuk-hits-shot-vs-la-clippers"
+    }
+  ]
+}
