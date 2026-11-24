@@ -1,176 +1,65 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "4807220",
-    "name": "Victor Scott II",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4807220.png",
-    "jersey": "#11",
-    "position": "Center Fielder",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/4807220"
+    "id": "5273850",
+    "name": "Luis Gutierrez",
+    "headshot": null,
+    "jersey": "#55",
+    "position": "Starting Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5273850"
   },
   "team": {
-    "name": "St. Louis Cardinals",
-    "abbreviation": "STL",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
-    "color": "be0a14"
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+    "color": "2f241d"
   },
   "facts": {
-    "Age": 25,
-    "Height": "5' 10\"",
-    "Weight": "190 lbs",
-    "From": "Atlanta, GA",
+    "Age": 23,
+    "Height": "6' 0\"",
+    "Weight": "175 lbs",
+    "From": "Cabimas, Venezuela",
     "College": null,
     "Draft": null,
-    "Experience": "3rd Season"
+    "Experience": "Rookie"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Victor Dwanyne Scott II (born February 12, 2001) is an American professional baseball outfielder for the St. Louis Cardinals of Major League Baseball (MLB). He made his MLB debut in 2024."
+        "text": "Luis Alejandro Gutierrez (born July 31, 2003) is a Venezuelan professional baseball pitcher for the San Diego Padres of Major League Baseball (MLB)."
       },
       {
         "heading": "Lately",
-        "text": "Scott was optioned and recalled twice more before the season's end. Over 53 games played with St. Louis, Scott hit .179 with two home runs, 10 RBI, nine doubles and five stolen bases. He played in 81 games with Memphis and batted .210 with six home runs. Scott was named to the Cardinals' Opening Day roster for the 2025 season. He missed time during the season due to an ankle injury and was placed on the injured list. He spent the season as the team's starting center fielder, appearing in 138 games and hitting .216 with five home runs, 37 RBI, and 34 stolen bases. Scott was named a finalist for the National League Gold Glove Award in center field."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Scott's parents, Victor and Mary, ran track. His father is a member of the Morris Brown College Hall of Fame."
+        "text": "Gutierrez split the 2025 season between Single–A Lake Elsinore Storm, the High–A Fort Wayne TinCaps, Double–A San Antonio Missions, and Triple–A El Paso Chihuahuas. He made 25 appearances (including 21 starts) for the four affiliates, posting a cumulative 5–6 record and 3.31 ERA with 115 strikeouts across 125 innings pitched. In 2026, Gutierrez logged 13 total starts split between Lake Elsinore, Fort Wayne, San Antonio, and El Paso, compiling an aggregate 1–3 record and 4.25 ERA with 44 strikeouts over 36 innings of work. On November 2, 2026, the Padres selected Gutierrez's contract, adding him to their 40–man roster."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Victor_Scott_II",
-    "title": "Victor Scott II"
+    "url": "https://en.wikipedia.org/wiki/Luis_Gutierrez_(baseball)",
+    "title": "Luis Gutierrez (baseball)"
   },
   "stats": {
-    "labels": [
-      "GP",
-      "AB",
-      "H",
-      "AVG",
-      "HR",
-      "RBI",
-      "BB",
-      "SO"
-    ],
-    "rows": [
-      {
-        "name": "2026",
-        "values": [
-          "80",
-          "166",
-          "32",
-          ".193",
-          "2",
-          "9",
-          "16",
-          "46"
-        ]
-      },
-      {
-        "name": "Career",
-        "values": [
-          "271",
-          "709",
-          "144",
-          ".203",
-          "9",
-          "56",
-          "64",
-          "199"
-        ]
-      }
-    ]
+    "labels": [],
+    "rows": []
   },
-  "recent_games": [
-    {
-      "date": "2026-09-25T23:40:00.000+00:00",
-      "opponent": "MIL",
-      "at_vs": "@",
-      "result": "L",
-      "score": "8-4",
-      "stats": {
-        "AB": "3",
-        "H": "1",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-23T22:40:00.000+00:00",
-      "opponent": "PIT",
-      "at_vs": "@",
-      "result": "W",
-      "score": "5-1",
-      "stats": {
-        "AB": "0",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-20T18:15:00.000+00:00",
-      "opponent": "WSH",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "5-3",
-      "stats": {
-        "AB": "0",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-19T23:15:00.000+00:00",
-      "opponent": "WSH",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "8-5 F/11",
-      "stats": {
-        "AB": "3",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-19T00:15:00.000+00:00",
-      "opponent": "WSH",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "9-1",
-      "stats": {
-        "AB": "1",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    }
-  ],
+  "recent_games": [],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Victor+Scott+II+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Luis+Gutierrez+MLB+highlights",
     "videos": [
       {
-        "id": "4lcCmcnWDjU",
-        "title": "Victor Scott II 2025 MLB Highlights!"
+        "id": "0l9VpwCpeMg",
+        "title": "Luis Gutierrez, San Diego Padres LHP Prospect"
       },
       {
-        "id": "TQAQsYjELhQ",
-        "title": "Victor Scott II 2025 Highlights"
+        "id": "SvJLqnDoFrQ",
+        "title": "SEA@MIN: Gutierrez robs Casilla in center"
       },
       {
-        "id": "gQSNR9qOaUI",
-        "title": "Victor Scott II 2025 Defensive Highlights!"
+        "id": "w4Hy4loYWro",
+        "title": "Gutierrez leaps for an outstanding catch"
       }
     ]
   },
-  "news": [
-    {
-      "headline": "Cardinals OF Victor Scott II has sprained ankle, goes on IL",
-      "url": "https://www.espn.com/mlb/story/_/id/46002036/cardinals-victor-scott-ii-sprained-ankle-goes-il"
-    }
-  ]
+  "news": []
 }

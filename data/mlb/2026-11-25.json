@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-25",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "5270445",
+    "name": "Drew Cavanaugh",
+    "headshot": null,
+    "jersey": "#61",
+    "position": "Catcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5270445"
+  },
+  "team": {
+    "name": "San Francisco Giants",
+    "abbreviation": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+    "color": "000000"
+  },
+  "facts": {
+    "Age": 24,
+    "Height": "6' 0\"",
+    "Weight": "219 lbs",
+    "From": "Troy, MI",
+    "College": null,
+    "Draft": null,
+    "Experience": "1st Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Drew Michael Cavanaugh (born January 27, 2002) is an American professional baseball catcher for the San Francisco Giants of Major League Baseball (MLB)."
+      },
+      {
+        "heading": "Lately",
+        "text": "Cavanaugh spent his first professional season with the Arizona Complex League Giants and San Jose Giants. He played 2024 with San Jose and the Sacramento River Cats and after the season played in the Arizona Fall League. He played 2025 with San Jose, Eugene Emeralds, Double-A Richmond Flying Squirrels, and Sacramento. Cavanaugh started 2026 with Richmond before being promoted to Sacramento. In 32 appearances for the River Cats, he batted .330/.445/.571 with six home runs, 21 RBI, and three stolen bases. On June 26, 2026, Cavanaugh was selected to the 40-man roster and promoted to the major leagues for the first time."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Drew_Cavanaugh",
+    "title": "Drew Cavanaugh"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
+      "BB",
+      "SO"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "59",
+          "144",
+          "33",
+          ".229",
+          "1",
+          "12",
+          "18",
+          "50"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "59",
+          "144",
+          "33",
+          ".229",
+          "1",
+          "12",
+          "18",
+          "50"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-27T19:05:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "5-1 F/10",
+      "stats": {
+        "AB": "4",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-26T20:05:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "4-3",
+      "stats": {
+        "AB": "2",
+        "H": "2",
+        "HR": "0",
+        "RBI": "1"
+      }
+    },
+    {
+      "date": "2026-09-23T19:45:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "4-2",
+      "stats": {
+        "AB": "1",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-23T01:45:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "3-2",
+      "stats": {
+        "AB": "1",
+        "H": "0",
+        "HR": "0",
+        "RBI": "1"
+      }
+    },
+    {
+      "date": "2026-09-22T01:45:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "5-2",
+      "stats": {
+        "AB": "2",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Drew+Cavanaugh+MLB+highlights",
+    "videos": [
+      {
+        "id": "bJk1UlrUb7U",
+        "title": "San Francisco Giants C Drew Cavanaugh - 2026 Journey to The Show"
+      },
+      {
+        "id": "iRorQQZuoyA",
+        "title": "Drew Cavanaugh Crushes His First MLB Home Run | San Francisco Giants vs San Diego Padres Highlights"
+      },
+      {
+        "id": "IdPtb1owXvs",
+        "title": "Giants’ Drew Cavanaugh reflects on first career MLB homer | NBC Sports Bay Area"
+      }
+    ]
+  },
+  "news": []
+}
