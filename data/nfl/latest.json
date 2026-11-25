@@ -1,51 +1,55 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "4361791",
-    "name": "Devonte Wyatt",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361791.png",
-    "jersey": "#95",
+    "id": "3117258",
+    "name": "Solomon Thomas",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3117258.png",
+    "jersey": "#90",
     "position": "Defensive Tackle",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/4361791/devonte-wyatt"
+    "espn_url": "https://www.espn.com/nfl/player/_/id/3117258/solomon-thomas"
   },
   "team": {
-    "name": "Green Bay Packers",
-    "abbreviation": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "color": "204e32"
+    "name": "Tennessee Titans",
+    "abbreviation": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "color": "4495d2"
   },
   "facts": {
-    "Age": 28,
-    "Height": "6' 3\"",
-    "Weight": "304 lbs",
-    "From": "Decatur, GA",
-    "College": "Georgia",
-    "Draft": "2022: Rd 1, Pk 28 (GB)",
-    "Experience": "5th Season"
+    "Age": 30,
+    "Height": "6' 2\"",
+    "Weight": "285 lbs",
+    "From": "Coppell, TX",
+    "College": "Stanford",
+    "Draft": "2017: Rd 1, Pk 3 (SF)",
+    "Experience": "10th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Devonte Malik Wyatt (born March 31, 1998) is an American professional football defensive tackle for the Green Bay Packers of the National Football League (NFL). He played college football for the Georgia Bulldogs and was selected by the Packers in the first round of the 2022 NFL draft."
+        "text": "Solomon Christopher Thomas (born August 26, 1995) is an American professional football defensive tackle for the Tennessee Titans of the National Football League (NFL). He played college football for the Stanford Cardinal and was selected third overall by the San Francisco 49ers in the 2017 NFL draft. Thomas has also played for the Las Vegas Raiders, New York Jets, and Dallas Cowboys."
       },
       {
         "heading": "Early life",
-        "text": "Wyatt grew up in Decatur, Georgia and attended Towers High School. He was rated a three-star recruit and initially committed to play college football at South Carolina before de-committing in favor of Georgia. Wyatt was ruled academically ineligible to play at Georgia and did not enroll."
+        "text": "Thomas was born in Chicago, Illinois, on August 26, 1995. Thomas and his family moved to Sydney, Australia when he was two years old, where he lived for five years. He attended Coppell High School in Coppell, Texas. He had 78 tackles and 12.5 sacks as a senior and 89 tackles with 8.5 sacks as a junior. Thomas was rated as a four-star recruit and was ranked among the top players in his class. He committed to Stanford University to play college football."
       },
       {
         "heading": "College career",
-        "text": "Wyatt began his collegiate career at Hutchinson Community College in order to meet the academic requirements to play Division I football. As a freshman, he had 30 tackles, 4.5 tackles for loss, and three sacks. Wyatt qualified academically to enroll at Georgia after his freshman season. Wyatt was part of Georgia's defensive line rotation as a sophomore and as a junior. As a senior, Wyatt started all ten of Georgia's games and had 25 tackles, two tackles for loss, and 14 quarterback hurries."
+        "text": "After redshirting his first year with the Stanford Cardinal in 2014, Thomas played in all 14 games in 2015, starting six, and had 39 total tackles, 10.5 tackles-for-loss, and 3.5 sacks. In recognition of his successful 2015 season, he was named as an honorable mention All-Pac-12 Conference selection. In 2016, Thomas played and started all 13 games and had 62 total tackles with 15.0 tackles-for-loss and 8.0 sacks. Thomas was named first team All-Pac-12 and won the Morris Trophy. Following the 2016 season, Thomas declared his intentions to enter the 2017 NFL draft."
       },
       {
         "heading": "Lately",
-        "text": "On May 1, 2025, the Packers picked up the fifth-year option in Wyatt's contract. Entering the 2025 season Wyatt was named as a starting defensive tackle after Tedarrell Slaton signed with the Cincinnati Bengals as a free agent, and the Packers traded away Kenny Clark. He missed two games early in the season after suffering an ankle injury against Dallas. He was placed on injured reserve on December 3, due to a fibula fracture and ankle ligament tear suffered in Week 13 against the Detroit Lions. On July 27, 2026, Wyatt and the Packers agreed to a three–year, $57 million contract extension."
+        "text": "On March 12, 2025, Thomas signed a two-year, $8 million contract with the Dallas Cowboys. He reunited with defensive line coach Aaron Whitecotton. He appeared in all 16 games, with two starts. He registered 33 tackles (3 for loss), 12 quarterback pressures and one pass defensed. He was the Cowboys' Walter Payton Man of the Year club winner for his strong impact off the field in the community. On March 11, 2026, Thomas was traded to the Tennessee Titans in exchange for a 2026 seventh-round draft pick. He reunited with head coach Robert Saleh."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Thomas' older sister died by suicide in 2018 at the age of 24. He founded \"The Defensive Line\", a nonprofit organization aiming to reduce youth suicide."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Devonte_Wyatt",
-    "title": "Devonte Wyatt"
+    "url": "https://en.wikipedia.org/wiki/Solomon_Thomas",
+    "title": "Solomon Thomas"
   },
   "stats": {
     "labels": [
@@ -60,34 +64,34 @@
       {
         "name": "2026",
         "values": [
-          "21",
-          "12",
-          "3",
-          "1",
+          "18",
+          "4",
           "0",
-          "0"
+          "0",
+          "0",
+          "1"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "122",
-          "70",
-          "19",
-          "2",
+          "257",
+          "147",
+          "18.5",
+          "3",
           "0",
-          "3"
+          "7"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-15T18:00:00.000+00:00",
-      "opponent": "MIN",
-      "at_vs": "vs",
+      "date": "2026-11-22T18:00:00.000+00:00",
+      "opponent": "DAL",
+      "at_vs": "@",
       "result": "L",
-      "score": "30-10",
+      "score": "51-30",
       "stats": {
         "TOT": "1",
         "SOLO": "0",
@@ -96,87 +100,87 @@
       }
     },
     {
-      "date": "2026-11-08T21:25:00.000+00:00",
-      "opponent": "NE",
-      "at_vs": "@",
-      "result": "W",
-      "score": "45-27",
+      "date": "2026-11-15T18:00:00.000+00:00",
+      "opponent": "JAX",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "40-23",
       "stats": {
-        "TOT": "0",
+        "TOT": "4",
         "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-30T00:15:00.000+00:00",
-      "opponent": "CAR",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "27-19",
+      "date": "2026-11-01T18:00:00.000+00:00",
+      "opponent": "CIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "43-36 OT",
       "stats": {
-        "TOT": "2",
-        "SOLO": "2",
-        "SACK": "1",
+        "TOT": "1",
+        "SOLO": "0",
+        "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-25T20:25:00.000+00:00",
-      "opponent": "DET",
-      "at_vs": "@",
+      "date": "2026-10-25T17:00:00.000+00:00",
+      "opponent": "CLE",
+      "at_vs": "vs",
       "result": "L",
-      "score": "20-17",
+      "score": "27-24",
       "stats": {
-        "TOT": "3",
+        "TOT": "1",
         "SOLO": "1",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-19T00:20:00.000+00:00",
-      "opponent": "DAL",
-      "at_vs": "vs",
+      "date": "2026-10-18T17:00:00.000+00:00",
+      "opponent": "IND",
+      "at_vs": "@",
       "result": "W",
-      "score": "23-13",
+      "score": "26-20",
       "stats": {
         "TOT": "1",
-        "SOLO": "0",
+        "SOLO": "1",
         "SACK": "0",
         "INT": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Devonte+Wyatt+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Solomon+Thomas+NFL+highlights",
     "videos": [
       {
-        "id": "VbL6LuOKV2I",
-        "title": "Devonte Wyatt is Worth the Contract Extension | Packers DT Film Study"
+        "id": "b3SkQ_0lBFw",
+        "title": "Solomon Thomas Highlights (Tennessee Titans) | 2026 NFL Free Agency"
       },
       {
-        "id": "8oydow_XFJw",
-        "title": "Georgia DT Devonte Wyatt Highlights ᴴᴰ"
+        "id": "yTk1R1Ylh3I",
+        "title": "Solomon Thomas Highlights 🔥 | Welcome to the Titans"
       },
       {
-        "id": "xAD5EHHynHs",
-        "title": "Mic’d Up: Devonte Wyatt"
+        "id": "wl3EAGuIZLs",
+        "title": "Solomon Thomas || \"Nation's Most Impactful Player\" || Stanford Highlights"
       }
     ]
   },
   "news": [
     {
-      "headline": "Packers, DT Devonte Wyatt reach 3-year, $57M extension",
-      "url": "https://www.espn.com/nfl/story/_/id/49411888/packers-dl-devonte-wyatt-reach-3-year-57m-extension"
+      "headline": "Cowboys trade DT Osa Odighizuwa to 49ers for 3rd-round pick",
+      "url": "https://www.espn.com/nfl/story/_/id/48177910/sources-cowboys-trade-dt-odighizuwa-49ers-3rd-round-pick"
     },
     {
-      "headline": "Packers DT Devonte Wyatt (ankle) out for rest of season",
-      "url": "https://www.espn.com/nfl/story/_/id/47169897/packers-dt-devonte-wyatt-ankle-rest-season"
+      "headline": "Cowboys' Solomon Thomas comes home, Trevon Diggs gets healthy",
+      "url": "https://www.espn.com/nfl/story/_/id/46241909/nfl-dallas-cowboys-solomon-thomas-trevon-diggs-hunter-luepke"
     },
     {
-      "headline": "Pressure is on Packers' Walker, Wyatt, Van Ness, Morgan",
-      "url": "https://www.espn.com/nfl/story/_/id/46018121/nfl-green-bay-packers-walker-wyatt-van-ness-morgan"
+      "headline": "Solomon Thomas aims to bring leadership to hometown Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/44402849/nfl-dallas-cowboys-solomon-thomas"
     }
   ]
 }
