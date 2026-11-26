@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-27",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "5073992",
+    "name": "Javier Sanoja",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5073992.png",
+    "jersey": "#8",
+    "position": "Third Baseman",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5073992"
+  },
+  "team": {
+    "name": "Miami Marlins",
+    "abbreviation": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+    "color": "00a3e0"
+  },
+  "facts": {
+    "Age": 24,
+    "Height": "5' 7\"",
+    "Weight": "150 lbs",
+    "From": "Maracay, Venezuela",
+    "College": null,
+    "Draft": null,
+    "Experience": "3rd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Javier Ernesto Sanoja (born September 3, 2002) is a Venezuelan professional baseball utility player for the Miami Marlins of Major League Baseball (MLB). He made his MLB debut in 2024."
+      },
+      {
+        "heading": "Lately",
+        "text": "On April 20, 2025, Sanoja hit his first career home run, a three-run shot off of Orion Kerkering of the Philadelphia Phillies. On August 27, Sanoja pitched two innings of a blowout loss to the Atlanta Braves; in the appearance, he logged his first career strikeout against Braves infielder Vidal Bruján. In 118 total appearances for Miami, he slashed .243/.287.396 with six home runs, 40 RBI, and six stolen bases. On November 2, Sanoja was awarded his first career Gold Glove Award for the National League utility position. On March 17, 2026, in the Championship Game of the 2026 World Baseball Classic, Sanoja entered as a pinch-runner in the ninth inning and stole second base."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Javier_Sanoja",
+    "title": "Javier Sanoja"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
+      "BB",
+      "SO"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "144",
+          "461",
+          "136",
+          ".295",
+          "11",
+          "69",
+          "27",
+          "39"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "277",
+          "809",
+          "220",
+          ".272",
+          "17",
+          "109",
+          "47",
+          "84"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "5-3",
+      "stats": {
+        "AB": "4",
+        "H": "0",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-26T20:10:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "8-3",
+      "stats": {
+        "AB": "4",
+        "H": "2",
+        "HR": "1",
+        "RBI": "1"
+      }
+    },
+    {
+      "date": "2026-09-25T23:10:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "3-0",
+      "stats": {
+        "AB": "4",
+        "H": "2",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-24T18:20:00.000+00:00",
+      "opponent": "CHC",
+      "at_vs": "@",
+      "result": "L",
+      "score": "2-1",
+      "stats": {
+        "AB": "4",
+        "H": "1",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-23T23:40:00.000+00:00",
+      "opponent": "CHC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "3-2",
+      "stats": {
+        "AB": "4",
+        "H": "2",
+        "HR": "0",
+        "RBI": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Javier+Sanoja+MLB+highlights",
+    "videos": [
+      {
+        "id": "TwC6OminbVs",
+        "title": "Javier Sanoja || 2026 Miami Marlins Highlights"
+      },
+      {
+        "id": "4qkuWnXMDNg",
+        "title": "Javier Sanoja’s Top Defensive Gems from His Gold Glove Season"
+      },
+      {
+        "id": "QrlmukZvF_c",
+        "title": "Javier Sanoja || 2025 Miami Marlins Highlights"
+      }
+    ]
+  },
+  "news": []
+}

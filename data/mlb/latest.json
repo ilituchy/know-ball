@@ -1,165 +1,163 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "5270445",
-    "name": "Drew Cavanaugh",
-    "headshot": null,
-    "jersey": "#61",
-    "position": "Catcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/5270445"
+    "id": "35876",
+    "name": "Brennan Bernardino",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35876.png",
+    "jersey": "#83",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/35876"
   },
   "team": {
-    "name": "San Francisco Giants",
-    "abbreviation": "SF",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
-    "color": "000000"
+    "name": "Colorado Rockies",
+    "abbreviation": "COL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
+    "color": "33006f"
   },
   "facts": {
-    "Age": 24,
-    "Height": "6' 0\"",
-    "Weight": "219 lbs",
-    "From": "Troy, MI",
+    "Age": 34,
+    "Height": "6' 4\"",
+    "Weight": "216 lbs",
+    "From": "Valencia, CA",
     "College": null,
-    "Draft": null,
-    "Experience": "1st Season"
+    "Draft": "2014: Rd 26, Pk 785 (CIN)",
+    "Experience": "5th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Drew Michael Cavanaugh (born January 27, 2002) is an American professional baseball catcher for the San Francisco Giants of Major League Baseball (MLB)."
+        "text": "Brennan Allen Bernardino (born January 15, 1992) is an American professional baseball pitcher for the Colorado Rockies of Major League Baseball (MLB). He has previously played in MLB for the Seattle Mariners and Boston Red Sox."
       },
       {
         "heading": "Lately",
-        "text": "Cavanaugh spent his first professional season with the Arizona Complex League Giants and San Jose Giants. He played 2024 with San Jose and the Sacramento River Cats and after the season played in the Arizona Fall League. He played 2025 with San Jose, Eugene Emeralds, Double-A Richmond Flying Squirrels, and Sacramento. Cavanaugh started 2026 with Richmond before being promoted to Sacramento. In 32 appearances for the River Cats, he batted .330/.445/.571 with six home runs, 21 RBI, and three stolen bases. On June 26, 2026, Cavanaugh was selected to the 40-man roster and promoted to the major leagues for the first time."
+        "text": "Bernardino made 55 appearances (three starts) for the Red Sox during the 2025 campaign, compiling a 4-3 record and 3.14 ERA with 43 strikeouts and one save across 51+2⁄3 innings pitched. On November 18, 2025, the Red Sox traded Bernardino to the Colorado Rockies in exchange for outfielder Braiden Ward."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Bernardino is of Samoan and Mexican descent. He holds dual American and Mexican citizenship. He is married to LaCandace Dandridge and they have a son named Jaylen. The couple was set to get married on November 28, 2020, in Gilbert, Arizona but the wedding was postponed to a later date due to COVID-19 Pandemic.  After previously maintaining an apartment in San Diego, they decided to stay in Boston during the 2023–24 offseason. Bernardino's sister Lelani played softball at the University of Memphis and earned 2009 All-Conference USA Freshman Team and 2010 Second Team All-Conference USA honors."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Drew_Cavanaugh",
-    "title": "Drew Cavanaugh"
+    "url": "https://en.wikipedia.org/wiki/Brennan_Bernardino",
+    "title": "Brennan Bernardino"
   },
   "stats": {
     "labels": [
       "GP",
-      "AB",
-      "H",
-      "AVG",
-      "HR",
-      "RBI",
+      "GS",
+      "IP",
+      "ERA",
       "BB",
-      "SO"
+      "K"
     ],
     "rows": [
       {
         "name": "2026",
         "values": [
-          "59",
-          "144",
-          "33",
-          ".229",
-          "1",
-          "12",
-          "18",
-          "50"
+          "74",
+          "2",
+          "64.0",
+          "2.81",
+          "15",
+          "49"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "59",
-          "144",
-          "33",
-          ".229",
-          "1",
-          "12",
-          "18",
-          "50"
+          "243",
+          "14",
+          "219.2",
+          "3.28",
+          "83",
+          "206"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-27T19:05:00.000+00:00",
-      "opponent": "LAD",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "5-1 F/10",
+      "date": "2026-09-26T23:10:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
+      "result": "W",
+      "score": "9-6",
       "stats": {
-        "AB": "4",
-        "H": "0",
-        "HR": "0",
-        "RBI": "0"
-      }
-    },
-    {
-      "date": "2026-09-26T20:05:00.000+00:00",
-      "opponent": "LAD",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "4-3",
-      "stats": {
-        "AB": "2",
+        "IP": "1.1",
         "H": "2",
-        "HR": "0",
-        "RBI": "1"
+        "ER": "0",
+        "K": "1"
       }
     },
     {
-      "date": "2026-09-23T19:45:00.000+00:00",
-      "opponent": "MIN",
-      "at_vs": "vs",
+      "date": "2026-09-25T23:40:00.000+00:00",
+      "opponent": "CHW",
+      "at_vs": "@",
       "result": "L",
-      "score": "4-2",
+      "score": "6-1",
       "stats": {
-        "AB": "1",
+        "IP": "0.1",
         "H": "0",
-        "HR": "0",
-        "RBI": "0"
+        "ER": "0",
+        "K": "0"
       }
     },
     {
-      "date": "2026-09-23T01:45:00.000+00:00",
-      "opponent": "MIN",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "3-2",
-      "stats": {
-        "AB": "1",
-        "H": "0",
-        "HR": "0",
-        "RBI": "1"
-      }
-    },
-    {
-      "date": "2026-09-22T01:45:00.000+00:00",
-      "opponent": "MIN",
+      "date": "2026-09-20T00:10:00.000+00:00",
+      "opponent": "SEA",
       "at_vs": "vs",
       "result": "W",
-      "score": "5-2",
+      "score": "5-3",
       "stats": {
-        "AB": "2",
+        "IP": "1.0",
+        "H": "1",
+        "ER": "0",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2026-09-19T00:10:00.000+00:00",
+      "opponent": "SEA",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "5-4",
+      "stats": {
+        "IP": "1.0",
+        "H": "1",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2026-09-17T19:10:00.000+00:00",
+      "opponent": "SD",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "9-2",
+      "stats": {
+        "IP": "1.0",
         "H": "0",
-        "HR": "0",
-        "RBI": "0"
+        "ER": "0",
+        "K": "2"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Drew+Cavanaugh+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Brennan+Bernardino+MLB+highlights",
     "videos": [
       {
-        "id": "bJk1UlrUb7U",
-        "title": "San Francisco Giants C Drew Cavanaugh - 2026 Journey to The Show"
+        "id": "x-QhjHCLbvg",
+        "title": "Brennan Bernardino 2026 MLB Highlights!"
       },
       {
-        "id": "iRorQQZuoyA",
-        "title": "Drew Cavanaugh Crushes His First MLB Home Run | San Francisco Giants vs San Diego Padres Highlights"
+        "id": "_nSjbNI5Ppc",
+        "title": "Brennan Bernardino 2025 MLB Highlights!"
       },
       {
-        "id": "IdPtb1owXvs",
-        "title": "Giants’ Drew Cavanaugh reflects on first career MLB homer | NBC Sports Bay Area"
+        "id": "IZA0YELMP6s",
+        "title": "BRENNAN BERNARDINO, MEXICO VS Great Britain 06 MARZO 2026"
       }
     ]
   },
