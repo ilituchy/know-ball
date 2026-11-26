@@ -1,55 +1,51 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "3117258",
-    "name": "Solomon Thomas",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3117258.png",
-    "jersey": "#90",
-    "position": "Defensive Tackle",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/3117258/solomon-thomas"
+    "id": "3843843",
+    "name": "Arden Key",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3843843.png",
+    "jersey": "#98",
+    "position": "Defensive End",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/3843843/arden-key"
   },
   "team": {
-    "name": "Tennessee Titans",
-    "abbreviation": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "color": "4495d2"
+    "name": "Indianapolis Colts",
+    "abbreviation": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "color": "003b75"
   },
   "facts": {
     "Age": 30,
-    "Height": "6' 2\"",
-    "Weight": "285 lbs",
-    "From": "Coppell, TX",
-    "College": "Stanford",
-    "Draft": "2017: Rd 1, Pk 3 (SF)",
-    "Experience": "10th Season"
+    "Height": "6' 5\"",
+    "Weight": "240 lbs",
+    "From": "Atlanta, GA",
+    "College": "LSU",
+    "Draft": "2018: Rd 3, Pk 87 (OAK)",
+    "Experience": "9th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Solomon Christopher Thomas (born August 26, 1995) is an American professional football defensive tackle for the Tennessee Titans of the National Football League (NFL). He played college football for the Stanford Cardinal and was selected third overall by the San Francisco 49ers in the 2017 NFL draft. Thomas has also played for the Las Vegas Raiders, New York Jets, and Dallas Cowboys."
+        "text": "Arden Key Jr. (born May 3, 1996) is an American professional football linebacker for the Indianapolis Colts of the National Football League (NFL). He played college football for the LSU Tigers, and was selected by the Oakland Raiders in the third round of the 2018 NFL draft."
       },
       {
         "heading": "Early life",
-        "text": "Thomas was born in Chicago, Illinois, on August 26, 1995. Thomas and his family moved to Sydney, Australia when he was two years old, where he lived for five years. He attended Coppell High School in Coppell, Texas. He had 78 tackles and 12.5 sacks as a senior and 89 tackles with 8.5 sacks as a junior. Thomas was rated as a four-star recruit and was ranked among the top players in his class. He committed to Stanford University to play college football."
+        "text": "Key attended Hapeville Charter Career Academy in Union City, Georgia. He recorded 15.5 sacks as a senior, eight as a junior and 12 as a sophomore. He committed to Louisiana State University (LSU) to play college football. Regarded as a four-star recruit by ESPN, Key was ranked as the No. 6 defensive end prospect in the class of 2015."
       },
       {
         "heading": "College career",
-        "text": "After redshirting his first year with the Stanford Cardinal in 2014, Thomas played in all 14 games in 2015, starting six, and had 39 total tackles, 10.5 tackles-for-loss, and 3.5 sacks. In recognition of his successful 2015 season, he was named as an honorable mention All-Pac-12 Conference selection. In 2016, Thomas played and started all 13 games and had 62 total tackles with 15.0 tackles-for-loss and 8.0 sacks. Thomas was named first team All-Pac-12 and won the Morris Trophy. Following the 2016 season, Thomas declared his intentions to enter the 2017 NFL draft."
+        "text": "As a true freshman at LSU in 2015, Key played in 12 games and started the final nine. He recorded 41 tackles and five sacks and was named a freshman All-American. As a sophomore in 2016, he set a single-season school record by recording 12 sacks. He earned first-team All-Southeastern Conference honors from the Associated Press. As a junior in 2017, Key was limited to 8 games due to injury, but finished with 33 tackles, 4 sacks, and a forced fumble. On January 4, 2018, Key officially announced that he would be entering the 2018 NFL draft."
       },
       {
         "heading": "Lately",
-        "text": "On March 12, 2025, Thomas signed a two-year, $8 million contract with the Dallas Cowboys. He reunited with defensive line coach Aaron Whitecotton. He appeared in all 16 games, with two starts. He registered 33 tackles (3 for loss), 12 quarterback pressures and one pass defensed. He was the Cowboys' Walter Payton Man of the Year club winner for his strong impact off the field in the community. On March 11, 2026, Thomas was traded to the Tennessee Titans in exchange for a 2026 seventh-round draft pick. He reunited with head coach Robert Saleh."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Thomas' older sister died by suicide in 2018 at the age of 24. He founded \"The Defensive Line\", a nonprofit organization aiming to reduce youth suicide."
+        "text": "On July 30, 2024, Key was suspended 6 games for violating the NFL's policy against performance–enhancing drugs. However, Key successfully appealed the ban, and his suspension was overturned on August 17. He played 16 games during the 2024 season, only missing the last game due to injury. He finished with a career high of 42 tackles, 6.5 sacks, 18 pressures, and a pass deflection. On March 12, 2026, Key signed with the Indianapolis Colts on a two-year, $20 million contract with $11 million guaranteed."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Solomon_Thomas",
-    "title": "Solomon Thomas"
+    "url": "https://en.wikipedia.org/wiki/Arden_Key",
+    "title": "Arden Key"
   },
   "stats": {
     "labels": [
@@ -64,123 +60,123 @@
       {
         "name": "2026",
         "values": [
-          "18",
-          "4",
+          "13",
+          "7",
+          "0.5",
+          "1",
           "0",
-          "0",
-          "0",
-          "1"
+          "0"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "257",
-          "147",
-          "18.5",
-          "3",
+          "205",
+          "118",
+          "31",
+          "5",
           "0",
-          "7"
+          "8"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-22T18:00:00.000+00:00",
-      "opponent": "DAL",
+      "date": "2026-11-20T01:15:00.000+00:00",
+      "opponent": "HOU",
       "at_vs": "@",
       "result": "L",
-      "score": "51-30",
+      "score": "26-3",
       "stats": {
         "TOT": "1",
-        "SOLO": "0",
+        "SOLO": "1",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
       "date": "2026-11-15T18:00:00.000+00:00",
-      "opponent": "JAX",
+      "opponent": "MIA",
       "at_vs": "vs",
-      "result": "L",
-      "score": "40-23",
+      "result": "W",
+      "score": "24-22",
       "stats": {
         "TOT": "4",
-        "SOLO": "0",
+        "SOLO": "3",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-11-01T18:00:00.000+00:00",
-      "opponent": "CIN",
-      "at_vs": "@",
-      "result": "L",
-      "score": "43-36 OT",
-      "stats": {
-        "TOT": "1",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-10-25T17:00:00.000+00:00",
-      "opponent": "CLE",
+      "date": "2026-10-04T13:30:00.000+00:00",
+      "opponent": "WSH",
       "at_vs": "vs",
-      "result": "L",
-      "score": "27-24",
+      "result": "W",
+      "score": "30-13",
       "stats": {
-        "TOT": "1",
-        "SOLO": "1",
+        "TOT": "2",
+        "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     },
     {
-      "date": "2026-10-18T17:00:00.000+00:00",
-      "opponent": "IND",
-      "at_vs": "@",
+      "date": "2026-09-27T17:00:00.000+00:00",
+      "opponent": "HOU",
+      "at_vs": "vs",
       "result": "W",
-      "score": "26-20",
+      "score": "19-17",
+      "stats": {
+        "TOT": "0",
+        "SOLO": "0",
+        "SACK": "0",
+        "INT": "0"
+      }
+    },
+    {
+      "date": "2026-09-21T00:20:00.000+00:00",
+      "opponent": "KC",
+      "at_vs": "@",
+      "result": "L",
+      "score": "33-30 OT",
       "stats": {
         "TOT": "1",
-        "SOLO": "1",
+        "SOLO": "0",
         "SACK": "0",
         "INT": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Solomon+Thomas+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Arden+Key+NFL+highlights",
     "videos": [
       {
-        "id": "b3SkQ_0lBFw",
-        "title": "Solomon Thomas Highlights (Tennessee Titans) | 2026 NFL Free Agency"
+        "id": "2A_2erhk2jk",
+        "title": "Arden Key Highlights | 2025 - 2026 NFL Season - Colts"
       },
       {
-        "id": "yTk1R1Ylh3I",
-        "title": "Solomon Thomas Highlights 🔥 | Welcome to the Titans"
+        "id": "qsN2XxugSgI",
+        "title": "Arden Key & Anton Harrison FIGHT After Play 😳 Jaguars vs Titans 2025 Highlights"
       },
       {
-        "id": "wl3EAGuIZLs",
-        "title": "Solomon Thomas || \"Nation's Most Impactful Player\" || Stanford Highlights"
+        "id": "98hUVPk6q9U",
+        "title": "Arden Key Highlights 🔥| Welcome to the Colts"
       }
     ]
   },
   "news": [
     {
-      "headline": "Cowboys trade DT Osa Odighizuwa to 49ers for 3rd-round pick",
-      "url": "https://www.espn.com/nfl/story/_/id/48177910/sources-cowboys-trade-dt-odighizuwa-49ers-3rd-round-pick"
+      "headline": "Colts place DE Arden Key on IR with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50148833/colts-place-de-arden-key-ir-hamstring-injury"
     },
     {
-      "headline": "Cowboys' Solomon Thomas comes home, Trevon Diggs gets healthy",
-      "url": "https://www.espn.com/nfl/story/_/id/46241909/nfl-dallas-cowboys-solomon-thomas-trevon-diggs-hunter-luepke"
+      "headline": "Jeffery Simmons, Calvin Ridley among Titans starters ruled out",
+      "url": "https://www.espn.com/nfl/story/_/id/46794264/jeffery-simmons-calvin-ridley-titans-starters-ruled-out"
     },
     {
-      "headline": "Solomon Thomas aims to bring leadership to hometown Cowboys",
-      "url": "https://www.espn.com/nfl/story/_/id/44402849/nfl-dallas-cowboys-solomon-thomas"
+      "headline": "Titans' Calvin Ridley (hamstring), Arden Key (quad) out vs. Pats",
+      "url": "https://www.espn.com/nfl/story/_/id/46627988/titans-calvin-ridley-hamstring-arden-key-quad-vs-pats"
     }
   ]
 }

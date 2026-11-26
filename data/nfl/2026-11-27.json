@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-27",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4428331",
+    "name": "Rashee Rice",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428331.png",
+    "jersey": "#4",
+    "position": "Wide Receiver",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4428331/rashee-rice"
+  },
+  "team": {
+    "name": "Kansas City Chiefs",
+    "abbreviation": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "color": "e31837"
+  },
+  "facts": {
+    "Age": 26,
+    "Height": "6' 1\"",
+    "Weight": "204 lbs",
+    "From": "North Richland Hills, TX",
+    "College": "SMU",
+    "Draft": "2023: Rd 2, Pk 55 (KC)",
+    "Experience": "4th Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Rashee Marquan Rice (born April 22, 2000) is an American professional football wide receiver for the Kansas City Chiefs of the National Football League (NFL). He played college football for the Southern Methodist University Mustangs. He was selected by the Chiefs in the second round of the 2023 NFL draft and won Super Bowl LVIII as a rookie. Rice also set the NFL record for the most postseason receptions by a rookie, hauling in 26 passes during the Chiefs' Super Bowl run in the 2023–24 playoffs, surpassing Ja'Marr Chase's 25 catches from the 2021–22 playoffs."
+      },
+      {
+        "heading": "Early life",
+        "text": "Rice was born in Philadelphia, Pennsylvania, but grew up in North Richland Hills, Texas, and attended Richland High School. As a junior, he caught 72 passes for 1,386 yards and 19 touchdowns and was named first team all-district. Rice was rated a three-star recruit and committed to play college football at Southern Methodist University (SMU) entering his senior year. Constantly double teamed his senior season, Rice finished his final high school season with a modest 51 receptions for 841 yards and five touchdowns."
+      },
+      {
+        "heading": "College career",
+        "text": "Rice played in ten games as a freshman and had 25 receptions for 403 yards and one touchdown. He became a starter during his sophomore season and caught 48 passes for 683 yards and five touchdowns. Rice had 64 receptions for 670 yards and nine touchdowns and was named honorable mention All-American Athletic Conference (AAC) as a junior. In the 2022 season, he had 96 receptions for 1,355 receiving yards and ten receiving touchdowns. He had six games on the year going over 100 receiving yards."
+      },
+      {
+        "heading": "Lately",
+        "text": "On August 27, 2025, the NFL announced Rice would be suspended for the first six games of the 2025 season for his criminal convictions. The NFL initially proposed a suspension of ten games or more, but there was no precedent for a suspension of this length, and the agreement for a six-game suspension was reached after pushback from Rice and the NFL Players Association. According to the NFL, the judge allowed him to choose when to serve his sentence, but it remained unclear when this would occur."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Rashee_Rice",
+    "title": "Rashee Rice"
+  },
+  "stats": {
+    "labels": [
+      "REC",
+      "TGTS",
+      "YDS",
+      "AVG",
+      "TD"
+    ],
+    "rows": [
+      {
+        "name": "2026",
+        "values": [
+          "36",
+          "44",
+          "427",
+          "11.9",
+          "2"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "192",
+          "253",
+          "2,224",
+          "11.6",
+          "16"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-22T18:00:00.000+00:00",
+      "opponent": "ARI",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "34-7",
+      "stats": {
+        "REC": "6",
+        "TGTS": "6",
+        "YDS": "53",
+        "TD": "0"
+      }
+    },
+    {
+      "date": "2026-11-15T18:00:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "@",
+      "result": "W",
+      "score": "35-13",
+      "stats": {
+        "REC": "5",
+        "TGTS": "6",
+        "YDS": "82",
+        "TD": "0"
+      }
+    },
+    {
+      "date": "2026-11-08T18:00:00.000+00:00",
+      "opponent": "NYJ",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "35-12",
+      "stats": {
+        "REC": "5",
+        "TGTS": "7",
+        "YDS": "49",
+        "TD": "0"
+      }
+    },
+    {
+      "date": "2026-11-01T21:25:00.000+00:00",
+      "opponent": "DEN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "28-24",
+      "stats": {
+        "REC": "7",
+        "TGTS": "8",
+        "YDS": "53",
+        "TD": "1"
+      }
+    },
+    {
+      "date": "2026-10-04T20:25:00.000+00:00",
+      "opponent": "LV",
+      "at_vs": "@",
+      "result": "W",
+      "score": "30-27",
+      "stats": {
+        "REC": "0",
+        "TGTS": "0",
+        "YDS": "0",
+        "TD": "0"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Rashee+Rice+NFL+highlights",
+    "videos": [
+      {
+        "id": "Igj95Z3Qr1c",
+        "title": "Rashee Rice Top Plays of the 2023 Regular Season | Kansas City Chiefs"
+      },
+      {
+        "id": "AtAhU9w_MKg",
+        "title": "Rashee Rice Week 3 Highlights vs Dolphins | Every Target and Catch"
+      },
+      {
+        "id": "E23hCxEcx7c",
+        "title": "Rashee Rice 2025 Highlights | Every Target, Catch, and Run"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Chiefs WR Rashee Rice files for bankruptcy, claims he owes over $3.45M in debts",
+      "url": "https://www.espn.com/nfl/story/_/id/50391911/chiefs-rashee-rice-files-bankruptcy-cites-345m-debt"
+    },
+    {
+      "headline": "Chiefs get Rashee Rice back from injury for Broncos game",
+      "url": "https://www.espn.com/nfl/story/_/id/50329594/chiefs-get-rashee-rice-back-injury-broncos-game"
+    },
+    {
+      "headline": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50197599/chiefs-wr-rashee-rice-vs-chargers-hamstring-injury"
+    }
+  ]
+}
