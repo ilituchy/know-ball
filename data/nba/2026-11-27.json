@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-27",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "5149115",
+    "name": "Allen Graves",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5149115.png",
+    "jersey": "#22",
+    "position": "Forward",
+    "espn_url": "https://www.espn.com/nba/player/_/id/5149115/allen-graves"
+  },
+  "team": {
+    "name": "Toronto Raptors",
+    "abbreviation": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "color": "d91244"
+  },
+  "facts": {
+    "Age": 20,
+    "Height": "6' 8\"",
+    "Weight": "225 lbs",
+    "From": "Ponchatoula, LA",
+    "College": "Santa Clara",
+    "Draft": "2026: Rd 1, Pk 19 (TOR)",
+    "Experience": "Rookie"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Allen Graves (born July 28, 2006) is an American basketball player for the Toronto Raptors of the National Basketball Association (NBA). He played college basketball for the Santa Clara Broncos."
+      },
+      {
+        "heading": "Early life and high school career",
+        "text": "Graves was born on July 28, 2006, in Ponchatoula, Louisiana. He grew up playing football, but decided to commit to professional basketball as he nursed an elbow injury leading up to his tenth grade year. A growth spurt over that summer saw him grow from 6 ft 1 in (1.85 m) to 6 ft 7 in (2.01 m), resulting in him shifting from point guard to a big man role. In his sophomore year at Ponchatoula High School, Graves averaged 12 points, eight rebounds, and two assists per game as a sophomore. As a junior, Graves averaged a double-double with 20 points and 15 rebounds and led his team to a Division 1 non-select state championship title."
+      },
+      {
+        "heading": "College career",
+        "text": "After redshirting in 2024–25, Graves played all 35 games for Santa Clara in 2025–26. On February 7, 2026, he scored a season-high 30 points and 13 rebounds in a 96–92 win over Washington State. As a freshman, Graves averaged 11.8 points and led the team with 6.5 rebounds per game. He also tallied a total of 67 steals, tied for the most among freshmen in D-I with Tounde Yessoufou and the most by a freshman in program history. Graves was named the WCC's Freshman of the Year and Sixth Man of the Year. On April 7, 2026, Graves declared for the 2026 NBA draft."
+      },
+      {
+        "heading": "Lately",
+        "text": "On June 23, 2026, Graves was selected with the 19th overall pick by the Toronto Raptors in the 2026 NBA draft. Appearing in all of the Raptors first 15 games, he played his first extended game against the Washington Wizards on November 18, recording 9 points, 4 rebounds and a block. In his first career start on November 20 against the Detroit Pistons, Graves had 20 points, 10 rebounds, and 3 steals—all career highs—for a 105–102 win."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Graves' hobby since childhood is reading books, and he has an Instagram page where he posts Bible scripture videos."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Allen_Graves",
+    "title": "Allen Graves"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "17",
+          "16.9",
+          "5.6",
+          "3.2",
+          "0.8",
+          "44.7",
+          "31.7"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "17",
+          "16.9",
+          "5.6",
+          "3.2",
+          "0.8",
+          "44.7",
+          "31.7"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-24T00:30:00.000+00:00",
+      "opponent": "MIL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "116-111",
+      "stats": {
+        "MIN": "31",
+        "PTS": "7",
+        "REB": "2",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-21T00:30:00.000+00:00",
+      "opponent": "DET",
+      "at_vs": "@",
+      "result": "W",
+      "score": "105-102",
+      "stats": {
+        "MIN": "33",
+        "PTS": "20",
+        "REB": "10",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-19T00:30:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "103-99",
+      "stats": {
+        "MIN": "31",
+        "PTS": "9",
+        "REB": "4",
+        "AST": "0"
+      }
+    },
+    {
+      "date": "2026-11-18T00:30:00.000+00:00",
+      "opponent": "NY",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "111-102",
+      "stats": {
+        "MIN": "13",
+        "PTS": "3",
+        "REB": "2",
+        "AST": "1"
+      }
+    },
+    {
+      "date": "2026-11-15T23:00:00.000+00:00",
+      "opponent": "NY",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "112-108 OT",
+      "stats": {
+        "MIN": "16",
+        "PTS": "2",
+        "REB": "5",
+        "AST": "3"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Allen+Graves+NBA+highlights",
+    "videos": [
+      {
+        "id": "OQRBZi7aWcY",
+        "title": "Allen Graves BALLED OUT with 22 PTS & 13 REB In Vegas Summer League Debut | July 10, 2026"
+      },
+      {
+        "id": "_Ft0E82YZLs",
+        "title": "Allen Graves - 11 Points, 6 Rebounds, 4 Assists vs Timberwolves - 2026-27 Regular Season"
+      },
+      {
+        "id": "EJ4EXGeTPg8",
+        "title": "Allen Graves 20 pts 10 rebs vs Pistons 26/27 season"
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Allen Graves gets the and-1 to fall",
+      "url": "https://www.espn.com/video/clip/_/id/50283602/allen-graves-gets-1-fall"
+    },
+    {
+      "headline": "Allen Graves throws down big dunk vs. Detroit Pistons",
+      "url": "https://www.espn.com/video/clip/_/id/50198750/allen-graves-throws-big-dunk-vs-detroit-pistons"
+    },
+    {
+      "headline": "First-round pick Graves scores 23 as Raptors top Heat",
+      "url": "http://www.espn.com/nba-summer-league/recap/_/gameId/401881878/league/nba-summer-las-vegas"
+    }
+  ]
+}
