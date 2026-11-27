@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-28",
+  "sport": "nfl",
+  "league": "NFL",
+  "player": {
+    "id": "4612077",
+    "name": "Bryce Cabeldue",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4612077.png",
+    "jersey": "#77",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4612077/bryce-cabeldue"
+  },
+  "team": {
+    "name": "Las Vegas Raiders",
+    "abbreviation": "LV",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "color": "000000"
+  },
+  "facts": {
+    "Age": 25,
+    "Height": "6' 4\"",
+    "Weight": "308 lbs",
+    "From": "Clovis, NM",
+    "College": "Kansas",
+    "Draft": "2025: Rd 6, Pk 192 (SEA)",
+    "Experience": "2nd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Bryce Cabeldue (born September 4, 2001) is an American professional football guard for the Las Vegas Raiders of the National Football League (NFL). He played college football for the Kansas Jayhawks and was selected by the Seattle Seahawks in the sixth round of the 2025 NFL draft."
+      },
+      {
+        "heading": "Early life",
+        "text": "Cabeldue, one of four children, was born on September 4, 2001, and grew up in Clovis, New Mexico. He started playing football at age 10 and continued playing at Clovis High School, where he competed in three sports. A defensive end and offensive tackle, he was named first-team all-state as a senior while helping his team to the district championship, and Cabeldue also won all-district honors in baseball and basketball as well. He was a three-star recruit, the third-best recruit in the state of New Mexico and the 187th-best offensive tackle recruit. He committed to play college football for the Kansas Jayhawks, the lone Power Five team to give him an offer."
+      },
+      {
+        "heading": "College career",
+        "text": "Cabeldue began playing for Kansas in 2020. He appeared in four games, two as a starter, during the 2020 season, then started all 12 games at right tackle in 2021. He then started all 13 games in 2022, and started 11 games in 2023, missing two due to injury. He returned for his senior season in 2024 and moved to left tackle. He started all 12 games in 2024, being selected honorable mention All-Big 12 Conference, and accepted an invite to the 2025 East–West Shrine Bowl following the season. In his collegiate career, Cabeldue appeared in 52 games, 50 as a starter."
+      },
+      {
+        "heading": "Lately",
+        "text": "Cabeldue was selected by the Seattle Seahawks with the 192nd overall pick in the sixth round of the 2025 NFL draft. He made eight appearances for the Seahawks during his rookie campaign. On January 23, 2026, Cabeldue was placed on injured reserve due to a knee injury. He was waived by the Seahawks on September 9. On September 10, 2026, Cabeldue was claimed off of waivers by the Las Vegas Raiders."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Bryce_Cabeldue",
+    "title": "Bryce Cabeldue"
+  },
+  "stats": {
+    "labels": [],
+    "rows": []
+  },
+  "recent_games": [],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Bryce+Cabeldue+NFL+highlights",
+    "videos": [
+      {
+        "id": "queVjlR6mL4",
+        "title": "(OL) Bryce Cabeldue Highlights | 2025 NFL Draft - Seattle Seahawks"
+      },
+      {
+        "id": "PSFOabFbE_0",
+        "title": "Bryce Cabeldue Tackle Highlights"
+      },
+      {
+        "id": "RIZuUJlvrAg",
+        "title": "Seahawks Select Kansas Guard Bryce Cabeldue With Pick No  192 In 2025 NFL Draft"
+      }
+    ]
+  },
+  "news": []
+}

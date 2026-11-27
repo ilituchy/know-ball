@@ -1,182 +1,179 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "sport": "nfl",
   "league": "NFL",
   "player": {
-    "id": "3843843",
-    "name": "Arden Key",
-    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3843843.png",
-    "jersey": "#98",
-    "position": "Defensive End",
-    "espn_url": "https://www.espn.com/nfl/player/_/id/3843843/arden-key"
+    "id": "4428331",
+    "name": "Rashee Rice",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428331.png",
+    "jersey": "#4",
+    "position": "Wide Receiver",
+    "espn_url": "https://www.espn.com/nfl/player/_/id/4428331/rashee-rice"
   },
   "team": {
-    "name": "Indianapolis Colts",
-    "abbreviation": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "color": "003b75"
+    "name": "Kansas City Chiefs",
+    "abbreviation": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "color": "e31837"
   },
   "facts": {
-    "Age": 30,
-    "Height": "6' 5\"",
-    "Weight": "240 lbs",
-    "From": "Atlanta, GA",
-    "College": "LSU",
-    "Draft": "2018: Rd 3, Pk 87 (OAK)",
-    "Experience": "9th Season"
+    "Age": 26,
+    "Height": "6' 1\"",
+    "Weight": "204 lbs",
+    "From": "North Richland Hills, TX",
+    "College": "SMU",
+    "Draft": "2023: Rd 2, Pk 55 (KC)",
+    "Experience": "4th Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Arden Key Jr. (born May 3, 1996) is an American professional football linebacker for the Indianapolis Colts of the National Football League (NFL). He played college football for the LSU Tigers, and was selected by the Oakland Raiders in the third round of the 2018 NFL draft."
+        "text": "Rashee Marquan Rice (born April 22, 2000) is an American professional football wide receiver for the Kansas City Chiefs of the National Football League (NFL). He played college football for the Southern Methodist University Mustangs. He was selected by the Chiefs in the second round of the 2023 NFL draft and won Super Bowl LVIII as a rookie. Rice also set the NFL record for the most postseason receptions by a rookie, hauling in 26 passes during the Chiefs' Super Bowl run in the 2023–24 playoffs, surpassing Ja'Marr Chase's 25 catches from the 2021–22 playoffs."
       },
       {
         "heading": "Early life",
-        "text": "Key attended Hapeville Charter Career Academy in Union City, Georgia. He recorded 15.5 sacks as a senior, eight as a junior and 12 as a sophomore. He committed to Louisiana State University (LSU) to play college football. Regarded as a four-star recruit by ESPN, Key was ranked as the No. 6 defensive end prospect in the class of 2015."
+        "text": "Rice was born in Philadelphia, Pennsylvania, but grew up in North Richland Hills, Texas, and attended Richland High School. As a junior, he caught 72 passes for 1,386 yards and 19 touchdowns and was named first team all-district. Rice was rated a three-star recruit and committed to play college football at Southern Methodist University (SMU) entering his senior year. Constantly double teamed his senior season, Rice finished his final high school season with a modest 51 receptions for 841 yards and five touchdowns."
       },
       {
         "heading": "College career",
-        "text": "As a true freshman at LSU in 2015, Key played in 12 games and started the final nine. He recorded 41 tackles and five sacks and was named a freshman All-American. As a sophomore in 2016, he set a single-season school record by recording 12 sacks. He earned first-team All-Southeastern Conference honors from the Associated Press. As a junior in 2017, Key was limited to 8 games due to injury, but finished with 33 tackles, 4 sacks, and a forced fumble. On January 4, 2018, Key officially announced that he would be entering the 2018 NFL draft."
+        "text": "Rice played in ten games as a freshman and had 25 receptions for 403 yards and one touchdown. He became a starter during his sophomore season and caught 48 passes for 683 yards and five touchdowns. Rice had 64 receptions for 670 yards and nine touchdowns and was named honorable mention All-American Athletic Conference (AAC) as a junior. In the 2022 season, he had 96 receptions for 1,355 receiving yards and ten receiving touchdowns. He had six games on the year going over 100 receiving yards."
       },
       {
         "heading": "Lately",
-        "text": "On July 30, 2024, Key was suspended 6 games for violating the NFL's policy against performance–enhancing drugs. However, Key successfully appealed the ban, and his suspension was overturned on August 17. He played 16 games during the 2024 season, only missing the last game due to injury. He finished with a career high of 42 tackles, 6.5 sacks, 18 pressures, and a pass deflection. On March 12, 2026, Key signed with the Indianapolis Colts on a two-year, $20 million contract with $11 million guaranteed."
+        "text": "On August 27, 2025, the NFL announced Rice would be suspended for the first six games of the 2025 season for his criminal convictions. The NFL initially proposed a suspension of ten games or more, but there was no precedent for a suspension of this length, and the agreement for a six-game suspension was reached after pushback from Rice and the NFL Players Association. According to the NFL, the judge allowed him to choose when to serve his sentence, but it remained unclear when this would occur."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Arden_Key",
-    "title": "Arden Key"
+    "url": "https://en.wikipedia.org/wiki/Rashee_Rice",
+    "title": "Rashee Rice"
   },
   "stats": {
     "labels": [
-      "TOT",
-      "SOLO",
-      "SACK",
-      "FF",
-      "INT",
-      "PD"
+      "REC",
+      "TGTS",
+      "YDS",
+      "AVG",
+      "TD"
     ],
     "rows": [
       {
         "name": "2026",
         "values": [
-          "13",
-          "7",
-          "0.5",
-          "1",
-          "0",
-          "0"
+          "36",
+          "44",
+          "427",
+          "11.9",
+          "2"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "205",
-          "118",
-          "31",
-          "5",
-          "0",
-          "8"
+          "192",
+          "253",
+          "2,224",
+          "11.6",
+          "16"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-11-20T01:15:00.000+00:00",
-      "opponent": "HOU",
-      "at_vs": "@",
-      "result": "L",
-      "score": "26-3",
+      "date": "2026-11-22T18:00:00.000+00:00",
+      "opponent": "ARI",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "34-7",
       "stats": {
-        "TOT": "1",
-        "SOLO": "1",
-        "SACK": "0",
-        "INT": "0"
+        "REC": "6",
+        "TGTS": "6",
+        "YDS": "53",
+        "TD": "0"
       }
     },
     {
       "date": "2026-11-15T18:00:00.000+00:00",
-      "opponent": "MIA",
-      "at_vs": "vs",
+      "opponent": "ATL",
+      "at_vs": "@",
       "result": "W",
-      "score": "24-22",
+      "score": "35-13",
       "stats": {
-        "TOT": "4",
-        "SOLO": "3",
-        "SACK": "0",
-        "INT": "0"
+        "REC": "5",
+        "TGTS": "6",
+        "YDS": "82",
+        "TD": "0"
       }
     },
     {
-      "date": "2026-10-04T13:30:00.000+00:00",
-      "opponent": "WSH",
+      "date": "2026-11-08T18:00:00.000+00:00",
+      "opponent": "NYJ",
       "at_vs": "vs",
       "result": "W",
-      "score": "30-13",
+      "score": "35-12",
       "stats": {
-        "TOT": "2",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
+        "REC": "5",
+        "TGTS": "7",
+        "YDS": "49",
+        "TD": "0"
       }
     },
     {
-      "date": "2026-09-27T17:00:00.000+00:00",
-      "opponent": "HOU",
-      "at_vs": "vs",
-      "result": "W",
-      "score": "19-17",
-      "stats": {
-        "TOT": "0",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
-      }
-    },
-    {
-      "date": "2026-09-21T00:20:00.000+00:00",
-      "opponent": "KC",
+      "date": "2026-11-01T21:25:00.000+00:00",
+      "opponent": "DEN",
       "at_vs": "@",
       "result": "L",
-      "score": "33-30 OT",
+      "score": "28-24",
       "stats": {
-        "TOT": "1",
-        "SOLO": "0",
-        "SACK": "0",
-        "INT": "0"
+        "REC": "7",
+        "TGTS": "8",
+        "YDS": "53",
+        "TD": "1"
+      }
+    },
+    {
+      "date": "2026-10-04T20:25:00.000+00:00",
+      "opponent": "LV",
+      "at_vs": "@",
+      "result": "W",
+      "score": "30-27",
+      "stats": {
+        "REC": "0",
+        "TGTS": "0",
+        "YDS": "0",
+        "TD": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Arden+Key+NFL+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Rashee+Rice+NFL+highlights",
     "videos": [
       {
-        "id": "2A_2erhk2jk",
-        "title": "Arden Key Highlights | 2025 - 2026 NFL Season - Colts"
+        "id": "Igj95Z3Qr1c",
+        "title": "Rashee Rice Top Plays of the 2023 Regular Season | Kansas City Chiefs"
       },
       {
-        "id": "qsN2XxugSgI",
-        "title": "Arden Key & Anton Harrison FIGHT After Play 😳 Jaguars vs Titans 2025 Highlights"
+        "id": "AtAhU9w_MKg",
+        "title": "Rashee Rice Week 3 Highlights vs Dolphins | Every Target and Catch"
       },
       {
-        "id": "98hUVPk6q9U",
-        "title": "Arden Key Highlights 🔥| Welcome to the Colts"
+        "id": "E23hCxEcx7c",
+        "title": "Rashee Rice 2025 Highlights | Every Target, Catch, and Run"
       }
     ]
   },
   "news": [
     {
-      "headline": "Colts place DE Arden Key on IR with hamstring injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50148833/colts-place-de-arden-key-ir-hamstring-injury"
+      "headline": "Chiefs WR Rashee Rice files for bankruptcy, claims he owes over $3.45M in debts",
+      "url": "https://www.espn.com/nfl/story/_/id/50391911/chiefs-rashee-rice-files-bankruptcy-cites-345m-debt"
     },
     {
-      "headline": "Jeffery Simmons, Calvin Ridley among Titans starters ruled out",
-      "url": "https://www.espn.com/nfl/story/_/id/46794264/jeffery-simmons-calvin-ridley-titans-starters-ruled-out"
+      "headline": "Chiefs get Rashee Rice back from injury for Broncos game",
+      "url": "https://www.espn.com/nfl/story/_/id/50329594/chiefs-get-rashee-rice-back-injury-broncos-game"
     },
     {
-      "headline": "Titans' Calvin Ridley (hamstring), Arden Key (quad) out vs. Pats",
-      "url": "https://www.espn.com/nfl/story/_/id/46627988/titans-calvin-ridley-hamstring-arden-key-quad-vs-pats"
+      "headline": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50197599/chiefs-wr-rashee-rice-vs-chargers-hamstring-injury"
     }
   ]
 }
