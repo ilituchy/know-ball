@@ -1,163 +1,165 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "sport": "mlb",
   "league": "MLB",
   "player": {
-    "id": "35876",
-    "name": "Brennan Bernardino",
-    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/35876.png",
-    "jersey": "#83",
-    "position": "Relief Pitcher",
-    "espn_url": "https://www.espn.com/mlb/player/_/id/35876"
+    "id": "5073992",
+    "name": "Javier Sanoja",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/5073992.png",
+    "jersey": "#8",
+    "position": "Third Baseman",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/5073992"
   },
   "team": {
-    "name": "Colorado Rockies",
-    "abbreviation": "COL",
-    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
-    "color": "33006f"
+    "name": "Miami Marlins",
+    "abbreviation": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+    "color": "00a3e0"
   },
   "facts": {
-    "Age": 34,
-    "Height": "6' 4\"",
-    "Weight": "216 lbs",
-    "From": "Valencia, CA",
+    "Age": 24,
+    "Height": "5' 7\"",
+    "Weight": "150 lbs",
+    "From": "Maracay, Venezuela",
     "College": null,
-    "Draft": "2014: Rd 26, Pk 785 (CIN)",
-    "Experience": "5th Season"
+    "Draft": null,
+    "Experience": "3rd Season"
   },
   "background": {
     "sections": [
       {
         "heading": "The short version",
-        "text": "Brennan Allen Bernardino (born January 15, 1992) is an American professional baseball pitcher for the Colorado Rockies of Major League Baseball (MLB). He has previously played in MLB for the Seattle Mariners and Boston Red Sox."
+        "text": "Javier Ernesto Sanoja (born September 3, 2002) is a Venezuelan professional baseball utility player for the Miami Marlins of Major League Baseball (MLB). He made his MLB debut in 2024."
       },
       {
         "heading": "Lately",
-        "text": "Bernardino made 55 appearances (three starts) for the Red Sox during the 2025 campaign, compiling a 4-3 record and 3.14 ERA with 43 strikeouts and one save across 51+2⁄3 innings pitched. On November 18, 2025, the Red Sox traded Bernardino to the Colorado Rockies in exchange for outfielder Braiden Ward."
-      },
-      {
-        "heading": "Personal life",
-        "text": "Bernardino is of Samoan and Mexican descent. He holds dual American and Mexican citizenship. He is married to LaCandace Dandridge and they have a son named Jaylen. The couple was set to get married on November 28, 2020, in Gilbert, Arizona but the wedding was postponed to a later date due to COVID-19 Pandemic.  After previously maintaining an apartment in San Diego, they decided to stay in Boston during the 2023–24 offseason. Bernardino's sister Lelani played softball at the University of Memphis and earned 2009 All-Conference USA Freshman Team and 2010 Second Team All-Conference USA honors."
+        "text": "On April 20, 2025, Sanoja hit his first career home run, a three-run shot off of Orion Kerkering of the Philadelphia Phillies. On August 27, Sanoja pitched two innings of a blowout loss to the Atlanta Braves; in the appearance, he logged his first career strikeout against Braves infielder Vidal Bruján. In 118 total appearances for Miami, he slashed .243/.287.396 with six home runs, 40 RBI, and six stolen bases. On November 2, Sanoja was awarded his first career Gold Glove Award for the National League utility position. On March 17, 2026, in the Championship Game of the 2026 World Baseball Classic, Sanoja entered as a pinch-runner in the ninth inning and stole second base."
       }
     ],
-    "url": "https://en.wikipedia.org/wiki/Brennan_Bernardino",
-    "title": "Brennan Bernardino"
+    "url": "https://en.wikipedia.org/wiki/Javier_Sanoja",
+    "title": "Javier Sanoja"
   },
   "stats": {
     "labels": [
       "GP",
-      "GS",
-      "IP",
-      "ERA",
+      "AB",
+      "H",
+      "AVG",
+      "HR",
+      "RBI",
       "BB",
-      "K"
+      "SO"
     ],
     "rows": [
       {
         "name": "2026",
         "values": [
-          "74",
-          "2",
-          "64.0",
-          "2.81",
-          "15",
-          "49"
+          "144",
+          "461",
+          "136",
+          ".295",
+          "11",
+          "69",
+          "27",
+          "39"
         ]
       },
       {
         "name": "Career",
         "values": [
-          "243",
-          "14",
-          "219.2",
-          "3.28",
-          "83",
-          "206"
+          "277",
+          "809",
+          "220",
+          ".272",
+          "17",
+          "109",
+          "47",
+          "84"
         ]
       }
     ]
   },
   "recent_games": [
     {
-      "date": "2026-09-26T23:10:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "@",
-      "result": "W",
-      "score": "9-6",
-      "stats": {
-        "IP": "1.1",
-        "H": "2",
-        "ER": "0",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-09-25T23:40:00.000+00:00",
-      "opponent": "CHW",
-      "at_vs": "@",
-      "result": "L",
-      "score": "6-1",
-      "stats": {
-        "IP": "0.1",
-        "H": "0",
-        "ER": "0",
-        "K": "0"
-      }
-    },
-    {
-      "date": "2026-09-20T00:10:00.000+00:00",
-      "opponent": "SEA",
+      "date": "2026-09-27T19:10:00.000+00:00",
+      "opponent": "ATL",
       "at_vs": "vs",
       "result": "W",
       "score": "5-3",
       "stats": {
-        "IP": "1.0",
-        "H": "1",
-        "ER": "0",
-        "K": "2"
-      }
-    },
-    {
-      "date": "2026-09-19T00:10:00.000+00:00",
-      "opponent": "SEA",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "5-4",
-      "stats": {
-        "IP": "1.0",
-        "H": "1",
-        "ER": "1",
-        "K": "1"
-      }
-    },
-    {
-      "date": "2026-09-17T19:10:00.000+00:00",
-      "opponent": "SD",
-      "at_vs": "vs",
-      "result": "L",
-      "score": "9-2",
-      "stats": {
-        "IP": "1.0",
+        "AB": "4",
         "H": "0",
-        "ER": "0",
-        "K": "2"
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-26T20:10:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "8-3",
+      "stats": {
+        "AB": "4",
+        "H": "2",
+        "HR": "1",
+        "RBI": "1"
+      }
+    },
+    {
+      "date": "2026-09-25T23:10:00.000+00:00",
+      "opponent": "ATL",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "3-0",
+      "stats": {
+        "AB": "4",
+        "H": "2",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-24T18:20:00.000+00:00",
+      "opponent": "CHC",
+      "at_vs": "@",
+      "result": "L",
+      "score": "2-1",
+      "stats": {
+        "AB": "4",
+        "H": "1",
+        "HR": "0",
+        "RBI": "0"
+      }
+    },
+    {
+      "date": "2026-09-23T23:40:00.000+00:00",
+      "opponent": "CHC",
+      "at_vs": "@",
+      "result": "W",
+      "score": "3-2",
+      "stats": {
+        "AB": "4",
+        "H": "2",
+        "HR": "0",
+        "RBI": "0"
       }
     }
   ],
   "highlights": {
-    "search_url": "https://www.youtube.com/results?search_query=Brennan+Bernardino+MLB+highlights",
+    "search_url": "https://www.youtube.com/results?search_query=Javier+Sanoja+MLB+highlights",
     "videos": [
       {
-        "id": "x-QhjHCLbvg",
-        "title": "Brennan Bernardino 2026 MLB Highlights!"
+        "id": "TwC6OminbVs",
+        "title": "Javier Sanoja || 2026 Miami Marlins Highlights"
       },
       {
-        "id": "_nSjbNI5Ppc",
-        "title": "Brennan Bernardino 2025 MLB Highlights!"
+        "id": "4qkuWnXMDNg",
+        "title": "Javier Sanoja’s Top Defensive Gems from His Gold Glove Season"
       },
       {
-        "id": "IZA0YELMP6s",
-        "title": "BRENNAN BERNARDINO, MEXICO VS Great Britain 06 MARZO 2026"
+        "id": "QrlmukZvF_c",
+        "title": "Javier Sanoja || 2025 Miami Marlins Highlights"
       }
     ]
   },

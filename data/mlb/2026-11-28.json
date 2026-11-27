@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-28",
+  "sport": "mlb",
+  "league": "MLB",
+  "player": {
+    "id": "4917796",
+    "name": "Cristian Mena",
+    "headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/4917796.png",
+    "jersey": "#64",
+    "position": "Relief Pitcher",
+    "espn_url": "https://www.espn.com/mlb/player/_/id/4917796"
+  },
+  "team": {
+    "name": "Arizona Diamondbacks",
+    "abbreviation": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
+    "color": "aa182c"
+  },
+  "facts": {
+    "Age": 23,
+    "Height": "6' 2\"",
+    "Weight": "215 lbs",
+    "From": "San Francisco de Macoris, Dominican Republic",
+    "College": null,
+    "Draft": null,
+    "Experience": "2nd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Cristian José Mena (born December 21, 2002) is a Dominican professional baseball pitcher for the Arizona Diamondbacks of Major League Baseball (MLB). He made his MLB debut in 2024."
+      },
+      {
+        "heading": "Lately",
+        "text": "Mena was optioned to Triple-A Reno to begin the 2025 season. He was recalled to the Diamondbacks on June 1, 2025. In three appearances for Arizona, Mena posted a 1–0 record and 1.35 ERA with eight strikeouts across 6+2⁄3 innings pitched. He was placed on the injured list on June 7, due to a teres major strain. Mena was transferred to the 60-day injured list on June 10. On March 25, 2026, Mena was placed on the 60-day injured list due to a right shoulder strain. On June 2, it was announced that Mena would undergo shoulder surgery, likely ending his season."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Cristian_Mena",
+    "title": "Cristian Mena"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "GS",
+      "IP",
+      "ERA",
+      "BB",
+      "K"
+    ],
+    "rows": [
+      {
+        "name": "2025",
+        "values": [
+          "3",
+          "0",
+          "6.2",
+          "1.35",
+          "3",
+          "8"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "4",
+          "1",
+          "9.2",
+          "4.66",
+          "6",
+          "10"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2025-06-06T23:10:00.000+00:00",
+      "opponent": "CIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "4-3 F/10",
+      "stats": {
+        "IP": "1.0",
+        "H": "2",
+        "ER": "1",
+        "K": "1"
+      }
+    },
+    {
+      "date": "2025-06-01T20:10:00.000+00:00",
+      "opponent": "WSH",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "3-1",
+      "stats": {
+        "IP": "2.0",
+        "H": "1",
+        "ER": "0",
+        "K": "2"
+      }
+    },
+    {
+      "date": "2025-05-10T01:40:00.000+00:00",
+      "opponent": "LAD",
+      "at_vs": "vs",
+      "result": "L",
+      "score": "14-11",
+      "stats": {
+        "IP": "3.2",
+        "H": "0",
+        "ER": "0",
+        "K": "5"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Cristian+Mena+MLB+highlights",
+    "videos": [
+      {
+        "id": "kFWdZ-luvTA",
+        "title": "All of Diamondbacks Prospect Cristian Mena's Career Strikeouts"
+      },
+      {
+        "id": "R-SV-xZo994",
+        "title": "Cristian Mena 2023 Highlights!"
+      },
+      {
+        "id": "2Cf0ekcBFq0",
+        "title": "Cristian Mena•Center back/ Midfielder • highlights "
+      }
+    ]
+  },
+  "news": [
+    {
+      "headline": "Diamondbacks recall Cristian Mena for MLB debut vs. Dodgers",
+      "url": "https://www.espn.com/mlb/story/_/id/40491025/diamondbacks-recall-cristian-mena-mlb-debut-vs-dodgers"
+    },
+    {
+      "headline": "Chicago White Sox deal away Gregory Santos, Cristian Mena",
+      "url": "https://www.espn.com/mlb/story/_/id/39452673/chicago-white-sox-deal-away-gregory-santos-cristian-mena"
+    }
+  ]
+}
