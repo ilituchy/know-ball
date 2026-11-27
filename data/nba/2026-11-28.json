@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-28",
+  "sport": "nba",
+  "league": "NBA",
+  "player": {
+    "id": "4433083",
+    "name": "Cam Spencer",
+    "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433083.png",
+    "jersey": "#24",
+    "position": "Guard",
+    "espn_url": "https://www.espn.com/nba/player/_/id/4433083/cam-spencer"
+  },
+  "team": {
+    "name": "Memphis Grizzlies",
+    "abbreviation": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "color": "5d76a9"
+  },
+  "facts": {
+    "Age": 26,
+    "Height": "6' 3\"",
+    "Weight": "205 lbs",
+    "From": "Davidsonville, MD",
+    "College": "UConn",
+    "Draft": "2024: Rd 2, Pk 53 (DET)",
+    "Experience": "3rd Season"
+  },
+  "background": {
+    "sections": [
+      {
+        "heading": "The short version",
+        "text": "Cameron Spencer (born April 6, 2000) is an American professional basketball player for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for the Loyola Greyhounds, the Rutgers Scarlet Knights, and the UConn Huskies."
+      },
+      {
+        "heading": "Early life",
+        "text": "Spencer grew up in Davidsonville, Maryland, and attended the Boys Latin School of Maryland. He was named the Maryland Interscholastic Athletic Association (MIAA) Player of the Year as a senior after he averaged 25 points, seven rebounds, and 4.5 assists per game."
+      },
+      {
+        "heading": "College career",
+        "text": "Spencer began his college basketball career with the Loyola Greyhounds. He averaged ten points, 3.1 assists, and 3.4 rebounds in 23 games before suffering a hip injury and was named to the Patriot League All-Freshman team. Spencer missed most of his sophomore season while recovering from his hip injury. He returned for the final five games of the season and averaged 10.2 points. Spencer was named first-team All-Patriot League as a junior after averaging 18.9 points, 4.8 rebounds, 3.2 assists, and 2.3 steals per game. Following the end of the season, Spencer entered the NCAA transfer portal. Spencer ultimately transferred to Rutgers after also receiving interest from Minnesota and NC State."
+      },
+      {
+        "heading": "Lately",
+        "text": "On June 30, 2025, Spencer re-signed with the Grizzlies on a two-year, $4.5 million contract; the deal was later restructured to a four-year, $10.5 million contract on July 16. On December 15, 2025, Spencer had his best offensive outing with 27 points and 6 assists on 7/10 shooting from behind the arc, rallying the Grizzlies to an 121-103 blowout win over the Los Angeles Clippers."
+      },
+      {
+        "heading": "Personal life",
+        "text": "Spencer's older brother, Pat, was a four-time All-American and won the Tewaaraton Award as a lacrosse player at Loyola before playing a season of college basketball at Northwestern. Pat now plays basketball professionally for the Phoenix Suns of the National Basketball Association."
+      }
+    ],
+    "url": "https://en.wikipedia.org/wiki/Cam_Spencer",
+    "title": "Cam Spencer"
+  },
+  "stats": {
+    "labels": [
+      "GP",
+      "MIN",
+      "PTS",
+      "REB",
+      "AST",
+      "FG%",
+      "3P%"
+    ],
+    "rows": [
+      {
+        "name": "2026-27",
+        "values": [
+          "19",
+          "22.9",
+          "12.1",
+          "2.8",
+          "5.6",
+          "56.9",
+          "54.3"
+        ]
+      },
+      {
+        "name": "Career",
+        "values": [
+          "116",
+          "20.7",
+          "9.8",
+          "2.3",
+          "4.7",
+          "48.4",
+          "45.4"
+        ]
+      }
+    ]
+  },
+  "recent_games": [
+    {
+      "date": "2026-11-26T01:00:00.000+00:00",
+      "opponent": "LAC",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "115-97",
+      "stats": {
+        "MIN": "24",
+        "PTS": "16",
+        "REB": "0",
+        "AST": "4"
+      }
+    },
+    {
+      "date": "2026-11-24T00:00:00.000+00:00",
+      "opponent": "CHA",
+      "at_vs": "@",
+      "result": "W",
+      "score": "117-111",
+      "stats": {
+        "MIN": "21",
+        "PTS": "24",
+        "REB": "1",
+        "AST": "5"
+      }
+    },
+    {
+      "date": "2026-11-22T01:00:00.000+00:00",
+      "opponent": "MIN",
+      "at_vs": "@",
+      "result": "L",
+      "score": "104-95",
+      "stats": {
+        "MIN": "30",
+        "PTS": "9",
+        "REB": "5",
+        "AST": "5"
+      }
+    },
+    {
+      "date": "2026-11-20T01:00:00.000+00:00",
+      "opponent": "GS",
+      "at_vs": "vs",
+      "result": "W",
+      "score": "126-98",
+      "stats": {
+        "MIN": "27",
+        "PTS": "9",
+        "REB": "2",
+        "AST": "11"
+      }
+    },
+    {
+      "date": "2026-11-19T00:00:00.000+00:00",
+      "opponent": "CLE",
+      "at_vs": "@",
+      "result": "W",
+      "score": "124-121",
+      "stats": {
+        "MIN": "29",
+        "PTS": "26",
+        "REB": "1",
+        "AST": "7"
+      }
+    }
+  ],
+  "highlights": {
+    "search_url": "https://www.youtube.com/results?search_query=Cam+Spencer+NBA+highlights",
+    "videos": []
+  },
+  "news": [
+    {
+      "headline": "Cam Spencer somehow gets the and-1 to fall",
+      "url": "https://www.espn.com/video/clip/_/id/50578370/cam-spencer-somehow-gets-1-fall"
+    },
+    {
+      "headline": "Cam Spencer fights off defender for and-1",
+      "url": "https://www.espn.com/video/clip/_/id/50558084/cam-spencer-fights-defender-1"
+    },
+    {
+      "headline": "Thursday's fantasy hoops adds, NBA bets to make: Spencer, Champagnie worth playing",
+      "url": "https://www.espn.com/fantasy/basketball/story/_/id/50446164/fantasy-basketball-tips-nba-betting-picks-today"
+    }
+  ]
+}
